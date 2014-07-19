@@ -483,8 +483,8 @@
         <item>Разрешить</item>
     </string-array>
     <string-array name="touch_keystoke_lighting_entries">
-        <item>1.5S</item>
-        <item>6S</item>
+        <item>1.5 сек.</item>
+        <item>6 сек.</item>
         <item>Всегда вкл.</item>
         <item>Всегда выкл.</item>
         <item>"Интервал 

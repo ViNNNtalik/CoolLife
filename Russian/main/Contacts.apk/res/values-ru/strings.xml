@@ -124,7 +124,7 @@
     <string name="meid">MEID</string>
     <string name="voicemail">Голосовая почта</string>
     <string name="unknown">Неизвестно</string>
-    <string name="private_num">Скрытый номер</string>
+    <string name="private_num">Приватный номер</string>
     <string name="payphone">Телефон-автомат</string>
     <string name="dialerKeyboardHintText">Наберите номер с клавиатуры</string>
     <string name="dialerDialpadHintText">Наберите номер, чтобы добавить вызов</string>

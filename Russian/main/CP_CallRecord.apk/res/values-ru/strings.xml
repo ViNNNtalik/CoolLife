@@ -3,7 +3,7 @@
     <string name="recent_calls_title">Журнал вызовов</string>
     <string name="calls_all">Все</string>
     <string name="calls_new">Пропущенные</string>
-    <string name="dialed_and_answered">Входящие/исходящие</string>
+    <string name="dialed_and_answered">Вх./исх.</string>
     <string name="c_g_calls_resist">Отклоненные</string>
     <string name="ok">ОК</string>
     <string name="cancel">Отмена</string>
@@ -53,7 +53,7 @@
     <string name="lot_commit">Удалить</string>
     <string name="batch_del_doing">Удаление...</string>
     <string name="hide_dialed_and_answered">Вкладка входящие/исходящие</string>
-    <string name="switch_net_settings">Выбор сети для вызова</string>
+    <string name="switch_net_settings">Управление SIM-картами</string>
     <string name="automatic_net_settings">Автовыбор: Перезванивать, используя сеть входящего вызова</string>
     <string name="manual_net_settings">Ручной выбор: Вручную выбирать сеть для вызова</string>
     <string name="card_c_net_settings">SIM1 для вызовов</string>
@@ -78,7 +78,7 @@
     <string name="hours">ч.</string>
     <string name="mins">мин.</string>
     <string name="second">сек.</string>
-    <string name="add_contact">Доабвить в контакты</string>
+    <string name="add_contact">Добавить в контакты</string>
     <string name="add_coorperation">Черный список</string>
     <string name="history_contact">Журналы</string>
     <string name="share">Поделиться</string>
@@ -115,7 +115,7 @@
     <string name="card_2_calls_resist">Отклоненные вызовы (SIM2)</string>
     <string name="card_calls_ready_dial">Набранные вызовы</string>
     <string name="card_calls_ready_pass">Отвеченные вызовы</string>
-    <string name="card_calls_not_pass">Пропущенные вызовы</string>
+    <string name="card_calls_not_pass">Пропущ.</string>
     <string name="card_calls_resist">Отклоненные вызовы</string>
     <string name="calls_temporary">Кэшированные номера</string>
     <string name="card_c_call_out">Набранные вызовы (SIM1)</string>
@@ -123,7 +123,7 @@
     <string name="card_g_call_out">Набранные вызовы (SIM2)</string>
     <string name="card_g_call_in">Отвеченные вызовы (SIM2)</string>
     <string name="card_1_call_out">Набранные вызовы (SIM1)</string>
-    <string name="card_1_call_in">Отвеченные вызовы(SIM1)</string>
+    <string name="card_1_call_in">Отвеченные вызовы (SIM1)</string>
     <string name="card_2_call_out">Набранные вызовы (SIM2)</string>
     <string name="card_2_call_in">Отвеченные вызовы (SIM2)</string>
     <string name="card_call_out">Набранные вызовы</string>

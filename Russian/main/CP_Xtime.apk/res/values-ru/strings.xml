@@ -109,7 +109,7 @@
     <string name="memory_tip_title">Информация</string>
     <string name="memory_tip_ok">ОК</string>
     <string name="memory_tip_information">Освободить место</string>
-    <string name="tip_default_repeat">Однажды</string>
+    <string name="tip_default_repeat">Один раз</string>
     <string name="load">Загрузка...</string>
     <string name="no_enough_disk_space">Недостаточно места</string>
     <string name="Unknown_ringtone">Неизвестная мелодия</string>

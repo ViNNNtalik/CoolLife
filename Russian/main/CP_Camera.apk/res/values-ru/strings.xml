@@ -317,10 +317,10 @@
     <string name="remove_sucess">Убрано из Сейфа</string>
     <string name="remove_failed">Не удалось убрать</string>
     <string name="private_mode_set">Задать как приватный</string>
-    <string name="private_mode_cancel">Задать как публичный</string>
+    <string name="private_mode_cancel">Задать как общий</string>
     <string name="set_private_sucess">Настроено как приватный</string>
     <string name="set_private_failed">Не удалось настроить</string>
-    <string name="cancel_private_sucess">Настроено как публичный</string>
+    <string name="cancel_private_sucess">Настроено как общий</string>
     <string name="cancel_private_failed">Не удалось настроить</string>
     <string name="inquire_location">Парсинг местоположения</string>
     <string name="move_picture">Переместить в</string>

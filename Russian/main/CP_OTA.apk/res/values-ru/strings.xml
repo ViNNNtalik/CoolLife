@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="COTA_SERVER_PREFIX">http://www.51coolpad.com/updsvr/ota/</string>
+    <string name="COTA_SERVER_PREFIX_INTERNAL">http://www.coolpadfuns.com:8080/updsvr/ota/</string>
+    <string name="COTA_SERVER_PREFIX_EXTERNAL">http://www.51coolpad.com/updsvr/ota/</string>
+    <string name="COTA_SERVER_PREFIX_PRETEST">http://www.coolpadfuns.com:9080/updsvr/ota/</string>
+    <string name="COTA_MANAGE_SERVER">http://www.51coolpad.com/OTA_Manager</string>
+    <string name="COTA_HISTORY_UPDTAE">刷新</string>
+    <string name="COTA_HISTORY_NO_FILE">无文件</string>
+    <string name="COTA_HISTORY_CLAER">清除</string>
+    <string name="COTA_HISTORY_UPDATE_FAILED">升级失败</string>
+    <string name="COTA_HISTORY_UPDATE_SUCCESS">升级成功</string>
+    <string name="COTA_HISTORY_INSTALL">安装升级包</string>
+    <string name="COTA_HISTORY_UPDATE_LATER">一小时后升级</string>
+    <string name="COTA_HISTORY_DOWNLOAD_COMPLETE">下载完成</string>
+    <string name="COTA_HISTORY_CANCEL_DOWNLOADING">下载过程中取消</string>
+    <string name="COTA_HISTORY_CANCLE_DOWNLOAD">取消下载</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER">一小时后下载</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER12">十二小时后下载</string>
+    <string name="COTA_HISTORY_NEW_VERSION_EXIST">检查到新版本</string>
+    <string name="COTA_HISTORY_NO_NEW_VERSION">无新版本</string>
+    <string name="COTA_HISTORY_REGISTER_SUCCESS">注册成功</string>
+    <string name="COTA_HISTORY_REGISTER_FAILED">注册失败</string>
+    <string name="COTA_HISTORY_REGISTER_START">开始注册</string>
+    <string name="COTA_HISTORY_CHECK_VERSION_BEGIN">开始检查版本</string>
+    <string name="COTA_HISTORY_DOWNLOAD_START">开始下载</string>
+    <string name="COTA_HISTORY_INSTALL_FAILED">安装升级包失败</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED">电量不足，下载失败</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_LOW_BATTERY">未勾选向后版本升级或其他原因，升级结束</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_ABSENT">SD卡不存在，升级结束</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_LOW_SPACE">SD卡空间 不足，升级结束</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_NET_BREAK">网络中断，下载结束</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_OTHER">其他原因，下载失败</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_PACHAGE_ERROR">下载结束，校验失败</string>
+    <string name="COTA_HISTORY_INSTALL_PACKAGE_ABSENT">安装包时，包不存在</string>
+    <string name="COTA_HISTORY_INSTALL_SD_ABSENT">安装包时，SD卡不存在</string>
+    <string name="COTA_HISTORY_DOWNLOAD_ALREADY">已下载：</string>
+    <string name="COTA_HISTORY_DOWNLOAD_RETRY_TIME">重试累计：n =</string>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Wireless Update</string>
+    <string name="template_user_agent">%1$s/%2$s (Linux; Android)</string>
+    <string name="dlg_btn_positive_autoupdate">Enable</string>
+    <string name="dlg_btn_negative_autoupdate">Disable</string>
+    <string name="dlg_message_autoupdate">"Auto check for update is a system update service provided by Yulong Coolpad. Once enabled, your phone can auto check for the latest system update packet, so as to get a stabler software and better experience.
+
+ After close this dialog, you still can open or close auto update by select: Settings>About phone>Auto System Update.
+
+ Prompt: Auto check for update needs to connect to the Internet, which will incur little data flow.
+"</string>
+    <string name="dlg_title_autoupdate">Auto Check for Update</string>
+    <string name="dlg_btn_positive_download">Download</string>
+    <string name="dlg_btn_backup_download">Download</string>
+    <string name="dlg_btn_negative_download">Cancel</string>
+    <string name="dlg_btn_later_download">Later</string>
+    <string name="dlg_message_download">Coolpad developers are always dedicating to improve the user experience. New system update(Ver %s) is ready for download. Please upgrade and experience it.</string>
+    <string name="big_version_message_download">"\u0009\u0009Coolpad always focuses on user experience.This update is new Android version ,which will bring you better experience.Update packet is so large that it brings flow rates on phone card network.Please use WiFi to upgrade.
+\u0009\u0009This is an important upgrade that system will auto backup data for you.
+Version no.:%s"</string>
+    <string name="dlg_message_download2">Prompt: Upgrade of the system will not affect your mobile phone data.</string>
+    <string name="dlg_message_download3">You can execute manual upgrade at “Settings->About phone->Check for Update” and normal data rates may apply to download system updates.</string>
+    <string name="dlg_title_download">Download System Update Package</string>
+    <string name="dlg_check_wifi_download">Remind me one hour later</string>
+    <string name="dlg_btn_positive_update">Ok</string>
+    <string name="dlg_btn_negative_update">Cancel</string>
+    <string name="dlg_btn_later_update">Later</string>
+    <string name="dlg_message_update">"New system update(Ver %s) is ready for use.
+
+System will immediately reboot to start update if you choose Update Now. The software updating might take several minutes. During the updating, all the functions will be unavailable, including emergency call. 
+
+Updating doesn't affect your personal data.
+It will automatically reboot after update completed.
+Do not power off during upgrade.
+"</string>
+    <string name="dlg_title_update">Update System</string>
+    <string name="toast_no_available_update">Your phone software version is the latest one.</string>
+    <string name="toast_server_not_available">Your phone software version is the latest one.</string>
+    <string name="toast_in_update">Your phone is updating now, please retry later.</string>
+    <string name="toast_connect_not_available">Please insert SIM card or enable data connection!</string>
+    <string name="toast_result_cancel_download">User canceled before download.</string>
+    <string name="toast_result_backup_fail">Data backup fail.</string>
+    <string name="toast_result_cancel_downloading">User canceled while downloading package.</string>
+    <string name="toast_result_download_fail">An error occur while downloading package, update failed.</string>
+    <string name="toast_result_update_success">Update success.</string>
+    <string name="toast_result_update_failure">The downloaded package is not correct, update failed.</string>
+    <string name="toast_result_cancel_update">User canceled before update.</string>
+    <string name="toast_result_disk_full">"The download fails due to insufficient memory in the device to save the firmware update package, It's reboot your phone and try again."</string>
+    <string name="toast_show_dialog_again">This dialog will be shown again in %s.</string>
+    <string name="toast_turnon_wifi">WIFI is disabled, please turn it on.</string>
+    <string name="toast_internet_wifi">Please make sure your WIFI is connected to Internet, and try again.</string>
+    <string name="toast_download_package">Please wait a moment, downloading system update will be started soon.</string>
+    <string name="toast_check_package">Download package complete. Please wait while verifying package.Do not power off during verifying.</string>
+    <string name="title_autoupdate">Auto Update</string>
+    <string name="title_download_mandatory">Download Mandatory Package</string>
+    <string name="title_download_optional">Download Optional Package</string>
+    <string name="title_update_mandatory">Update Mandatory Package</string>
+    <string name="title_update_optional">Update Optional Package</string>
+    <string name="title_putin_password">Please put in passwords</string>
+    <string name="login_password_hit">Please put in passwords</string>
+    <string name="password_error">Password error.</string>
+    <string name="network_error">NetWork error.</string>
+    <string name="password_is_null">The password is not available</string>
+    <string name="pkg_size">Package Size:</string>
+    <string name="pkg_mbs">M</string>
+    <string name="pkg_time">Time Remained:</string>
+    <string name="pkg_note">"Package description: 
+"</string>
+    <string name="time_hour">Hour</string>
+    <string name="time_minute">Minute</string>
+    <string name="time_second">Second</string>
+    <string name="select_server">Select the Server</string>
+    <string name="address_internal">Test Server Internal Address</string>
+    <string name="address_external">Formal Server External Address</string>
+    <string name="login_doing">Checking password</string>
+    <string name="check_doing">Getting password from server,please wait</string>
+    <string name="clear">Clear OTA preference</string>
+    <string name="function_test">OTA Function Test only for engineers</string>
+    <string name="enable">Enable OTA auto update</string>
+    <string name="disable">Disable OTA auto update</string>
+    <string name="update">Check OTA new update</string>
+    <string name="set_address">Set OTA server address</string>
+    <string name="mode_optional">Optional Mode</string>
+    <string name="mode_super">Super Mode</string>
+    <string name="mode_selection">Note：This selection is useful only on Test Server.</string>
+    <string name="mode_selection_show">Mode Selection:</string>
+    <string name="download_title">Update package</string>
+    <string name="downloading_update_package">Downloading update package</string>
+    <string name="OK">Ok</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="please_wait_while_checking">Please wait while checking...</string>
+    <string name="please_wait_while_updating">Please wait while updating.Do not power off during upgrade.</string>
+    <string name="download_progress">\u0009\u0009\u0009%1$s of %2$sMB downloaded...</string>
+    <string name="toast_remind_insert_sdcard">You need to download upgrade packs to T-Flash card. Please insert T-Flash card and retry.</string>
+    <string name="toast_sdcard_space_not_enough">Insufficient card space. Please delete some contents and retry.</string>
+    <string name="toast_sdcard_pullout">T-Flash card removed. Please re-insert.</string>
+    <string name="toast_udisk_not_larger_then_50M">Please ensure sdcard free space bigger than 80M and retry.</string>
+    <string name="toast_download_to_csche">Upgrade packs will be downloaded to phone.</string>
+    <string name="toast_download_to_sdcard">Upgrade packs will be downloaded to T-Flash card.</string>
+    <string name="toast_dataspace_not_enough">Insufficient phone space. Please insert T-Flash card and retry.</string>
+    <string name="toast_cachespace_not_enough_remind_insert_sdcard">Insufficient phone space. Please insert T-Flash card and retry.</string>
+    <string name="toast_redownload">The upgrading was interrupted last time, for your better cell phone system, please restart and re-upgrade.</string>
+    <string name="toast_update_modem_fail">System upgraded, please go to service center to upgrade the communication module for better using experience.</string>
+    <string name="toast_remind_change_to_ctnet">Failed to connect to WAP, pleae switch to NET and re-download update pack.</string>
+    <string name="toast_power_not_enough">Too low battery, please re-upgrade while battery is enough!</string>
+    <string name="toast_network_disconnect">Network is disconnected,it will hold on while network is connected.</string>
+    <string name="dlg_btn_confirm">Ok</string>
+    <string name="dlg_message_power_low">Too low battery, please re-upgrade while battery is enough!</string>
+    <string name="dlg_title_hint">Hint</string>
+    <string name="dlg_title_super_update">System Optimization</string>
+    <string name="dlg_message_super_update">"Your system needs to be optimized. After optimization, your system will run more smoothly.
+Optimization of the system will not affect your mobile phone data.
+The optimization may take several minutes and do not power off during it."</string>
+    <string name="dlg_btn_positive_super_update">Ok</string>
+    <string name="dlg_btn_later_super_update">Later</string>
+    <string name="dlg_hit_already_set_as">Already set as:</string>
+    <string name="dlg_hit_already_set_test">The password is same as server settings!</string>
+    <string name="toast_change_net_network">Switching to NET network, may produce a flow of costs.</string>
+    <string name="allow_update_to_older_version">allow update to older version</string>
+    <string name="allow_update_to_older_version_hit">Just for test，selecting it may lead to older version.</string>
+    <string name="get_system_property_value">Version Property:</string>
+    <string name="system_property_value_lc">LC (Batch version, formal server default)</string>
+    <string name="system_property_value_cs">CS (Test version, test server default)</string>
+    <string name="system_property_value_null">No define (Default server depends on DM tag)</string>
+    <string name="ota_test_button">OTA Test</string>
+    <string name="ota_settings">System update settings</string>
+    <string name="ota_check_update">Check Update</string>
+    <string name="ota_check_update_for_result">check new version</string>
+    <string name="auto_update_checked_on">System checks update once per 3 days</string>
+    <string name="auto_update_checked_off">System does not update automatically</string>
+    <string name="download_ask_every_time">Ask before download update package</string>
+    <string name="download_ask_every_time_on">When new version available,notice me</string>
+    <string name="download_ask_every_time_off">When new version available,download package automatically</string>
+    <string name="wifi_available_auto_download">Download package via WIFI</string>
+    <string name="wifi_available_auto_download_on">Download package automatically when wifi available</string>
+    <string name="wifi_available_auto_download_off">Donot download package automatically via wifi</string>
+    <string name="toast_ota_setting_hint">You can set this in Settings>About phone>System update settings</string>
+    <string name="download_settings">Download package settings</string>
+    <string name="ota_property_test">OTA property test</string>
+    <string name="phone_model">Phone model</string>
+    <string name="phone_hardware">Hardware version</string>
+    <string name="phone_software">Inner software version</string>
+    <string name="phone_sn">Phone SN number</string>
+    <string name="phone_dm_tag">DM tag</string>
+    <string name="phone_auto_check">Auto check update</string>
+    <string name="phone_next_check_time">When to check update again</string>
+    <string name="already_download_file">You have completed the download</string>
+    <string name="ota_history_record">OTA History Record</string>
+    <string name="ota_history_record_start">Start OTA Record</string>
+    <string name="ota_runningmode_control">Start OTA running mode control</string>
+    <string name="message_current_version">"Current System Version
+%s"</string>
+    <string name="message2_update_version">"Update System Version
+%s"</string>
+    <string name="message3_tips_youhua1">Latest update includes a number of updates, you can immediately download to update the system.</string>
+    <string name="message3_tips_youhua2">Click Ok to update the system.</string>
+    <string name="message4_package_size">Size:%sMB</string>
+    <string name="message5_update_detail">Update Detail</string>
+    <string name="message7_note">"Notice：
+1.System Update will not affect your personal data.
+2.Download system update package may result in data traffic costs."</string>
+    <string name="message_current_detail">Release note</string>
+    <string name="toast_in_downloading">Downloading the upgrade package, the notification bar to view the progress of downloading.</string>
+    <string name="message_no_history">No update records</string>
+    <string name="toast_show_dialog_again12">This dialog will appear again after %s</string>
+    <string name="coolmini_register_failed">coolmini register failed!</string>
+    <string name="coolmini_no_update">coolmini no update!</string>
+    <string name="message_coolmini_detail">Coolmini Info</string>
+    <string name="address_pretest">PreTest address</string>
+    <string name="toast_ota_in_preTest_server">Your server address is already pre-test server！</string>
+    <string name="welcome_use_ota">Welcome to use OTA</string>
+    <string name="user_confirm_message">OTA will generate data costs in downloading system update package , please consult the relevant operators for specific charges.</string>
+    <string name="no_confirm_next_time">Do not remind me next time</string>
+    <string name="message_sending_file">Download complete，sending file through Synccenter！</string>
+</resources>

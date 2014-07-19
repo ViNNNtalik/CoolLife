@@ -292,7 +292,7 @@
     <string name="str_drive_mode_bluetooth_disconnect_auto_close_drive_mode">Авто-выход</string>
     <string name="str_drive_mode_bluetooth_disconnect_auto_close_drive_mode_summery">Выход из режима вождения при отключении Bluetooth</string>
     <string name="str_drive_mode_bluetooth_sound_pin">Введите код для сопряжения Bluetooth</string>
-    <string name="str_dial">Вызов</string>
+    <string name="str_dial">" вызов"</string>
     <string name="str_card_one_en">"SIM1 "</string>
     <string name="str_card_two_en">"SIM2 "</string>
     <string name="str_roaming_sms_max_count">Содержание сообщения достигло максимума</string>
@@ -317,7 +317,7 @@
     <string name="menu_deletemms">Удалить все MMS</string>
     <string name="delete_all_mms">Удалить все MMS</string>
     <string name="menu_undelivered_messages">Недоставленные сообщения</string>
-    <string name="menu_view">Просмотр переписки</string>
+    <string name="menu_view">Переписка</string>
     <string name="refreshing">Обновление…</string>
     <string name="has_draft">Черновик</string>
     <string name="broadcast_from_to">%1$s в %2$s</string>
@@ -649,7 +649,7 @@
     <string name="lock">В избранное</string>
     <string name="unlock">Из избранного</string>
     <string name="set_as_important">Установить как важное</string>
-    <string name="set_as_unimportant">Установить как общее</string>
+    <string name="set_as_unimportant">Установить как обычное</string>
     <string name="set_as_private">Установить как приватное</string>
     <string name="set_as_unprivate">Установить как общее</string>
     <string name="set_all_readed">Установить как прочитанное</string>
@@ -801,9 +801,9 @@
     <string name="batchLockisno">В избранное?</string>
     <string name="batchUnLockisno">Из избранного?</string>
     <string name="batchImptisno">Установить как важное?</string>
-    <string name="batchUnImptisno">Установить как общее?</string>
+    <string name="batchUnImptisno">Установить как обычное?</string>
     <string name="batchFwdisno">Переслать выбранное?</string>
-    <string name="batchPrivateisno">Установить выбранное как частное?</string>
+    <string name="batchPrivateisno">Установить выбранное как приватное?</string>
     <string name="batchSecretisno">Установить выбранное как секретное?</string>
     <string name="batchUnPrivateisno">Установить выбранное как общее?</string>
     <string name="new_folder">Создать папку</string>
@@ -1029,8 +1029,8 @@
     <string name="s_menu_batch_unlock">Из избранного</string>
     <string name="s_menu_batch_forward">Переслать</string>
     <string name="s_menu_batch_set_important">Установить как важное</string>
-    <string name="s_menu_batch_set_unimportant">Установить как общее</string>
-    <string name="s_menu_batch_set_private">Установить как частное</string>
+    <string name="s_menu_batch_set_unimportant">Установить как обычное</string>
+    <string name="s_menu_batch_set_private">Установить как приватное</string>
     <string name="s_menu_batch_set_secret">Установить как секретное</string>
     <string name="s_menu_batch_set_unprivate">Установить как общее</string>
     <string name="s_menu_batch_resend">Групповая переотправка</string>
@@ -1045,8 +1045,8 @@
     <string name="s_menu_lock">В избранное</string>
     <string name="s_menu_unlock">Из избранного</string>
     <string name="s_menu_set_important">Установить как важное</string>
-    <string name="s_menu_set_unimportant">Установить как общее</string>
-    <string name="s_menu_set_private">Установить как частное</string>
+    <string name="s_menu_set_unimportant">Установить как обычное</string>
+    <string name="s_menu_set_private">Установить как приватное</string>
     <string name="s_menu_set_secret">Установить как секретное</string>
     <string name="s_menu_set_unprivate">Установить как общее</string>
     <string name="s_menu_hide_cc">Скрыть копию</string>
@@ -1418,11 +1418,11 @@
     <string name="sms_group_send_detail">Детали групповой отправки</string>
     <string name="sms_group_clear">Очистить все группы</string>
     <string name="status_lock">Избранное</string>
-    <string name="status_private">Личные</string>
-    <string name="status_import">Важно</string>
+    <string name="status_private">Приватные</string>
+    <string name="status_import">Важные</string>
     <string name="status_menu_lock">Избранное</string>
-    <string name="status_menu_private">Личные</string>
-    <string name="status_menu_import">Важно</string>
+    <string name="status_menu_private">Приватные</string>
+    <string name="status_menu_import">Важные</string>
     <string name="lock_cannot_delete">Сообщение можно удалить, если убрать его из избранного</string>
     <string name="service_message_not_found">Срок сообщения истек или не может быть просмотрено</string>
     <string name="delete_lockmsg">Удаление избранного сообщения</string>
@@ -1474,7 +1474,7 @@
     <string name="compose_add_multi_text">Добавить %1$s слайда(ов)</string>
     <string name="compose_del_slide">Удалить слайд %1$s</string>
     <string name="unknown_number">Неизвестный номер</string>
-    <string name="private_number">Скрытый номер</string>
+    <string name="private_number">Приватный номер</string>
     <string name="pay_phone">Платный номер</string>
     <string name="guide_change_text_size">Растяните, чтобы увеличить или уменьшить масштаб</string>
     <string name="guide_double_click">Дважды нажмите, чтобы посмотреть на полном экране</string>

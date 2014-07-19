@@ -477,7 +477,7 @@
     <string name="store_information_groups">Группы</string>
     <string name="store_information_unit">%1$d/%2$d элем.</string>
     <string name="store_information_unit_phone">%1$d элем.</string>
-    <string name="is_show_vip">VIP-список</string>
+    <string name="is_show_vip">Белый список</string>
     <string name="is_hidden_panel_on_scrolling">Скрывать L-панель при прокрутке</string>
     <string name="is_show_dial_msg">Значок SMS/MMS</string>
     <string name="is_show_note">Заметки</string>
@@ -758,7 +758,7 @@
     <string name="contacts_name">Контакты</string>
     <string name="groups_name">Группы</string>
     <string name="favourites_name">Избранное</string>
-    <string name="vip_name">VIP-контакты</string>
+    <string name="vip_name">Белый список</string>
     <string name="add_name">Создать</string>
     <string name="call_name">Вызов</string>
     <string name="SMS_name">SMS/MMS</string>
@@ -1293,14 +1293,14 @@
     <string name="message_import_card_end">%d контактов определено</string>
     <string name="joinMaxLimit">Можно объединить максимум  4 контакта</string>
     <string name="joinFailedMaxLimit">Нельзя объединить больше  4 контактов</string>
-    <string name="joinNewPersor">Объединить новые контакты</string>
+    <string name="joinNewPersor">Объединение контактов</string>
     <string name="noJoinedPerso">Нет элементов для объединения. Выберите как минимум один</string>
     <string name="normal_contacts_group">Общие контакты</string>
     <string name="profileSetAndShare">Заполните свой профиль</string>
     <string name="profileSetButtonText">Заполнить</string>
     <string name="profileMyRelationMap">Связь</string>
     <string name="aggregateJoinAll">Все контакты</string>
-    <string name="aggregateJoinAllDescribe">Нажмите, чтобы объединить другие контакты</string>
+    <string name="aggregateJoinAllDescribe">Нажмите, чтобы объединить с другими контактами</string>
     <string name="aggregateJoinWeibo">Weibo-контакты</string>
     <string name="aggregateJoinWeiboDescribe">Нажмите, чтобы объединить Weibo-контакты</string>
     <string name="aggregateJoinNothing">Контакты не объединены</string>

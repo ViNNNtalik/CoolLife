@@ -311,6 +311,7 @@
     <string name="oppo_mini_under_3g_cannot_play_toast">Воспроизведение запрещено сетью .Измените настройки</string>
     <string name="no_video">Нет видео</string>
     <string name="double_press_exit">Еще раз для выхода</string>
+    <string name="download_btn_clear_all">Очистить</string>
     <string name="download_title">Загрузки</string>
     <string name="download_btn_cancel">Отмена</string>
     <string name="menu_settings">Настройки</string>
@@ -334,10 +335,13 @@
     <string name="cancel_buttonvd">Отмена</string>
     <string name="video_message">Видео</string>
     <string name="video_saving">Сохраняется</string>
+    <string name="video_tips">Нельзя воспроизвести видео</string>
+    <string name="video_cache">Кэш не полный. Ожидайте...</string>
     <string name="net_msg_context">Приложение потребляет мобильный трафик для просмотра видео онлайн</string>
     <string name="msg_not_toast_again">Не показывать снова</string>
     <string name="location_msg_context">Функция \"Рядом\" требует доступа к местоположению</string>
     <string name="dmr_no_search">Нет поиска DLNA-устройств</string>
+    <string name="float_window_to_camera">Камера запускается. Закройте всплывающее окно</string>
     <string name="category_index">Индекс </string>
     <string name="category_moive">Кино</string>
     <string name="category_tv">ТВ</string>

@@ -14,7 +14,7 @@
     <string name="hours">%s час.</string>
     <string name="minute">1 мин.</string>
     <string name="minutes">" %s мин."</string>
-    <string name="every_day">каждый день</string>
+    <string name="every_day">Каждый день</string>
     <string name="never">никогда</string>
     <string name="day_concat">", "</string>
     <string name="done">Принять</string>

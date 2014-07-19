@@ -67,12 +67,12 @@
     <string name="check_network_statics_not">Трафик не активирован</string>
     <string name="check_network_control">Web-доступ для приложений</string>
     <string name="check_network_control_not">Web-доступ не сконфигурирован для приложений</string>
-    <string name="check_enbled">Включено</string>
-    <string name="check_unenbled">Не включено</string>
+    <string name="check_enbled">Активно</string>
+    <string name="check_unenbled">Не активно</string>
     <string name="check_to_enble">Включение</string>
     <string name="check_set_permission">Разрешения</string>
     <string name="check_improved">оптимизировано</string>
-    <string name="check_to_improve">Запуск проверки</string>
+    <string name="check_to_improve">Запуск оптимизации</string>
     <string name="safe_check_level_label">Уровень защиты</string>
     <string name="check_enble_hint">Активируйте для большей безопасности</string>
     <string name="check_all_enble_hint">Защита активирована на максимум</string>
@@ -129,12 +129,13 @@
     <string name="freememory">Увеличение доступной памяти</string>
     <string name="wait_message_shutoff">Завершение... Ожидайте</string>
     <string name="system_improved">Ускоритель</string>
+    <string name="system_clearspeed">Ускоренная очистка</string>
     <string name="system_improved_hit">Свободно %1$s</string>
     <string name="virus_kill">Антивирус</string>
     <string name="virus_kill_hint">Без проверки %1$s дн.</string>
     <string name="virus_kill_hint2">Вы еще не сканировали устройство</string>
     <string name="virus_kill_hint3">Нет вирусов</string>
-    <string name="safe_proguard">Перехватчик</string>
+    <string name="safe_proguard">Перехватчик вызовов</string>
     <string name="safe_proguard_hint">Вызовы: %1$s;</string>
     <string name="safe_proguard_hint2">SMS: %1$s</string>
     <string name="private_space">Личный кабинет</string>
@@ -154,6 +155,7 @@
     <string name="backup">Бэкап</string>
     <string name="seccenter_setting">Настройки Менеджера</string>
     <string name="destroy_aft_red">Я шпион!</string>
+    <string name="app_fobid">Приложения с автозагрузкой</string>
     <string name="online_control">Сетевой доступ</string>
     <string name="listen_protect">Антипрослушка</string>
     <string name="system_improve">Элементы автоматически оптимизированы</string>
@@ -216,7 +218,7 @@
     <string name="less_of">"Если свободно менее, чем "</string>
     <string name="when_remind">", то уведомлять"</string>
     <string name="close_remind">Закрытие уведомлений</string>
-    <string name="more_of">Если привысит "</string>
+    <string name="more_of">"Если привысит "</string>
     <string name="no_check_remind">Уведомлении об отсутствии проверки</string>
     <string name="clouse_seccurity_information">Пароль обезопасит данные всего устройства</string>
     <string name="forget_password_get_by_hint">Настройки методов восстановления пароля</string>
@@ -259,8 +261,13 @@
     <string name="file_safe_box">Сейф</string>
     <string name="file_safe_box_info">Безопасное хранение фото, видео и аудио</string>
     <string name="data_control">Монитор приложений</string>
-    <string name="text_reference_and_forbid_app1">%1$s прил. поддерживают.</string>
-    <string name="text_reference_and_forbid_app2">%1$s прил. запрещено</string>
+    <string name="text_reference">"Приложение с: "</string>
+    <string name="text_private_data">" приватными разрешениями"</string>
+    <string name="text_reference_acess_private_data">%1$s прилож. требуют разрешений</string>
+    <string name="text_reference_and_forbid_app1">"%1$s прил. поддерживают. "</string>
+    <string name="text_reference_and_forbid_app2">"%1$s прил. запрещено"</string>
+    <string name="all_application">Все приложения</string>
+    <string name="app_behavior_details">Детали приложения</string>
     <string name="contacts_control">Чтение контактов</string>
     <string name="contacts_edit_control">Изменение контактов</string>
     <string name="sms_control">Чтение сообщений</string>
@@ -276,8 +283,8 @@
     <string name="text_lowinmem_notificaion_title">Нажмите для очистки памяти</string>
     <string name="text_lowinmem_alarm_title">Недостаточно памяти</string>
     <string name="text_lowinmem_alarm_msg">Недостаточно памяти. Запустить очистку?</string>
-    <string name="no_mobile_check_remind">"Запустите проверку для определения \u0009
-статуса защиты устройства"</string>
+    <string name="no_mobile_check_remind">"Запустите оптимизацию для\u0009
+улучшения работы устройства"</string>
     <string name="mobile_check_last_time">Последняя проверка:</string>
     <string name="mobile_security_need_attention">Безопасность устройства требует Вашего внимания</string>
     <string name="already" />
@@ -314,7 +321,7 @@
     <string name="real_protectiong_ising">Включение защиты в режиме реального времени...</string>
     <string name="listen_protect_ising">Включение антипрослушки...</string>
     <string name="turn_on_flow_monitor_ising">Включение Трафика...</string>
-    <string name="background_software">Запущенные приложения</string>
+    <string name="background_software">"Запущенные приложения "</string>
     <string name="trash_files">Ненужные кэш-файлы</string>
     <string name="flow_monitor_ising_safe_online_network">Мониторинг использования трафика</string>
     <string name="congratulate" />
@@ -329,7 +336,8 @@
     <string name="manual_system_improve_items">Элементы для ручной оптимизации</string>
     <string name="turn_off_flowmonitor_flow_rish_reminder">Не активно. Вы можете понести дополнительные расходы из-за превышения лимита трафика</string>
     <string name="system_improving">Оптимизация...</string>
-    <string name="one_key_system_accelerate">Очистка</string>
+    <string name="one_key_system_accelerate">Очистка
+</string>
     <string name="text_mobile_mem_clear">Очистка места</string>
     <string name="one_key_clear">Очистка кэшаe</string>
     <string name="one_key_clear_sucess">√ %1$s места освобождено после очистки кэша</string>
@@ -338,7 +346,7 @@
     <string name="mobile_card_memory_limit">Не хватает местя. Очистите файлы</string>
     <string name="text_hand_clear">Очистка файлов</string>
     <string name="text_soft_move">Перенос приложений</string>
-    <string name="used_memory_information">исп. %1$s памяти</string>
+    <string name="used_memory_information">" исп. %1$s памяти"</string>
     <string name="no_noused_software">Нет запущенных приложений к очистке</string>
     <string name="trash_information">%1$s ненужных файлов. Очистите их</string>
     <string name="no_trash_file">Нет ненужных файлов</string>
@@ -349,7 +357,7 @@
     <string name="text_notice_health_from_exam">Необходима проверка уровня безопасности ></string>
     <string name="text_notice_save_from_set">Настройки тарифного плана ></string>
     <string name="text_notice_normal">Круглосуточная защита данных</string>
-    <string name="text_notice_mobile_improve">Рекомендовано: Поплавок отимизации ></string>
+    <string name="text_notice_mobile_improve">Рекомендовано: Поплавок оптимизации ></string>
     <string name="text_notice_private_space">Рекомендовано: Личный кабинет ></string>
     <string name="text_notice_no_distrub">Рекомендовано: Перехватчик ></string>
     <string name="text_notice_battery_protect">Совет: обслуживание батареи ></string>
@@ -387,13 +395,15 @@
     <string name="manual_turn_data_protect_on">Защита личной информации от несанкционированного доступа</string>
     <string name="manual_turn_data_protect_off">Не активно.Возможен несанкционированный доступ к Вашим данным</string>
     <string name="manual_turn_kavass_ising">Проверка режима \"Не беспокоить\"...</string>
+    <string name="manual_turn_app_foribi_ising">Проверка приложений с автозагрузкой...</string>
+    <string name="manual_turn_app_foribi_abstract">Автозагрузка запрещена %1$s приложениям</string>
     <string name="manual_turn_kavass_abstract">Перехват нежелательных вызовов и SMS/MMS</string>
     <string name="manual_turn_destroy_ising">Проверка опции \"Я шпион!\"...</string>
     <string name="manual_turn_destroy_abstract">Уничтожение сообщений после прочтения</string>
     <string name="manual_turn_notify_manager_abstract">Блокировка нежелательных уведомлений и рекламы</string>
     <string name="recent_task_title">Скрытие недавних задач</string>
     <string name="recent_task_abstract">Не показывать недавние задачи по удержанию клавиши \"Домой\"</string>
-    <string name="floating_window_protect">Контроль поплавка трафика</string>
+    <string name="floating_window_protect">Контроль Поплавка трафика</string>
     <string name="floating_window_protect_abstract">Плавающее окно</string>
     <string name="floating_window_protect_apps">С приложениями</string>
     <string name="reminder_flux">Это приложение будет использовано для установления соединения с передачей данных</string>
@@ -406,10 +416,28 @@
     <string name="please_handle_the_following_data">Данные для обработки </string>
     <string name="sd_card_encryption">Шифование SD-карты</string>
     <string name="the_sd_card_file_encryption_protection">Шифрование файлов на SD-карте для защиты</string>
+    <string name="clrpwd_name">Имя:</string>
+    <string name="clrpwd_address">Адрес:</string>
+    <string name="clrpwd_id">ID:</string>
+    <string name="clrpwd_tip">Введите Ваши реальные данные для уверенной безопасности</string>
+    <string name="clrpwd_nullinfo">Неполная информация</string>
+    <string name="clrpwd_requesting">Запрос</string>
+    <string name="clrpwd_request">Очистка пароля</string>
+    <string name="clrpwd_request_fail">Приложение не прошло проверку</string>
+    <string name="clrpwd_request_doing">Ожидается запрос. Ответ в течение 48 часов</string>
+    <string name="clrpwd_submit_success">Успешно отправлено. Ответ в течение 48 часов</string>
+    <string name="clrpwd_submit_fail">Отправка не удалась</string>
+    <string name="clrpwd_submit_repeated">Повтор отправки. Ответ в течение 48 часов</string>
+    <string name="clrpwd_net_close">Нет сети</string>
+    <string name="hot_swap_description">Вставьте SD-карту для шифрования, введите пароль и нажмите \"ОК\".Если Вы не введете пароль или он будет неправильным, то SD-карта будет недоступна</string>
+    <string name="password_incorrect">Неправильный пароль!</string>
+    <string name="enter_the_password">Введите пароль!</string>
+    <string name="hot_swap_tips">Запрос</string>
     <string name="text_appprotect_title">Шифрование приложений</string>
     <string name="text_appprotect_systemapp">Системные приложения</string>
     <string name="text_appprotect_foreignapp">Пользовательские приложения</string>
     <string name="text_unknownappname">Неизвестные приложения</string>
+    <string name="text_wap_link">Шифрование доступа в Интернет</string>
     <string name="bluepro_applist_checkall">Разрешение на включение Bluetooth</string>
     <string name="bluepro_applist_title">Bluetooth-монитор</string>
     <string name="bluepro_applist_title2">Использование стороннего приложения для антислежки</string>
@@ -458,7 +486,7 @@ Bluetooth-монитор включен"</string>
     <string name="set_one_method_look_for_at_less">Выберите один из методов!</string>
     <string name="define_question_must_not_null">Пользовательский вопрос не может быть пустым!</string>
     <string name="complete_create_password">Завершить</string>
-    <string name="password_look_for">Забыто</string>
+    <string name="password_look_for">Пороль забыт</string>
     <string name="relate_mobile_send_sms_remind_half">Случайный пароль выслан на указанный номер телефона</string>
     <string name="relate_mobile_send_sms_remind_half_complete" />
     <string name="no_availble_sms">Нет исправной SIM-карты, Вы не можете посылать сообщения!</string>
@@ -529,7 +557,7 @@ Bluetooth-монитор включен"</string>
     <string name="has_forbidden">Запрещено</string>
     <string name="has_hiden">Спрятано</string>
     <string name="every_time_alert">Уведомлять</string>
-    <string name="beforbidden">Is</string>
+    <string name="beforbidden" />
     <string name="monitored_app">Отслеживаемые прил. (%d)</string>
     <string name="multioperation">Групповые действия</string>
     <string name="setting_alerttype_allowed_title">Уведомления о доступе</string>
@@ -545,6 +573,7 @@ Bluetooth-монитор включен"</string>
     <string name="dlg_modifysetting_message">Изменить права доступа приложениям?</string>
     <string name="applist_recovery_success">Восстановлено</string>
     <string name="applist_modify_success">Изменено</string>
+    <string name="confirm_allow">, разрешить?</string>
     <string name="isrunning2">Попытка удалить или изменить данные %1$s</string>
     <string name="isrunning">Попытка доступа к данным %1$s</string>
     <string name="isopenning">Попытка выключить %1$s</string>
@@ -568,7 +597,7 @@ Bluetooth-монитор включен"</string>
     <string name="textViewString">Заметка: Включение этой опции позволит обезопасить Ваши разговоры от прослушки и записи</string>
     <string name="proType_data">data</string>
     <string name="proType_costmoney">costmoney</string>
-    <string name="proType_stolenlisten"></string>
+    <string name="proType_stolenlisten" />
     <string name="moudlename_data">Защита данных</string>
     <string name="moudlename_data2">Защита данных-Монитор приложений</string>
     <string name="moudlename_data_contacts">Мониторинг доступа к контактам</string>
@@ -658,7 +687,7 @@ Bluetooth-монитор включен"</string>
     <string name="text_month_balance_day">Дата начала периода</string>
     <string name="text_month_flow_used">Месячное использование трафика:</string>
     <string name="text_wronginput">Неверное значение</string>
-    <string name="text_inputnum">Ввчедите число.</string>
+    <string name="text_inputnum">Введите число</string>
     <string name="text_input_taocan_alarm">"Неверное значение.
 Введите число в заданных интервалах 0-99999 (Мб) or 0-99 (Гб)"</string>
     <string name="text_input_date_alarm">"Неверное значение.
@@ -671,9 +700,9 @@ Bluetooth-монитор включен"</string>
     <string name="text_auto_adjust_sumflow_summary">Периодический запрос у оператора данных по трафику</string>
     <string name="text_nead_hand_adjust_message">Не удается прочитать данные из сообщения</string>
     <string name="text_auto_adjust_ok_message">Автоматически откалибровано</string>
-    <string name="text_used_regular"> (Used |ve used | used | has | been consumed | has consumed | consumed | has spent | Consumed | This month use) </string>
-    <string name="text_total_regular"> (Total | Total Flow | Total Package | Total) </string>
-    <string name="text_left_regular"> (residual | available) </string>
+    <string name="text_used_regular">(Used |ve used | used | has | been consumed | has consumed | consumed | has spent | Consumed | This month use)</string>
+    <string name="text_total_regular">(Total | Total Flow | Total Package | Total)</string>
+    <string name="text_left_regular">(residual | available)</string>
     <string name="text_dayflow_outoflimit_notify_summary">Уведомлять, когда дневное потребление трафика превышает 10Мб</string>
     <string name="text_no_setting">Не настроено</string>
     <string name="text_no_setting_title">Тарифный план не задан</string>
@@ -721,9 +750,9 @@ Bluetooth-монитор включен"</string>
     <string name="money_query_item">Проверка баланса</string>
     <string name="flow_query_item">Проверка использованного трафика</string>
     <string name="money_cost_query_item">Проверка платежей</string>
-    <string name="money_steal_proctect_item">Контроль злонамеренных вызовов</string>
-    <string name="money_steal_proctect_sms_item">Контроль злонамеренных SMS</string>
-    <string name="money_steal_proctect_mms_item">Контроль злонамеренных MMS</string>
+    <string name="money_steal_proctect_item">Совершение вызовов</string>
+    <string name="money_steal_proctect_sms_item">Отправка SMS</string>
+    <string name="money_steal_proctect_mms_item">Отправка MMS</string>
     <string name="carriername_zgdx">China Telecom</string>
     <string name="carriername_zgyd">China Mobile</string>
     <string name="carriername_zglt">China Unicom</string>
@@ -756,7 +785,7 @@ Bluetooth-монитор включен"</string>
     <string name="costmoney_switch_on">Вкл.</string>
     <string name="costmoney_switch_off">Выкл.</string>
     <string name="costmoney_switch_content">Включить Монитор</string>
-    <string name="costmoney_switch_false"> чтобы обезопаситься от ненужных расходов</string>
+    <string name="costmoney_switch_false">", чтобы обезопаситься от ненужных расходов"</string>
     <string name="costmoney_switch_true">Монитор расходов включен</string>
     <string name="costmoney_already_forbidden_data">Запрещены вызовы и SMS/MMS</string>
     <string name="costmoney_already_allowed_data">Вызовы и SMS/MMS</string>
@@ -871,6 +900,7 @@ NFC-монитор включен"</string>
 Пользователи не должны воспроизводить, распространять, изменять, декомпилировать, дизассемблировать, расшифровывать приложение Менеджер (разрешено только ViNNNtalik ;-), передавать кому-либо лицензию на применение Менеджера, если такие ограничения противоречат соответствующим законам или когда эти действия не одобрены держателем авторских прав .
 Приложение Менеджер подлежит постоянному обновлению для целей предоставления новых возможностей и исправления ошибок. Между тем, Coolpad гарантирует, что обновления модулей для указанного приложения не содержат код, который направлен на злонамеренное воздействие на пользователей компьютерных систем.
 Выберите \"Согласие\", чтобы подтвердить свое доверие этому приложению и принять его использование."</string>
+
      <string name="disagreement">Согласие с пользовательским соглашением</string>
      <string name="remind_use_other_relate_mobile"> Не вводите телефонный номер этого устройства</string>
      <string name="input_pwd">Введите пароль</string>
@@ -933,7 +963,8 @@ NFC-монитор включен"</string>
     <string name="pugforbid_already_forbidden_data"> запрещено включить GPS</string>
     <string name="pugforbid_already_allowed_data"> разрешено включить GPS</string>
     <string name="pugforbid_switch_false">Включение антислежки - это эффективный способ сократить риски безопасности</string>
-    <string name="pugforbid_switch_true"> "Поздравляем! Антислежка включена"</string>
+    <string name="pugforbid_switch_true"> "Поздравляем! 
+Антислежка включена"</string>
     <string name="pugforbid_switch_content">Включение</string>
     <string name="pugforbid_switch_on">Вкл.</string>
     <string name="pugforbid_switch_off">Выкл.</string>
@@ -1026,8 +1057,8 @@ NFC-монитор включен"</string>
     <string name="yl_seccenter_virus_kill_scan_scheme_week">Дата проверки</string>
     <string name="yl_seccenter_virus_kill_scan_scheme_time">Время проверки</string>
     <string name="yl_seccenter_virus_kill_scan_network_cloudy_choose">Облачная проверка</string>
-    <string name="yl_seccenter_virus_kill_turn_on">Актив.</string>
-    <string name="yl_seccenter_virus_kill_turn_off">Деактив.</string>
+    <string name="yl_seccenter_virus_kill_turn_on">Вкл.</string>
+    <string name="yl_seccenter_virus_kill_turn_off">Выкл.</string>
     <string name="yl_seccenter_virus_kill_protecte_every_time">Постоянная антивирусная защита</string>
     <string name="yl_seccenter_virus_kill_protecte_every_time_information">Защита в автоматическом режиме</string>
     <string name="yl_seccenter_virus_kill_virus_update_auto">Автобновление базы данных вирусов</string>

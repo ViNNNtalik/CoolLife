@@ -498,10 +498,10 @@
     <string name="dialog_moveto_safebox_doing">Шифрование... Ожидайте</string>
     <string name="dialog_samefolder_overlay_forbid">Файл с таким именем уже существует</string>
     <string name="dialog_setting_private">Задается как приватный... Ожидайте</string>
-    <string name="dialog_setting_common">Задается как публичный... Ожидайте</string>
+    <string name="dialog_setting_common">Задается как общий... Ожидайте</string>
     <string name="toast_setPrivate_sucess">Задано как приватный</string>
     <string name="toast_setPrivate_failed">Не удалось</string>
-    <string name="toast_setCommon_sucess">Задано как публичный</string>
+    <string name="toast_setCommon_sucess">Задано как общий</string>
     <string name="toast_setCommon_failed">Не удалось</string>
     <string name="toast_safebox_remove_success">Файл уже перемещен из Сейфа. Путь к файлу:</string>
     <string name="toast_file_counting_forbid_enter">Закройте текущее активное соединение, чтобы войти в Сейф</string>

@@ -134,7 +134,7 @@
     <string name="gemini_general_settings_title">Общие настройки</string>
     <string name="gemini_roaming_settings_title">Роуминг</string>
     <string name="gemini_data_roaming_title">Роуминг передачи данных</string>
-    <string name="gemini_data_roaming_summary">Подключать услуги передачи данных в роуминге</string>
+    <string name="gemini_data_roaming_summary">Подключение/отключение передачи данных в роуминге</string>
     <string name="gemini_roaming_reminder_title">Показывать напоминание о роуминге</string>
     <string name="gemini_roaming_reminder_summary">Предлагать SIM-карту в зависимости от использования SIM-карты</string>
     <string name="gemini_contacts_sim_title">Контакты и SIM-карта</string>
@@ -431,7 +431,7 @@
     <string name="deny">Отказать</string>
     <string name="device_info_default">Неизвестно</string>
     <string name="show_dev_on">Вы стали разработчиком!</string>
-    <string name="show_dev_already">Не нужно, Вы уже разработчик.</string>
+    <string name="show_dev_already">Не нужно, Вы уже разработчик</string>
     <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
     <string name="header_category_device">УСТРОЙСТВО</string>
     <string name="header_category_personal">ЛИЧНЫЕ ДАННЫЕ</string>
@@ -1663,7 +1663,7 @@
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="widget_picker_title">Выбор виджета</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
-    <string name="allow_bind_app_widget_activity_allow_bind">Когда вы создаете виджет, приложение \"%1$s\" получает доступ ко всем его данным.</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">Когда вы создаете виджет, приложение \"%1$s\" получает доступ ко всем его данным</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать приложению \"%1$s\" создавать виджеты и получать их данные</string>
     <string name="battery_history_days">%1$dд %2$dч %3$dм %4$dс</string>
     <string name="battery_history_hours">%1$dч %2$dм %3$dс</string>

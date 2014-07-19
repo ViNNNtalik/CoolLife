@@ -245,7 +245,7 @@
     <string name="qs_label_blacklist2">Черный список</string>
     <string name="qs_label_cbutton">C-клавиша</string>
     <string name="qs_label_nfc">NFC</string>
-    <string name="qs_label_mutlwindow">Бок. панель</string>
+    <string name="qs_label_mutlwindow">Мультиокно</string>
     <string name="qs_label_secure_mode">Защита данных</string>
     <string name="qs_label_dataprotection_mode">Защита данных</string>
     <string name="qs_label_driving_mode">За рулем</string>

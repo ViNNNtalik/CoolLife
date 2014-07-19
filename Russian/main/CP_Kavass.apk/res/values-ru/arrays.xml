@@ -19,24 +19,26 @@
         <item>Неиз. номера </item>
         <item>Без номера</item>
         <item>Все вызовы</item>
-        <item>По секция номера</item>
+        <item>По секциям номера</item>
+        <item>По регионам</item>
     </string-array>
     <string-array name="handle_after_interception">
         <item>Повесить трубку</item>
         <item>Без мелодии и вибрации</item>
         <item>Номер занят</item>
         <item>Номер не существует</item>
-        <item>Телефон вне сервиса</item>
         <item>Телефон выключен</item>
-        <item>Телефон заблокирован</item>
+        <item>Номер не обслуживается</item>
+        <item>Телефон вне зоны обслуживания</item>
         <item>Проиграть запись</item>
         <item>Просьба оставить сообщение</item>
     </string-array>
     <string-array name="intercepted_mode">
-        <item>Принимать все</item>
+        <item>Автоперехват</item>
         <item>Черный список</item>
         <item>Белый список</item>
         <item>Контакты</item>
+        <item>Перехватывать все</item>
         <item>Пользовательский режим </item>
     </string-array>
     <string-array name="time_intercepted_mode">
@@ -46,18 +48,17 @@
         <item>Пользов. режим</item>
     </string-array>
     <string-array name="intercepted_mode_tips">
-        <item>Переключено в режим "Принимать все"</item>
-        <item>Переключено в режим "Черный список"</item>
-        <item>Переключено в режим ">Белый список"</item>
-        <item>Переключено в режим "Контакты"</item>
-        <item>Переключено в пользовательский режим</item>
-
+        <item>Переключение в режим "Принимать все"</item>
+        <item>Переключение в режим "Черный список"</item>
+        <item>Переключение в режим "Белый список"</item>
+        <item>Переключение в режим "Контакты"</item>
+        <item>Переключение в пользовательский режим</item>
     </string-array>
     <string-array name="time_intercepted_mode_tips">
-        <item>Переключено в режим "Черный список"</item>
-        <item>Переключено в режим ">Белый список"</item>
-        <item>Переключено в режим "Контакты"</item>
-        <item>Переключено в пользовательский режим</item>
+        <item>Переключение в режим "Черный список"</item>
+        <item>Переключение в режим "Белый список"</item>
+        <item>Переключение в режим "Контакты"</item>
+        <item>Переключение в пользовательский режим</item>
     </string-array>
     <string-array name="intercepted_mode_details">
         <item>Принимать все</item>
@@ -73,20 +74,20 @@
         <item>Пользовательский режим </item>
     </string-array>
     <string-array name="intercepted_phone_handle_way">
-        <item>Недоступен</item>
-        <item>Занято </item>
-        <item>Вне сервиса</item>
+        <item>Повесить трубку</item>
+        <item>Занято</item>
+        <item>Не существует</item>
         <item>Выключен</item>
-        <item>Заблокирован</item>
+        <item>Вне сервиса</item>
         <item>Проиграть запись</item>
         <item>Просьба оставить сообщение</item>
     </string-array>
     <string-array name="record_type">
         <item>Недоступен</item>
-        <item>Занято </item>
-        <item>Вне сервиса</item>
+        <item>Занято</item>
+        <item>Не существует</item>
         <item>Выключен</item>
-        <item>Заблокирован</item>
+        <item>Вне сервиса</item>
         <item>Польз.№1 </item>
         <item>Польз.№2</item>
         <item>Польз.№3</item>
@@ -103,26 +104,26 @@
     </string-array>
     <string-array name="add_black_notify">
         <item>Не задано</item>
-        <item>Все </item>
+        <item>Все</item>
         <item>Вызов меньше 5 секунд</item>
         <item>Вызов меньше 15 секунд</item>
         <item>Вызов меньше 30 секунд</item>
     </string-array>
     <string-array name="add_black_message">
-        <item>Добавить номер  в черный список?</item>
-        <item>Добавить номер  в черный список? Вызов меньше 5 секунд</item>
-        <item>Добавить номер  в черный список? Вызов меньше 15 секунд </item>
-        <item>Добавить номер  в черный список? Вызов меньше 30 секунд</item>
-        <item>Добавить номер  в черный список? Вызов меньше 1 секунды </item>
+        <item>Добавить в черный список?</item>
+        <item>Добавить в черный список? Вызов меньше 5 секунд</item>
+        <item>Добавить в черный список? Вызов меньше 15 секунд </item>
+        <item>Добавить в черный список? Вызов меньше 30 секунд</item>
+        <item>Добавить в черный список? Вызов меньше 1 секунды </item>
     </string-array>
     <string-array name="black_handle">
         <item>Повесить трубку</item>
         <item>Без мелодии и вибрации (экран вкл.)</item>
-        <item>Без мелодии и вибрации (экран вsкл.)</item>
+        <item>Без мелодии и вибрации (экран выкл.)</item>
         <item>Номер занят</item>
         <item>Номер не существует</item>
-        <item>Телефон вне сервиса</item>
         <item>Телефон выключен</item>
+        <item>Телефон вне сервиса</item>
         <item>Телефон заблокирован</item>
         <item>Проиграть запись</item>
         <item>Просьба оставить сообщение</item>
@@ -130,11 +131,11 @@
     <string-array name="all_handle">
         <item>Повесить трубку</item>
         <item>Без мелодии и вибрации (экран вкл.)</item>
-        <item>Без мелодии и вибрации (экран вsкл.)</item>
+        <item>Без мелодии и вибрации (экран выкл.)</item>
         <item>Номер занят</item>
         <item>Номер не существует</item>
-        <item>Телефон вне сервиса</item>
         <item>Телефон выключен</item>
+        <item>Телефон вне сервиса</item>
         <item>Телефон заблокирован</item>
         <item>Проиграть запись</item>
         <item>Просьба оставить сообщение</item>

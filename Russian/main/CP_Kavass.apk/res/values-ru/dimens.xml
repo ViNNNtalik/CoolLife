@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="list_gap_item">1.0dip</dimen>
-    <dimen name="list_gap_total">2.0dip</dimen>
-    <dimen name="list_gap_betwwen_left_scrren_and_text">3.0dip</dimen>
-    <dimen name="list_gap_betwwen_text_and_arrow">25.0dip</dimen>
-    <dimen name="list_top_left_text_size">22.0sp</dimen>
-    <dimen name="list_un_top_left_text_size">12.0sp</dimen>
-</resources>

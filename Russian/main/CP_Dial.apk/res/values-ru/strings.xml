@@ -17,7 +17,7 @@
     <string name="testmode_text">Тест услуги передачи данных GSM</string>
     <string name="testmode_toast">Выберите основную SIM-карту для подключения к сети</string>
     <string name="name_unknown">Неизвест.</string>
-    <string name="private_number">Скрытый номер</string>
+    <string name="private_number">Приватный номер</string>
     <string name="payphone_number">Количество зарядок</string>
     <string name="can_not_call">IP-вызовы не распространяются на номера с +86 / +</string>
     <string name="invalid_tel_num">Без номера</string>
@@ -33,7 +33,7 @@
     <string name="ip_call">IP-вызов</string>
     <string name="c_ip_call">IP-вызов (CDMA2000)</string>
     <string name="g_ip_call">IP-вызов (GSM)</string>
-    <string name="private_call">Личный вызов</string>
+    <string name="private_call">Приватный вызов</string>
     <string name="temp_store">Кэш</string>
     <string name="send_message">Послать SMS/MMS</string>
     <string name="add_to_contacts">Добавить в Контакты</string>

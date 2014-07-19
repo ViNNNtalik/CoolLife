@@ -2,8 +2,8 @@
 <resources>
     <string name="app_name">Менеджер приложений</string>
     <string name="dlg_title_cloudsecurity">Информация</string>
-    <string name="zero_size">0MB</string>
-    <string name="zero_num">0</string>
+
+
     <string name="installed_soft">Деинсталляция</string>
     <string name="apk_manage">Управление APK</string>
     <string name="soft_change_pos">Перенос</string>
@@ -45,7 +45,7 @@
     <string name="uninstall_data">Деинсталляция приложения</string>
     <string name="uninstall_alert_dlg_title">Деинсталляция</string>
     <string name="uninstall_alert_dlg_content">Вы уверены, что хотите деинсталлировать выбранное(ые) приложение(я)?</string>
-    <string name="uninstall_noappselected_alert">please choose the uninstall apps</string>
+    <string name="uninstall_noappselected_alert">Выберите приложения для деисталляции</string>
     <string name="install_alert_dlg_title">Совет по установке</string>
     <string name="install_alert_dlg_content">Установить выбранное(ые) приложение(я)? </string>
     <string name="install_noappselected_alert">Выберите приложение(я) для установки</string>
@@ -183,5 +183,5 @@
     <string name="UMIgnore">Игнорировать</string>
     <string name="UMToast_IsUpdating">Обновление....</string>
     <string name="UMDialog_InstallAPK">Последняя версия скачана. Установить ее?</string>
-    <string name="UMUpdateCheck">2.4.0.20131230</string>
+
 </resources>

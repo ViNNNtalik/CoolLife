@@ -326,7 +326,7 @@
     <string name="emergencyDialerIconLabel">Экстренный вызов</string>
     <string name="phoneIconLabel">Телефон</string>
     <string name="unknown">Неизвестный абонент</string>
-    <string name="private_num">Скрытый номер</string>
+    <string name="private_num">Приватный номер</string>
     <string name="payphone">Телефон-автомат</string>
     <string name="onHold">Ждет ответа</string>
     <string name="callFailed_userBusy">Линия занята</string>
@@ -1050,7 +1050,7 @@
     <string name="call_auto_no_contacts">Нет контактов для авто-записи. Нажмите клавишу ниже для добавления</string>
     <string name="call_auto_contacts_changed">Информация о контакте изменена. Нажмите для обновления</string>
     <string name="empty_list">Пустой список</string>
-    <string name="call_auto_private_contacts">Запретить запись для личных контактов</string>
+    <string name="call_auto_private_contacts">Запретить запись для приватных контактов</string>
     <string name="duplicate_contacts">Дубликат номера проигнорирован</string>
     <string name="progress_dialog_msg_add">Загрузка... Ожидайте</string>
     <string name="add_record_contacts">Авто-запись</string>

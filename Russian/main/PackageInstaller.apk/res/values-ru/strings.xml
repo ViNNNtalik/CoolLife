@@ -67,16 +67,16 @@
     <string name="privacyPerms">Конфиденциальность</string>
     <string name="devicePerms">Доступ к устройству</string>
     <string name="no_new_perms">Это обновление не требует новых разрешений</string>
-    <string name="install_onsd">Установка приложения на внешнюю SD-карту</string>
-    <string name="install_to_data">Установка приложения во внутреннюю память</string>
-    <string name="install_to_internal_sd">Установка приложения на внутреннюю SD-карту</string>
-    <string name="install_to_external_sd">Установка приложения на внешнюю SD-карту</string>
-    <string name="not_found_sdcard">Внешня SD-карта не найдена</string>
+    <string name="install_onsd">SD-карта</string>
+    <string name="install_to_data">Внутренняя память</string>
+    <string name="install_to_internal_sd">Внутреннее хранилище</string>
+    <string name="install_to_external_sd">SD-карта</string>
+    <string name="not_found_sdcard">SD-карта не найдена</string>
     <string name="storageofphone">Доступно внутр. памяти : %1$s</string>
-    <string name="storage_external">Доступно на внешней SD-карте： %1$s</string>
-    <string name="storageofSD">Доступно на внешней SD-карте: %1$s</string>
-    <string name="storageofinternalSD">Доступно на внутренней SD-карте: %1$s</string>
-    <string name="install_on_internal_sd">Установка приложения на внутреннюю SD-карту</string>
+    <string name="storage_external">Доступно на SD-карте： %1$s</string>
+    <string name="storageofSD">Доступно на SD-карте: %1$s</string>
+    <string name="storageofinternalSD">Доступно на внутр.хранилище: %1$s</string>
+    <string name="install_on_internal_sd">Внутреннее хранилище</string>
     <string name="unknown_apps_dlg_text_1">Для безопасности на устройстве заблокирована установка приложений из неизвестных источников</string>
     <string name="notice_after_install_sd">"Установка на SD-карту завершена успешно!
 

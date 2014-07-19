@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="VIDEOSupport">0</integer>
+    <integer name="UDISKSupport">0</integer>
+    <integer name="CoolPadFacture">9130</integer>
+    <integer name="PlayRecordSupport">1</integer>
+</resources>

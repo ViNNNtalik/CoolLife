@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alertway_list_preference">
+        <item>Мелодия и вибрация</item>
+        <item>Только мелодия</item>
+        <item>Только вибрация</item>
+        <item>Без звука</item>
+    </string-array>
+    <string-array name="alertwayvalue_list_preference">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="startactivity_list_preference">
+        <item>Мировое время</item>
+        <item>Будильник</item>
+        <item>Часы</item>
+        <item>Таймер</item>
+    </string-array>
+    <string-array name="startactivityvalue_list_preference">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="snooze_reminder_text">
+        <item>Сон 5 минут</item>
+        <item>Сон 10 минут</item>
+        <item>Сон 15 минут</item>
+        <item>Сон 20 минут</item>
+        <item>Сон 25 минут</item>
+        <item>Сон 30 минут</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Будильник зазвонит менее чем через минуту.</item>
+        <item>Будильник зазвонит через %1$s</item>
+        <item>Будильник зазвонит через %2$s</item>
+        <item>Будильник зазвонит через %1$s и %2$s</item>
+        <item>Будильник зазвонит через %3$s</item>
+        <item>Будильник зазвонит через %1$s и %3$s</item>
+        <item>Будильник зазвонит через %2$s и %3$s</item>
+        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="diabolo_duration_entries">
+        <item>1 мин.</item>
+        <item>3 мин.</item>
+        <item>5 мин.</item>
+    </string-array>
+    <string-array name="diabolo_duration_values">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Нет</item>
+        <item>Отложить</item>
+        <item>Отключить</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="sensor_button_setting_entries">
+        <item>Выкл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="sensor_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="autorestart_duration_entries">
+        <item>Никогда</item>
+        <item>"1 "</item>
+        <item>"2 "</item>
+        <item>"3 "</item>
+        <item>"5 "</item>
+    </string-array>
+    <string-array name="autorestart_duration_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_sort_items">
+        <item>Top</item>
+        <item>HD</item>
+        <item>Women</item>
+        <item>Scenery</item>
+        <item>Vision</item>
+        <item>Cartoon</item>
+        <item>City</item>
+        <item>Love</item>
+        <item>Novelty</item>
+        <item>Animal</item>
+        <item>Vehicle</item>
+        <item>Game</item>
+        <item>Gifts</item>
+        <item>Men</item>
+        <item>Art</item>
+        <item>Sports</item>
+        <item>Movie</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="effect_items">
+        <item>Случайный</item>
+        <item>Классика</item>
+        <item>Стек</item>
+        <item>Куб</item>
+        <item>Внутр. куб</item>
+        <item>Веер</item>
+        <item>Поворот</item>
+        <item>Мельница</item>
+        <item>Колесо</item>
+        <item>Стяжка</item>
+        <item>Змея</item>
+        <item>Ряд</item>
+    </string-array>
+    <string-array name="change_items">
+        <item>Нажмите для изменения локскрина</item>
+        <item>Нажмите для изменения обоев локскрина</item>
+        <item>Нажмите для изменения обоев дом. экрана</item>
+        <item>Нажмите для изменения обоев списка прилож.</item>
+        <item>Нажмите для изменения цвета обложки</item>
+        <item>Нажмите для изменения эффекта</item>
+        <item>Нажмите для изменения шрифта</item>
+    </string-array>
+    <string-array name="frequency_items">
+        <item>1s</item>
+        <item>2s</item>
+        <item>3s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>7s</item>
+        <item>8s</item>
+        <item>9s</item>
+        <item>10s</item>
+        <item>11s</item>
+        <item>12s</item>
+    </string-array>
+    <array name="effect_items_drawables">
+        <item>@drawable/coolshow_effects_random</item>
+        <item>@drawable/coolshow_effects_classic</item>
+        <item>@drawable/coolshow_effects_cascading</item>
+        <item>@drawable/coolshow_effects_cube</item>
+        <item>@drawable/coolshow_effects_cube</item>
+        <item>@drawable/coolshow_effects_fan</item>
+        <item>@drawable/coolshow_effects_folding</item>
+        <item>@drawable/coolshow_effects_card</item>
+        <item>@drawable/coolshow_effects_car_wheel</item>
+        <item>@drawable/coolshow_effects_gather</item>
+        <item>@drawable/coolshow_effects_gluttong_snake</item>
+        <item>@drawable/coolshow_effects_string</item>
+    </array>
+</resources>

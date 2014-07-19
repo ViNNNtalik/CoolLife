@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="click_unselect_background">#00000000</item>
+    <item type="drawable" name="title_icon_pressed">#ff2c2c2c</item>
+    <item type="drawable" name="click_select_background">#ff2c2c2c</item>
+    <item type="drawable" name="recover_btn_unclickable">#ffc2c2c2</item>
+    <item type="drawable" name="sync_click_unselect_background">#00000000</item>
+    <item type="drawable" name="sync_click_select_background">#ff01529d</item>
+    <item type="drawable" name="click_menu_background">#ff171717</item>
+</resources>

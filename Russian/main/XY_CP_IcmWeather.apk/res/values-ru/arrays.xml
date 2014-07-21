@@ -83,7 +83,7 @@
      <string-array name="aqi_effect">
          <item>Хорошая погода</item>
          <item>Умеренная погода</item>
-         <item> Легкое загрязнение</item>
+         <item>Легкое загрязнение</item>
          <item>Вредный воздух</item>
          <item>Рискованная погода</item>
          <item>Опасная погода</item>

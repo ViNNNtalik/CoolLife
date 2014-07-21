@@ -1016,7 +1016,7 @@
     <string name="s_menu_clear_folder">Очистить папку</string>
     <string name="s_menu_memory_info">Статистика</string>
     <string name="s_menu_setting">Настройки</string>
-    <string name="s_menu_intelligentize_clean">Умная чистка</string>
+    <string name="s_menu_intelligentize_clean">Умная очистка</string>
     <string name="s_intelligentize_clean">Удалить</string>
     <string name="s_menu_classify">Класс</string>
     <string name="s_menu_set_as">Установить как</string>

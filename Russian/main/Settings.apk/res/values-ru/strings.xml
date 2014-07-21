@@ -2336,7 +2336,7 @@ Can not set as ring!"</string>
     <string name="enable_homekey_tilte">Клавиша Домой</string>
     <string name="enable_homekey_summary">Нажатие клавиши Домой пробуждает экран</string>
     <string name="bug_report">Отчет об ошибке</string>
-    <string name="bug_report_new">Связаться с CoolPad и сообщить об ошибке</string>
+    <string name="bug_report_new">Отчет об ошибке</string>
     <string name="headset_sound_effects_enable_title">Без звуков касания с наушниками</string>
     <string name="no_activity_found">Приложение не установлено</string>
     <string name="flashlight_setting_title">Настройки фонарика</string>

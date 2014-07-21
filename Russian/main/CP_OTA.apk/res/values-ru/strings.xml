@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="COTA_SERVER_PREFIX">http://www.51coolpad.com/updsvr/ota/</string>
-    <string name="COTA_SERVER_PREFIX_INTERNAL">http://www.coolpadfuns.com:8080/updsvr/ota/</string>
-    <string name="COTA_SERVER_PREFIX_EXTERNAL">http://www.51coolpad.com/updsvr/ota/</string>
-    <string name="COTA_SERVER_PREFIX_PRETEST">http://www.coolpadfuns.com:9080/updsvr/ota/</string>
-    <string name="COTA_MANAGE_SERVER">http://www.51coolpad.com/OTA_Manager</string>
-    <string name="COTA_HISTORY_UPDTAE">刷新</string>
-    <string name="COTA_HISTORY_NO_FILE">无文件</string>
-    <string name="COTA_HISTORY_CLAER">清除</string>
-    <string name="COTA_HISTORY_UPDATE_FAILED">升级失败</string>
-    <string name="COTA_HISTORY_UPDATE_SUCCESS">升级成功</string>
-    <string name="COTA_HISTORY_INSTALL">安装升级包</string>
-    <string name="COTA_HISTORY_UPDATE_LATER">一小时后升级</string>
-    <string name="COTA_HISTORY_DOWNLOAD_COMPLETE">下载完成</string>
-    <string name="COTA_HISTORY_CANCEL_DOWNLOADING">下载过程中取消</string>
-    <string name="COTA_HISTORY_CANCLE_DOWNLOAD">取消下载</string>
-    <string name="COTA_HISTORY_DOWNLOAD_LATER">一小时后下载</string>
-    <string name="COTA_HISTORY_DOWNLOAD_LATER12">十二小时后下载</string>
-    <string name="COTA_HISTORY_NEW_VERSION_EXIST">检查到新版本</string>
-    <string name="COTA_HISTORY_NO_NEW_VERSION">无新版本</string>
-    <string name="COTA_HISTORY_REGISTER_SUCCESS">注册成功</string>
-    <string name="COTA_HISTORY_REGISTER_FAILED">注册失败</string>
-    <string name="COTA_HISTORY_REGISTER_START">开始注册</string>
-    <string name="COTA_HISTORY_CHECK_VERSION_BEGIN">开始检查版本</string>
-    <string name="COTA_HISTORY_DOWNLOAD_START">开始下载</string>
-    <string name="COTA_HISTORY_INSTALL_FAILED">安装升级包失败</string>
-    <string name="COTA_HISTORY_DOWNLOAD_FAILED">电量不足，下载失败</string>
-    <string name="COTA_HISTORY_UPADTE_FAILED_LOW_BATTERY">未勾选向后版本升级或其他原因，升级结束</string>
-    <string name="COTA_HISTORY_UPADTE_FAILED_SD_ABSENT">SD卡不存在，升级结束</string>
-    <string name="COTA_HISTORY_UPADTE_FAILED_SD_LOW_SPACE">SD卡空间 不足，升级结束</string>
-    <string name="COTA_HISTORY_DOWNLOAD_FAILED_NET_BREAK">网络中断，下载结束</string>
-    <string name="COTA_HISTORY_DOWNLOAD_FAILED_OTHER">其他原因，下载失败</string>
-    <string name="COTA_HISTORY_UPADTE_FAILED_PACHAGE_ERROR">下载结束，校验失败</string>
-    <string name="COTA_HISTORY_INSTALL_PACKAGE_ABSENT">安装包时，包不存在</string>
-    <string name="COTA_HISTORY_INSTALL_SD_ABSENT">安装包时，SD卡不存在</string>
-    <string name="COTA_HISTORY_DOWNLOAD_ALREADY">已下载：</string>
-    <string name="COTA_HISTORY_DOWNLOAD_RETRY_TIME">重试累计：n =</string>
-    <string name="hello">Hello World!</string>
-    <string name="app_name">Wireless Update</string>
-    <string name="template_user_agent">%1$s/%2$s (Linux; Android)</string>
+
+
+
+
+
+    <string name="COTA_HISTORY_UPDTAE">Refresh</string>
+    <string name="COTA_HISTORY_NO_FILE">no file</string>
+    <string name="COTA_HISTORY_CLAER">Clear</string>
+    <string name="COTA_HISTORY_UPDATE_FAILED">upgrade failed</string>
+    <string name="COTA_HISTORY_UPDATE_SUCCESS">upgraded successfully</string>
+    <string name="COTA_HISTORY_INSTALL">install the upgrade package</string>
+    <string name="COTA_HISTORY_UPDATE_LATER">upgrade an hour later</string>
+    <string name="COTA_HISTORY_DOWNLOAD_COMPLETE">download completed</string>
+    <string name="COTA_HISTORY_CANCEL_DOWNLOADING">cancel the download process</string>
+    <string name="COTA_HISTORY_CANCLE_DOWNLOAD">cancel the download</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER">one hour after downloading</string>
+    <string name="COTA_HISTORY_DOWNLOAD_LATER12">twelve hours after the download</string>
+    <string name="COTA_HISTORY_NEW_VERSION_EXIST">check to the new version</string>
+    <string name="COTA_HISTORY_NO_NEW_VERSION">No new version</string>
+    <string name="COTA_HISTORY_REGISTER_SUCCESS">registered successfully</string>
+    <string name="COTA_HISTORY_REGISTER_FAILED">registration failed</string>
+    <string name="COTA_HISTORY_REGISTER_START">begin registration</string>
+    <string name="COTA_HISTORY_CHECK_VERSION_BEGIN">began to check the version</string>
+    <string name="COTA_HISTORY_DOWNLOAD_START">start downloading</string>
+    <string name="COTA_HISTORY_INSTALL_FAILED">install the upgrade package failed</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED">electricity shortage, download failed</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_LOW_BATTERY">unchecked backwards version upgrades or other reasons, the upgrade is complete</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_ABSENT">SD card is not present, the upgrade is complete</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_SD_LOW_SPACE"> lack of SD card space, upgrade end</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_NET_BREAK">network outages, the download is completed</string>
+    <string name="COTA_HISTORY_DOWNLOAD_FAILED_OTHER">other reasons, download failed</string>
+    <string name="COTA_HISTORY_UPADTE_FAILED_PACHAGE_ERROR">the download is complete, check failed</string>
+    <string name="COTA_HISTORY_INSTALL_PACKAGE_ABSENT">When installation package, the package does not exist</string>
+    <string name="COTA_HISTORY_INSTALL_SD_ABSENT">When installation package, SD card does not exist</string>
+    <string name="COTA_HISTORY_DOWNLOAD_ALREADY">Downloaded:</string>
+    <string name="COTA_HISTORY_DOWNLOAD_RETRY_TIME">retry cumulative: n =</string>
+    <string name="app_name">Обновление</string>
+
     <string name="dlg_btn_positive_autoupdate">Enable</string>
     <string name="dlg_btn_negative_autoupdate">Disable</string>
     <string name="dlg_message_autoupdate">"Auto check for update is a system update service provided by Yulong Coolpad. Once enabled, your phone can auto check for the latest system update packet, so as to get a stabler software and better experience.
@@ -47,11 +46,11 @@
 
  Prompt: Auto check for update needs to connect to the Internet, which will incur little data flow.
 "</string>
-    <string name="dlg_title_autoupdate">Auto Check for Update</string>
-    <string name="dlg_btn_positive_download">Download</string>
-    <string name="dlg_btn_backup_download">Download</string>
-    <string name="dlg_btn_negative_download">Cancel</string>
-    <string name="dlg_btn_later_download">Later</string>
+    <string name="dlg_title_autoupdate">Автомат. провека обновления</string>
+    <string name="dlg_btn_positive_download">Загрузка</string>
+    <string name="dlg_btn_backup_download">Загрузка</string>
+    <string name="dlg_btn_negative_download">Отмена</string>
+    <string name="dlg_btn_later_download">Позже</string>
     <string name="dlg_message_download">Coolpad developers are always dedicating to improve the user experience. New system update(Ver %s) is ready for download. Please upgrade and experience it.</string>
     <string name="big_version_message_download">"\u0009\u0009Coolpad always focuses on user experience.This update is new Android version ,which will bring you better experience.Update packet is so large that it brings flow rates on phone card network.Please use WiFi to upgrade.
 \u0009\u0009This is an important upgrade that system will auto backup data for you.
@@ -59,10 +58,10 @@ Version no.:%s"</string>
     <string name="dlg_message_download2">Prompt: Upgrade of the system will not affect your mobile phone data.</string>
     <string name="dlg_message_download3">You can execute manual upgrade at “Settings->About phone->Check for Update” and normal data rates may apply to download system updates.</string>
     <string name="dlg_title_download">Download System Update Package</string>
-    <string name="dlg_check_wifi_download">Remind me one hour later</string>
-    <string name="dlg_btn_positive_update">Ok</string>
-    <string name="dlg_btn_negative_update">Cancel</string>
-    <string name="dlg_btn_later_update">Later</string>
+    <string name="dlg_check_wifi_download">Напомнить через час</string>
+    <string name="dlg_btn_positive_update">ОК</string>
+    <string name="dlg_btn_negative_update">Отмена</string>
+    <string name="dlg_btn_later_update">Позже</string>
     <string name="dlg_message_update">"New system update(Ver %s) is ready for use.
 
 System will immediately reboot to start update if you choose Update Now. The software updating might take several minutes. During the updating, all the functions will be unavailable, including emergency call. 
@@ -71,16 +70,16 @@ Updating doesn't affect your personal data.
 It will automatically reboot after update completed.
 Do not power off during upgrade.
 "</string>
-    <string name="dlg_title_update">Update System</string>
-    <string name="toast_no_available_update">Your phone software version is the latest one.</string>
-    <string name="toast_server_not_available">Your phone software version is the latest one.</string>
-    <string name="toast_in_update">Your phone is updating now, please retry later.</string>
-    <string name="toast_connect_not_available">Please insert SIM card or enable data connection!</string>
+    <string name="dlg_title_update">Обновление прошивки</string>
+    <string name="toast_no_available_update">Ваша прошивка самая последняя!</string>
+    <string name="toast_server_not_available">Ваша прошивка самая последняя!</string>
+    <string name="toast_in_update">Ваше устройство обновляется. Попробуйте позже</string>
+    <string name="toast_connect_not_available">Нет сети. Проверьте подключение!</string>
     <string name="toast_result_cancel_download">User canceled before download.</string>
-    <string name="toast_result_backup_fail">Data backup fail.</string>
+    <string name="toast_result_backup_fail">Ошибка бэкапа</string>
     <string name="toast_result_cancel_downloading">User canceled while downloading package.</string>
     <string name="toast_result_download_fail">An error occur while downloading package, update failed.</string>
-    <string name="toast_result_update_success">Update success.</string>
+    <string name="toast_result_update_success">Успешно обновлено</string>
     <string name="toast_result_update_failure">The downloaded package is not correct, update failed.</string>
     <string name="toast_result_cancel_update">User canceled before update.</string>
     <string name="toast_result_disk_full">"The download fails due to insufficient memory in the device to save the firmware update package, It's reboot your phone and try again."</string>
@@ -94,23 +93,23 @@ Do not power off during upgrade.
     <string name="title_download_optional">Download Optional Package</string>
     <string name="title_update_mandatory">Update Mandatory Package</string>
     <string name="title_update_optional">Update Optional Package</string>
-    <string name="title_putin_password">Please put in passwords</string>
-    <string name="login_password_hit">Please put in passwords</string>
-    <string name="password_error">Password error.</string>
-    <string name="network_error">NetWork error.</string>
-    <string name="password_is_null">The password is not available</string>
-    <string name="pkg_size">Package Size:</string>
+    <string name="title_putin_password">Введите пароль</string>
+    <string name="login_password_hit">Введите пароль</string>
+    <string name="password_error">Ошибка пароля</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="password_is_null">Пароль недоступен</string>
+    <string name="pkg_size">Размер пакета:</string>
     <string name="pkg_mbs">M</string>
-    <string name="pkg_time">Time Remained:</string>
-    <string name="pkg_note">"Package description: 
+    <string name="pkg_time">"Осталось: "</string>
+    <string name="pkg_note">"Описание пакета:  
 "</string>
-    <string name="time_hour">Hour</string>
-    <string name="time_minute">Minute</string>
-    <string name="time_second">Second</string>
-    <string name="select_server">Select the Server</string>
+    <string name="time_hour">" час."</string>
+    <string name="time_minute">" мин."</string>
+    <string name="time_second">" сек."</string>
+    <string name="select_server">Выбор сервера</string>
     <string name="address_internal">Test Server Internal Address</string>
     <string name="address_external">Formal Server External Address</string>
-    <string name="login_doing">Checking password</string>
+    <string name="login_doing">Проверка пароля</string>
     <string name="check_doing">Getting password from server,please wait</string>
     <string name="clear">Clear OTA preference</string>
     <string name="function_test">OTA Function Test only for engineers</string>
@@ -160,18 +159,18 @@ The optimization may take several minutes and do not power off during it."</stri
     <string name="system_property_value_lc">LC (Batch version, formal server default)</string>
     <string name="system_property_value_cs">CS (Test version, test server default)</string>
     <string name="system_property_value_null">No define (Default server depends on DM tag)</string>
-    <string name="ota_test_button">OTA Test</string>
-    <string name="ota_settings">System update settings</string>
-    <string name="ota_check_update">Check Update</string>
-    <string name="ota_check_update_for_result">check new version</string>
-    <string name="auto_update_checked_on">System checks update once per 3 days</string>
-    <string name="auto_update_checked_off">System does not update automatically</string>
-    <string name="download_ask_every_time">Ask before download update package</string>
-    <string name="download_ask_every_time_on">When new version available,notice me</string>
-    <string name="download_ask_every_time_off">When new version available,download package automatically</string>
-    <string name="wifi_available_auto_download">Download package via WIFI</string>
-    <string name="wifi_available_auto_download_on">Download package automatically when wifi available</string>
-    <string name="wifi_available_auto_download_off">Donot download package automatically via wifi</string>
+    <string name="ota_test_button">Тест OTA</string>
+    <string name="ota_settings">Настройки обновления прошивки</string>
+    <string name="ota_check_update">Проверка обновления</string>
+    <string name="ota_check_update_for_result">Проверка новой версии прошивки</string>
+    <string name="auto_update_checked_on">Система проверяет обновления раз в 3 дня</string>
+    <string name="auto_update_checked_off">Система не проверяет обновления</string>
+    <string name="download_ask_every_time">Спрашивать перед загрузкой пакета обновления</string>
+    <string name="download_ask_every_time_on">Увеломдять, когда доступна новая версия</string>
+    <string name="download_ask_every_time_off">Скачивать пакет обновления автоматически</string>
+    <string name="wifi_available_auto_download">Загрузка по Wi-Fi</string>
+    <string name="wifi_available_auto_download_on">Загружать пакеты, когда Wi-Fi доступен</string>
+    <string name="wifi_available_auto_download_off">Не загружать пакеты автоматически поWi-Fi</string>
     <string name="toast_ota_setting_hint">You can set this in Settings>About phone>System update settings</string>
     <string name="download_settings">Download package settings</string>
     <string name="ota_property_test">OTA property test</string>
@@ -180,26 +179,26 @@ The optimization may take several minutes and do not power off during it."</stri
     <string name="phone_software">Inner software version</string>
     <string name="phone_sn">Phone SN number</string>
     <string name="phone_dm_tag">DM tag</string>
-    <string name="phone_auto_check">Auto check update</string>
+    <string name="phone_auto_check">Автомат. проверка обновения</string>
     <string name="phone_next_check_time">When to check update again</string>
     <string name="already_download_file">You have completed the download</string>
     <string name="ota_history_record">OTA History Record</string>
     <string name="ota_history_record_start">Start OTA Record</string>
     <string name="ota_runningmode_control">Start OTA running mode control</string>
-    <string name="message_current_version">"Current System Version
+    <string name="message_current_version">"Текущая версия прошивки
 %s"</string>
-    <string name="message2_update_version">"Update System Version
+    <string name="message2_update_version">"Версия прошивки обновления
 %s"</string>
     <string name="message3_tips_youhua1">Latest update includes a number of updates, you can immediately download to update the system.</string>
-    <string name="message3_tips_youhua2">Click Ok to update the system.</string>
-    <string name="message4_package_size">Size:%sMB</string>
-    <string name="message5_update_detail">Update Detail</string>
-    <string name="message7_note">"Notice：
+    <string name="message3_tips_youhua2">Нажмите \"ОК\" для обновления прошивки</string>
+    <string name="message4_package_size">Размер: %sMB</string>
+    <string name="message5_update_detail">Детали обновления</string>
+    <string name="message7_note">"Заметка：
 1.System Update will not affect your personal data.
 2.Download system update package may result in data traffic costs."</string>
-    <string name="message_current_detail">Release note</string>
+    <string name="message_current_detail">Детали</string>
     <string name="toast_in_downloading">Downloading the upgrade package, the notification bar to view the progress of downloading.</string>
-    <string name="message_no_history">No update records</string>
+    <string name="message_no_history">Нет обновления</string>
     <string name="toast_show_dialog_again12">This dialog will appear again after %s</string>
     <string name="coolmini_register_failed">coolmini register failed!</string>
     <string name="coolmini_no_update">coolmini no update!</string>

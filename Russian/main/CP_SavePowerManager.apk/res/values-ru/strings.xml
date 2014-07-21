@@ -96,7 +96,7 @@
     <string name="text_close_apn_first_notify_text">Выключение экрана сохранит заряд батареи</string>
     <string name="text_forbit_alarm_title">Управление пробуждением</string>
     <string name="text_forbit_alarm_summary">Запретить CPU временное пробуждение в режиме ожидания</string>
-    <string name="text_forbit_alarm_abstract">Выбранные приложения запустятся автоматически в режиме ожидания</string>
+    <string name="text_forbit_alarm_abstract">Выбранные приложения смогут запускаться в режиме ожидания</string>
     <string name="text_forbit_alarm_list_title">Личные приложения</string>
     <string name="text_autoset_brightness_title">Регулировка подсветки</string>
     <string name="text_autoset_brightness_summary">Подсветка регулируется в зависимости от заряда батареи</string>

@@ -1011,5 +1011,5 @@
     <string name="delegate_view_tag">Делегация</string>
     <string name="message_Setting">Китайские PUSH-сообщения</string>
     <string name="pref_default_text_size_dialogtitle">Зум текста</string>
-    <string name="sliding_to_the_left_prompt">Сделайте слайдинг в разные стороны. Найдите новые функции!</string>
+    <string name="sliding_to_the_left_prompt">Добро пожаловать!</string>
 </resources>

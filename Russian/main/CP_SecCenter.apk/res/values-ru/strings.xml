@@ -354,9 +354,9 @@
     <string name="clear_trash_file_information">%1$s памяти очищено</string>
     <string name="sms_send_success">Сообщение отправлено</string>
     <string name="sms_send_fail">Не удалось отправить</string>
-    <string name="text_notice_health_from_exam">Необходима проверка уровня безопасности ></string>
+    <string name="text_notice_health_from_exam">Необходима оптимизация безопасности ></string>
     <string name="text_notice_save_from_set">Настройки тарифного плана ></string>
-    <string name="text_notice_normal">Круглосуточная защита данных</string>
+    <string name="text_notice_normal">Круглосуточная защита трафика</string>
     <string name="text_notice_mobile_improve">Рекомендовано: Поплавок оптимизации ></string>
     <string name="text_notice_private_space">Рекомендовано: Личный кабинет ></string>
     <string name="text_notice_no_distrub">Рекомендовано: Перехватчик ></string>

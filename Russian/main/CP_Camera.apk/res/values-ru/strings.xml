@@ -102,7 +102,7 @@
     <string name="photoeditor_redo">Повторить</string>
     <string name="photoeditor_savepath">CoolPad/photo</string>
     <string name="photoeditor_gif">Нельзя редактировать GIF</string>
-    <string name="app_name">Галерея</string>
+    <string name="app_name">Камера</string>
     <string name="vedio_name">Видео</string>
     <string name="gadget_title">Рамка</string>
     <string name="details_ms">%1$02d:%2$02d</string>

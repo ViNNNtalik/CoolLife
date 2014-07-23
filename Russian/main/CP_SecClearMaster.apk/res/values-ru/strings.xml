@@ -1379,8 +1379,8 @@
     <string name="text_memery_total">Всего</string>
     <string name="text_user_app">Пользовательские приложения</string>
     <string name="text_system_app">Системные приложения</string>
-    <string name="text_my_list">Список пользовательских приложений</string>
-    <string name="text_system_list">Список системных приложений</string>
+    <string name="text_my_list">Пользовательские приложения</string>
+    <string name="text_system_list">Системные приложения</string>
     <string name="text_add_whitelist_explan">Приложения из белого списка будут пропущены</string>
     <string name="text_running_application">Запущено приложений</string>
     <string name="text_deep_improve">Глубокая очистка</string>

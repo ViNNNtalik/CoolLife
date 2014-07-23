@@ -549,10 +549,10 @@ Bluetooth-монитор включен"</string>
     <string name="empty" />
     <string name="dataprotection_menu_setting">Настройка защиты данных</string>
     <string name="setting">Настройки</string>
-    <string name="allowed">Разрешено</string>
-    <string name="forbidden">Запрещено</string>
-    <string name="btn_forbidden_text">Запрещено (%d s)</string>
-    <string name="btn_allow_text">Разрешено (% d сек.)</string>
+    <string name="allowed">Да</string>
+    <string name="forbidden">Нет</string>
+    <string name="btn_forbidden_text">Нет (%d с.)</string>
+    <string name="btn_allow_text">Да (%d с.)</string>
     <string name="has_allowed">Разрешено</string>
     <string name="has_forbidden">Запрещено</string>
     <string name="has_hiden">Спрятано</string>

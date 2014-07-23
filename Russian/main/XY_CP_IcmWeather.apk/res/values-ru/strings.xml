@@ -185,8 +185,8 @@
     <string name="widget_alpha_setting">Прозрачность виджета на рабочем столе</string>
     <string name="widget_alpha">Прозрачность виджета</string>
     <string name="alpha_setting">Настройки прозрачности</string>
-    <string name="city_add_current">"Тек.местопол.: "</string>
-    <string name="city_add_click_to_relocate">Нажмите для определения</string>
+    <string name="city_add_current">"Тек.полож.: "</string>
+    <string name="city_add_click_to_relocate">Определить</string>
     <string name="city_add_locate_first">Нажмите для определения местоположения</string>
     <string name="city_add_default_city_beijing">北京</string>
     <string name="common_string_dou">", "</string>
@@ -417,8 +417,8 @@
     <string name="trend_more_click_text">Для расширенного меню нажмите здесь</string>
     <string name="widget_loading_tips">Загрузка, пожалуйста, подождите...</string>
     <string name="weather_upgrade_new">Проверка версии</string>
-    <string name="weather_upgrade_new_content">Вы используете последнюю версию, вы можете зайти на официальный веб-сайт для проверки!</string>
-    <string name="weather_upgrade_new_button">Сеть для просмотра</string>
+    <string name="weather_upgrade_new_content">Вы используете последнюю версию, можно зайти на официальный веб-сайт для проверки!</string>
+    <string name="weather_upgrade_new_button">Запуск браузера</string>
     <string name="city_setting">Настройки города</string>
     <string name="appwidget24">Двойная погода</string>
     <string name="appwidget24_4day">Погода Cool</string>

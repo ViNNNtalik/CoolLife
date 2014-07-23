@@ -499,7 +499,7 @@
 Повторная попытка отправить</string>
     <string name="menu_lock">В избранное</string>
     <string name="menu_unlock">Из избранного</string>
-    <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
+    <string name="sim_copy_to_phone_memory">Копировать в память устройства</string>
     <string name="sim_delete">Удалить</string>
     <string name="sim_view">Просмотр</string>
     <string name="delivery_header_title">Отчет</string>
@@ -692,7 +692,7 @@
     <string name="send_settings">Настройки отправки</string>
     <string name="recieve_settings">Получение настроек</string>
     <string name="signature_settings">Настройки подписи</string>
-    <string name="save_to_system_memory">Сохранить в телефон</string>
+    <string name="save_to_system_memory">Сохранить в устройство</string>
     <string name="save_to_sim_card">Сохранить на SD-карту</string>
     <string name="used_memory">Использовано</string>
     <string name="remaining_memory">Свободно</string>
@@ -919,7 +919,7 @@
     <string name="mms_message_cannot_be_moved">Не удается переместить избранное сообщение</string>
     <string name="first_page">Первая страница</string>
     <string name="last_page">Последняя страница</string>
-    <string name="phone">Телефон</string>
+    <string name="phone">Устройство</string>
     <string name="used">Использовано</string>
     <string name="free">Свободно</string>
     <string name="string_delet_foler">Удалить папку?</string>
@@ -1021,7 +1021,7 @@
     <string name="s_menu_classify">Класс</string>
     <string name="s_menu_set_as">Установить как</string>
     <string name="s_menu_batch_delmsg">Групповое удаление</string>
-    <string name="s_menu_batch_operations">Групопвой выбор</string>
+    <string name="s_menu_batch_operations">Групповой выбор</string>
     <string name="s_menu_batch_delete">Удалить</string>
     <string name="s_menu_batch_copy">Копировать</string>
     <string name="s_menu_batch_move">Переместить</string>
@@ -1076,9 +1076,9 @@
     <string name="string_wait_to_save">Сохранение ... Пожалуйста, подождите</string>
     <string name="recipient_mark">Получатель</string>
     <string name="subject_mark">Тема:</string>
-    <string name="menu_delete_part_messages">Удалить часть</string>
-    <string name="menu_delete_sent_messages">Часть исходящих</string>
-    <string name="menu_delete_received_messages">Часть входящих</string>
+    <string name="menu_delete_part_messages">Частичное удаление</string>
+    <string name="menu_delete_sent_messages">Из исходящих</string>
+    <string name="menu_delete_received_messages">Из входящих</string>
     <string name="guard_forward_msg_ack">Сообщения будут переадресованы на * в соответствии с настройками. Вы можете отправить инструкцию для отмены переадресации</string>
     <string name="guard_stop_forward_msg_ack">Переадресация сообщений отменена</string>
     <string name="guard_cancel_msg">Антивор отключен. Перезапустите устройство для вступления настроек в силу</string>
@@ -1330,7 +1330,7 @@
     <string name="move_to_card">Переместить на SIM-карту</string>
     <string name="cmessage_tips">Cool-сообщения</string>
     <string name="cmessage_guide">Добро пожаловать в Cool-сообщения</string>
-    <string name="cmessage_guide_tips">Бесплатная отправка сообщений между CoolPad телефонами</string>
+    <string name="cmessage_guide_tips">Бесплатная отправка сообщений между Coolpad-устройствами</string>
     <string name="cmessage_guide_set_default">Вы можете отключить Cool-сообщения вручную</string>
     <string name="cmessage_guide_activate">Активировать</string>
     <string name="cmessage_guide_skip">Пропустить</string>
@@ -1340,7 +1340,7 @@
     <string name="cmessage_tel_bending">Аккаунт в Облаке Coolpad</string>
     <string name="cmessage_tel_login">Войти в Облако Coolpad</string>
     <string name="cmessage_tel_list">Облако Coolpad предоставляет облачные сервисы, помогающие в резервномм копировании и восстановлении данных</string>
-    <string name="cmessage_text_setting">Отправка бесплатных сообщений между CoolPad телефонами</string>
+    <string name="cmessage_text_setting">Отправка бесплатных сообщений между Coolpad-устройствами</string>
     <string name="cmessage_text_smssend">Использовать SMS, когда Cool-сообщения выключены</string>
     <string name="cmessage_text_toastbuttondown">Нажмите для активации</string>
     <string name="cmessage_status_activate">Аккаунт активирован</string>

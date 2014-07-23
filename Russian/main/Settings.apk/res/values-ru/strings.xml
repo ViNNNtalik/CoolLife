@@ -1492,7 +1492,7 @@
     <string name="clear_failed_dlg_title">Стереть данные</string>
     <string name="clear_failed_dlg_text">Не удалось удалить данные</string>
     <string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
-    <string name="security_settings_desc_multi">Для увеличения быстродействия и уменьшения потребления памяти некоторые из разрешиний доступны %1$s, т.к. он запущен одним процессом с %2$s:</string>
+    <string name="security_settings_desc_multi">Для увеличения быстродействия и уменьшения потребления памяти некоторые из разрешений доступны %1$s, т.к. он запущен одним процессом с %2$s:</string>
     <string name="join_two_items">%1$s и %2$s</string>
     <string name="join_many_items_last">%1$s и %2$s</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
@@ -2262,10 +2262,10 @@ Can not set as ring!"</string>
     <string name="screen_time_out_never">Не выключать</string>
     <string name="sd_card_unmount">Нельзя отключить SD-карту во время работы используемых приложений</string>
     <string name="sd_card_mount">Не удается подключить SD-карту</string>
-    <string name="monkeytest_running">MonkeyTest запущен....</string>
+    <string name="monkeytest_running">Monkey-тест запущен....</string>
     <string name="bluetooth_state_in_airplaneMode">Включен режим полета, Bluetooth нельзя включить</string>
     <string name="bluetooth_state_in_airplaneMode_OK">ОК</string>
-    <string name="device_systemupdate_activity_title">Обновление системы</string>
+    <string name="device_systemupdate_activity_title">Обновление прошивки Coolpad</string>
     <string name="tether_settings_title_yulong_all">Раздача...</string>
     <string name="gms_package_install_title">GMS-установка</string>
     <string name="gms_package_install_summary">Установка GMS-файлов на устройство</string>
@@ -2280,7 +2280,7 @@ Can not set as ring!"</string>
     <string name="ectad_wallpaper_title">Ectad-обои</string>
     <string name="restore_to_default_title">По умолчанию</string>
     <string name="chooser_wallpaper">Источник обоев</string>
-    <string name="configure_wallpaper">НАстройка...</string>
+    <string name="configure_wallpaper">Настройка...</string>
     <string name="restore_wallpaper_title">Восстановить обои по умолчанию</string>
     <string name="resetwallpapertoast">Обои по умолчанию восстановлены</string>
     <string name="restore_wallpaper_text">Восстановить обои по умолчанию?</string>
@@ -2333,10 +2333,10 @@ Can not set as ring!"</string>
     <string name="Grass_tone_Sat">Grass tone(Sat)</string>
     <string name="Skin_tone_Sat">Skin tone(Sat)</string>
     <string name="step_option_default_value">0</string>
-    <string name="enable_homekey_tilte">Клавиша Домой</string>
-    <string name="enable_homekey_summary">Нажатие клавиши Домой пробуждает экран</string>
+    <string name="enable_homekey_tilte">Клавиша \"Домой\"</string>
+    <string name="enable_homekey_summary">Нажатие клавиши \"Домой\" пробуждает экран</string>
     <string name="bug_report">Отчет об ошибке</string>
-    <string name="bug_report_new">Отчет об ошибке</string>
+    <string name="bug_report_new">Отчеты об ошибках</string>
     <string name="headset_sound_effects_enable_title">Без звуков касания с наушниками</string>
     <string name="no_activity_found">Приложение не установлено</string>
     <string name="flashlight_setting_title">Настройки фонарика</string>

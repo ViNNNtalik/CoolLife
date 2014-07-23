@@ -275,8 +275,8 @@
     <string name="get_data_4">Получить новые данные 4</string>
     <string name="get_data_5">Получить новые данные 5</string>
     <string name="get_data_6">Получить новые данные 6</string>
-    <string name="sdcard_total_space">Внутреннее хранилище:</string>
-    <string name="ext_sdcard_total_space">Внешняя SD-карта:</string>
+    <string name="sdcard_total_space">"Внутреннее хранилище: "</string>
+    <string name="ext_sdcard_total_space">"SD-карта: "</string>
     <string name="tel_total_space">"Устройство: "</string>
     <string name="space_available">"Доступно: "</string>
     <string name="udisk_total_space">"Диск: "</string>
@@ -584,10 +584,10 @@
     <string name="cleaner_find_log">Найдены файлы-логи приложений</string>
     <string name="cleaner_find_emptydir">Найдены пустые папки</string>
     <string name="cleaner_find_thumb">Найдены миниатюры кэш-файлы</string>
-    <string name="cleaner_trash_filesnumber">Файлов:</string>
-    <string name="cleaner_trash_foldernumber">Папок:</string>
+    <string name="cleaner_trash_filesnumber">"Файлов: "</string>
+    <string name="cleaner_trash_foldernumber">"Папок: "</string>
     <string name="cleaner_trash_totalsize">"; общий размер: "</string>
-    <string name="cleaner_set_scan_threshold">Поиск threshold</string>
+    <string name="cleaner_set_scan_threshold">Поиск порога</string>
     <string name="cleaner_set_scan_threshold_abnormal">Не удалось задать порог</string>
     <string name="phone_freespace_description">Внутр. хранилище</string>
     <string name="sdcard_freespace_description">SD-карта</string>

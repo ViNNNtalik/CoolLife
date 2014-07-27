@@ -511,12 +511,12 @@
     <string name="dialog_safebox_records_path">Заметка: Записанные файлы будут перемещены в оригинальную папку</string>
     <string name="dialog_safebox_recover_remove_path">Перемещение в оригинальную папку</string>
     <string name="dialog_safebox_custom_remove_path">Перемещение в заданную папку</string>
-    <string name="path_mydownload">/MyDownloads</string>
-    <string name="path_mail">/Coolpad/Mail</string>
+    <string name="path_mydownload">/Download</string>
+    <string name="path_mail">/Coolpad/Email</string>
     <string name="path_music">/Coolpad/Music</string>
-    <string name="path_musicdown">/Coolpad/DownloadMusic</string>
-    <string name="path_musicshop">/Coolpad/Software</string>
-    <string name="path_dolphin">/Dolphin/download</string>
+    <string name="path_musicdown">/Coolpad/Music</string>
+    <string name="path_musicshop">/Coolpad/Music</string>
+    <string name="path_dolphin">/Coolpad/Download</string>
     <string name="file_msg_scanning">Сканирование... Ожидайте</string>
     <string name="file_msg_foundfile">Файл найден</string>
     <string name="file_msg_scandir">Сканирование папки</string>

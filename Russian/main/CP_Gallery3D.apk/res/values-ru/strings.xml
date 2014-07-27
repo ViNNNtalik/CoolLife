@@ -172,7 +172,7 @@
     <string name="photoeditor_fix">Изменить</string>
     <string name="photoeditor_undo">Отменить</string>
     <string name="photoeditor_redo">Повторить</string>
-    <string name="photoeditor_savepath">CoolPad/photo</string>
+    <string name="photoeditor_savepath">CoolPad/Images</string>
     <string name="photoeditor_gif">Нельзя редактировать GIF-изображения</string>
     <string name="app_name">Галерея</string>
     <string name="vedio_name">Видео</string>
@@ -342,11 +342,11 @@
     <string name="pano_progress_text">Создание панорамы…</string>
     <string name="save">Сохранить</string>
     <string name="item_camera_path">/DCIM/Camera</string>
-    <string name="item_collectpic_path">/Coolpad/Collected images</string>
-    <string name="item_save_path">/Coolpad/saved images</string>
+    <string name="item_collectpic_path">/Coolpad/Images</string>
+    <string name="item_save_path">/Coolpad/Images</string>
     <string name="item_section_path">/Coolpad/Screenshots</string>
-    <string name="item_bluetooth_path">/bluetooth</string>
-    <string name="item_browser_path">/Downloads</string>
+    <string name="item_bluetooth_path">/Bluetooth</string>
+    <string name="item_browser_path">/Download</string>
     <string name="item_wallpaper_path">/Coolpad/coolshow/wallpaper</string>
     <string name="item_aappreciator_path">/resource/Coolpad/Image_show/show_</string>
     <string name="item_modified_path">/Coolpad/Modified</string>
@@ -355,7 +355,7 @@
     <string name="item_save_path_name">Save</string>
     <string name="item_section_path_name">Screenshots</string>
     <string name="item_bluetooth_path_name">Bluetooth</string>
-    <string name="item_browser_path_name">Downloads</string>
+    <string name="item_browser_path_name">Download</string>
     <string name="item_wallpaper_path_name">Wallpaper</string>
     <string name="item_aappreciator_path_name">Show_</string>
     <string name="item_modified_path_name">Modified</string>

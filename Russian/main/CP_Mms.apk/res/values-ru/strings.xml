@@ -1283,7 +1283,7 @@
     <string name="auto_save_pic">Автосохранение изображений</string>
     <string name="send_mms_notification">Состояние оправки</string>
     <string name="save_send_success">Сохранять отправленные</string>
-    <string name="save_mms_path">Coolpad/saved images/</string>
+    <string name="save_mms_path">Coolpad/Images/</string>
     <string name="my_data_camera_path">/data/android</string>
     <string name="exceed_mms_size_limit">Достигнут предел размера MMS</string>
     <string name="compress_image_fail_reason_1">Путь к изображению недоступен</string>

@@ -339,7 +339,7 @@
     <string name="preferences_home_tz_title">Мой часовой пояс</string>
 
     <string name="preferences_about_title">О программе</string>
-    <string name="preferences_build_version">Версия сборки</string>
+    <string name="preferences_build_version">Версия сборки (перевод ViNNNtalik)</string>
     <string name="app_name">Новый календарь</string>
     <string name="msg_attendees">SMS/MMS</string>
     <string name="email_attendees">Эл.письмо</string>
@@ -704,7 +704,7 @@
     <string name="date_distance">Интервал</string>
     <string name="week_query">Неделя</string>
     <string name="format_type1">dd.MM.yyyy</string>
-    <string name="format_type2">У DDD ww yyyy г.</string>
+    <string name="format_type2">dd.MM.yyyy</string>
     <string name="format_type3">dd.MM.yyyy E</string>
     <string name="distance">"Расст. "</string>
     <string name="tool_date">"  Дата                 "</string>

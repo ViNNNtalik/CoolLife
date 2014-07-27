@@ -310,7 +310,7 @@
     <string name="uploading_file_failed">Выгрузка файла не удалась</string>
     <string name="downloading_file_failed">Загрузка файла не удалась</string>
     <string name="update_file_failed">Обновление файла не удалось</string>
-    <string name="not_login_status">Без входа</string>
+    <string name="not_login_status">Нет входа</string>
     <string name="upload_progress_title">Лог бэкапа</string>
     <string name="download_progress_title">Лог восстановления</string>
     <string name="already_download">Загрузка</string>

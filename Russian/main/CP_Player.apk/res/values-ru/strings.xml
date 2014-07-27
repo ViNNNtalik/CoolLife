@@ -170,7 +170,7 @@
     <string name="broken_net">Нет сети</string>
     <string name="actionbar_refresh_operation">Обновить</string>
     <string name="no_content">Нет содержимого</string>
-    <string name="dolby_open_string">Dolby Digital Plus вкл.</string>
+    <string name="dolby_open_string">Dolby Плюс вкл.</string>
     <string name="selected_empty">Нет выбранных песен</string>
     <string name="add_item">"Добавить в "</string>
     <string name="delete_songs_desc">Удалить песни?</string>
@@ -221,11 +221,11 @@
     <string name="setting_sleep_timer_summary">Время отключения</string>
     <string name="setting_sleep_timer_dialog_title">Выбор времени</string>
     <string name="setting_about_title">О приложении</string>
-    <string name="setting_dubi_title">Dolby Digital</string>
-    <string name="setting_dubi_summary">Dolby Digital</string>
+    <string name="setting_dubi_title">Dolby Плюс</string>
+    <string name="setting_dubi_summary">Dolby Плюс</string>
     <string name="confirm">ОК</string>
-    <string name="about_dts">"Dolby Digital Plus: 
-Dolby Digital Plus включает звук стандарта 7.1 и позволяет воспроизводить великолепный, реалистический звук "</string>
+    <string name="about_dts">"Dolby Плюс: 
+Dolby Плюс включает звук стандарта 7.1 и позволяет воспроизводить великолепный, реалистический звук "</string>
     <string name="delete_toast">Удалить выбранные элементы?</string>
     <string name="auth_fail">Нет доступа к серверу Baidu. Вы можете слушать только локальную музыку</string>
     <string name="isMute">Нельзя воспроизводить звук в этом режиме. Подключите наушники или переключитесь на другой режим</string>

@@ -533,7 +533,7 @@
     <string name="no_available_space">Недостаточно места на внутреннем хранилище</string>
     <string name="menu_sns">Облако</string>
     <string name="sns_title_bar_text">Weibo</string>
-    <string name="tab_group">Группа</string>
+    <string name="tab_group">Группы</string>
     <string name="menu_add_friends">Добавить друзей</string>
     <string name="repost_status_success">Перенаправлено</string>
     <string name="repost_status_failed">Не удалось перенаправить</string>
@@ -808,8 +808,8 @@
     <string name="items" />
     <string name="ok">ОК</string>
     <string name="add">Добавить</string>
-    <string name="spe_num">Экстренный номер</string>
-    <string name="special_num_title">Экстренные номера (7)</string>
+    <string name="spe_num">Специальные номера</string>
+    <string name="special_num_title">Специальные номера</string>
     <string name="no_entry">Нет записей</string>
     <string name="change_account_prompt">Это может привести к потере некоторой информации</string>
     <string name="create_phone_contact">Создать контакт</string>
@@ -1147,7 +1147,7 @@
     <string name="message_not_connect_long">Как ваши дела?</string>
     <string name="label_before_hour">"ч. "</string>
     <string name="label_before_minute">мин.</string>
-    <string name="name_special_number">Экстренный номер</string>
+    <string name="name_special_number">Специальные номера</string>
     <string name="send_mms_error">Не удалось отправить MMS</string>
     <string name="send_email_error">Не удалось отправить эл. письмо</string>
     <string name="message_adding_contacts">Добавление контактов...</string>
@@ -1175,7 +1175,7 @@
     <string name="clear">Очистить</string>
     <string name="choice_sex_default">Неизв.</string>
     <string name="choice_sex_male">Муж.</string>
-    <string name="special_sms_error">Нельзя групповой выоз на экстренный номер</string>
+    <string name="special_sms_error">Нельзя групповой вызов на специальный номер</string>
     <string name="group_sms_empty_error">Группа пустая</string>
     <string name="group_sms_max_error">Максимальное число 500 членов</string>
     <string name="group_save_failed">Не удалось сохранить группу. Попробуйте еще раз</string>

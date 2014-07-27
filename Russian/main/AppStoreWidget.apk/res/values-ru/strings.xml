@@ -41,10 +41,10 @@
     <string name="notification_download_cancel">Отмена загрузки</string>
     <string name="notification_download_error">Ошибка загрузки</string>
     <string name="path_mydownload">/Download</string>
-    <string name="path_mail">/Coolpad/mail</string>
+    <string name="path_mail">/Coolpad/Mail</string>
     <string name="path_music">/Coolpad/Music</string>
-    <string name="path_musicdown">/Coolpad/Download</string>
-    <string name="path_musicshop">/Coolpad/Shop</string>
+    <string name="path_musicdown">/Coolpad/Music</string>
+    <string name="path_musicshop">/Coolpad/Music</string>
     <string name="path_dolphin">/Coolpad/Download</string>
     <string name="netdisk_textview_downloading">Загрузка</string>
     <string name="today">Сегодня</string>

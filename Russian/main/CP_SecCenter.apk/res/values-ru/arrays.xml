@@ -246,18 +246,18 @@
         <item>Пользовательский</item>
     </string-array>
     <string-array name="permission_multioperations">
-        <item>Разрешить всем</item>
-        <item>Уведомлять всем</item>
-        <item>Запретить всем</item>
+        <item>Разрешить все</item>
+        <item>Уведомлять все</item>
+        <item>Запретить все</item>
     </string-array>
     <string-array name="adv_multioperations">
-        <item>Разрешить всем</item>
-        <item>Запретить всем</item>
+        <item>Разрешить все</item>
+        <item>Запретить все</item>
     </string-array>
     <string-array name="adv_multioperations1">
-        <item>Разрешить всем</item>
-        <item>Скрыть все</item>
-        <item>Запретить всем</item>
+        <item>Разрешить все</item>
+        <item>Скрыть вс</item>
+        <item>Запретить все</item>
     </string-array>
     <string-array name="appprotect_prefered_apps">
         <item>com.yulong.android.contacts</item>
@@ -422,7 +422,7 @@
     <string-array name="check_regular">
         <item>Ежедневно</item>
         <item>Еженедельно</item>
-        <item>Без проверки</item>
+        <item>Без проверки по расписанию</item>
     </string-array>
     <string-array name="check_week">
         <item>Понедельник</item>

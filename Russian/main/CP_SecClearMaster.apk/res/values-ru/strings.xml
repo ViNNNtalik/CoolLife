@@ -62,6 +62,8 @@
 
     <string name="ini43_6">Могут быть проблемы в работе Бэкапа</string>
 
+    <string name="ini43_8">Общее социальное приложение, не сможет получать сообщения после завершения</string>
+
     <string name="ini41">QQ-чат</string>
 
 
@@ -1233,7 +1235,7 @@
     <string name="virus_scan">Антивирус</string>
     <string name="ads_block">Блокировка рекламы</string>
     <string name="power_manager">Батарея+</string>
-
+    <string name="text_invisible">123456789</string>
     <string name="cache">Кэш</string>
     <string name="residual_files">Остаточные файлы</string>
     <string name="useless_installation_package">Ненужные APK-файлы</string>
@@ -1525,6 +1527,9 @@
     <string name="dialog_cancel">Отмена</string>
     <string name="welcome_reminder">Добро пожаловать в приложение Напоминания</string>
     <string name="SIM_card">Меню SIM</string>
+
+    <string name="today_clear">"Сегодня: "</string>
+    <string name="all_clear">"История: "</string>
     <string name="flow_monitor_title">Трафик</string>
     <string name="online_monitor_title">Доступ к сети</string>
     <string name="notify">Уведомление</string>
@@ -1546,8 +1551,8 @@
     <string name="flowmt_set_flow">Задать тарифный план</string>
     <string name="dialog_re_autojust">Изменить команду</string>
     <string name="dialog_auto_check">Калибровка</string>
-    <string name="text_M_unit">M</string>
-    <string name="text_G_unit">G</string>
+
+
     <string name="text_setting">Настройки</string>
     <string name="text_day_unit" />
     <string name="text_flow_setting">Мобильные данные</string>
@@ -1617,7 +1622,7 @@
     <string name="text_sms_unicom_used">"Использовано: "</string>
     <string name="text_sms_unicom_rest">"Свободно: "</string>
     <string name="check_not_match_toast">Если статистика трафика неправильная, ее можно откорректировать на данных оператора</string>
-    <string name="text_flow_unit_b">B</string>
+
     <string name="text_flow_unit_unknown">Неизв.</string>
     <string name="text_flow_notify_title">Тревога использования трафика</string>
     <string name="text_flow_notify_total_1">Потребление превышает месячный лимит (</string>
@@ -1671,7 +1676,7 @@
     <string name="costmoney_smslist_today">Сегодня</string>
     <string name="costmoney_smslist_dayago">дн. назад</string>
     <string name="costmoney_sms_notify_title1">Возможные злонамеренные SMS/MMS</string>
-    <string name="costmoney_sms_notify_title2">Возможные злонамеренные SMS/MMS:</string>
+    <string name="costmoney_sms_notify_title2">Возможные злонамеренные SMS/MMS</string>
     <string name="costmoney_sms_notify_content">Не обработаны</string>
     <string name="costmoney_sms_unit" />
     <string name="query">Проверка</string>
@@ -1711,7 +1716,7 @@
     <string name="umeng_common_start_download_notification">Старт загрузки</string>
     <string name="umeng_common_start_patch_notification">Старт загрузки</string>
     <string name="umeng_common_network_break_alert">Нет соединения</string>
-    <string name="umeng_common_download_failed">Загрука не удалась!</string>
+    <string name="umeng_common_download_failed">Загрузка не удалась!</string>
     <string name="umeng_common_download_finish">Загрузка завершена, нажмите для установки</string>
     <string name="umeng_common_patch_finish">Загрузка патча завершена, нажмите для установки</string>
     <string name="umeng_common_silent_download_finish">Готова новая версия, нажмите для установки</string>
@@ -1722,7 +1727,7 @@
     <string name="UMUpdateContent">Содержание обновления</string>
     <string name="UMUpdateSize">"Размер апдейта: "</string>
     <string name="UMTargetSize">"Заданный размер: "</string>
-    <string name="UMGprsCondition">(Внимание: Нет Wi-Fi)</string>
+    <string name="UMGprsCondition">(Внимание: нет Wi-Fi)</string>
     <string name="UMUpdateNow">Обновить сейчас</string>
     <string name="UMAppUpdate">Приложение обновляется</string>
     <string name="UMNotNow">Не сейчас</string>

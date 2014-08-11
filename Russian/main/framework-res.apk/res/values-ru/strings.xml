@@ -5,7 +5,7 @@
     <string name="copyUrl">Копировать URL</string>
     <string name="cut">Вырезать</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
-    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+
     <string name="emptyPhoneNumber">(Нет номера телефона)</string>
     <string name="httpErrorBadUrl">Не удалось открыть страницу. URL недействителен</string>
     <string name="httpErrorUnsupportedScheme">Протокол не поддерживается</string>
@@ -23,33 +23,33 @@
     <string name="dialog_alert_title">Внимание</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве</string>
     <string name="selectTextMode">Выбрать текст...</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="config_ethernet_iface_regex">eth\\d</string>
-    <string name="config_tether_apndata" />
-    <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
-    <string name="widget_default_package_name" />
-    <string name="widget_default_class_name" />
-    <string name="default_wallpaper_component">@null</string>
-    <string name="config_datause_iface">rmnet0</string>
-    <string name="config_default_dns_server">8.8.8.8</string>
-    <string name="gsm_alphabet_default_charset" />
-    <string name="db_default_journal_mode">PERSIST</string>
-    <string name="db_default_sync_mode">NORMAL</string>
-    <string name="db_wal_sync_mode">FULL</string>
-    <string name="config_useragentprofile_url" />
-    <string name="config_isoImagePath" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="config_ntpServer">ru.pool.ntp.org</string>
-    <string name="config_wimaxServiceJarLocation" />
-    <string name="config_wimaxNativeLibLocation" />
-    <string name="config_wimaxManagerClassname" />
-    <string name="config_wimaxServiceClassname" />
-    <string name="config_wimaxStateTrackerClassname" />
-    <string name="config_dreamsDefaultComponent">com.android.deskclock/com.android.deskclock.Screensaver</string>
+
+
+
+
+
+
     <string name="hour_minute_24" formatted="false">%-k:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
-    <string name="twelve_hour_time_format">h:mm a</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
+
+
     <string name="numeric_date" formatted="false">%d.%m.%Y</string>
     <string name="numeric_date_format">dd.MM.yyyy</string>
     <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
@@ -57,13 +57,13 @@
     <string name="time_of_day" formatted="false">%-k:%M:%S</string>
     <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
     <string name="date_time">%2$s, %1$s</string>
-    <string name="time_date">%1$s, %3$s</string>
+
     <string name="abbrev_month_day_year" formatted="false">%d.%m.%Y</string>
     <string name="month_day" formatted="false">%-e %B</string>
-    <string name="month">%-B</string>
+
     <string name="month_year" formatted="false">%-B %Y</string>
     <string name="abbrev_month_day" formatted="false">%-e %b</string>
-    <string name="abbrev_month">%-b</string>
+
     <string name="abbrev_month_year" formatted="false">%-b %Y</string>
     <string name="time1_time2">%1$s - %2$s</string>
     <string name="date1_date2">%2$s - %5$s</string>
@@ -78,9 +78,9 @@
     <string name="wday1_date1_time1_wday2_date2_time2">%3$s, %1$s, %2$s - %6$s, %4$s, %5$s</string>
     <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
     <string name="date1_time1_date2_time2">%3$s, %2$s - %6$s, %5$s</string>
-    <string name="time_wday_date">%1$s, %2$s, %3$s</string>
-    <string name="wday_date">%2$s, %3$s</string>
-    <string name="time_wday">%1$s, %2$s</string>
+
+
+
     <string name="same_year_md1_md2">%3$s %2$s - %8$s %7$s</string>
     <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s - %6$s, %8$s %7$s</string>
     <string name="same_year_md1_time1_md2_time2">%5$s, %3$s %2$s - %10$s, %8$s %7$s</string>
@@ -97,17 +97,17 @@
     <string name="same_year_mdy1_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
     <string name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s г.</string>
     <string name="same_year_wday1_mdy1_wday2_mdy2">%3$s %2$s - %8$s %7$s %9$s г.</string>
-    <string name="short_format_month">%b</string>
+
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
     <string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
-    <string name="common_name_prefixes" />
-    <string name="common_name_suffixes" />
-    <string name="common_last_name_prefixes" />
-    <string name="common_name_conjunctions" />
-    <string name="default_text_encoding">Latin-1</string>
-    <string name="lock_pattern_view_aspect">square</string>
-    <string name="time_picker_separator">:</string>
+
+
+
+
+
+
+
     <string name="byteShort">б</string>
     <string name="kilobyteShort">Кб</string>
     <string name="megabyteShort">Мб</string>
@@ -115,7 +115,7 @@
     <string name="terabyteShort">Тб</string>
     <string name="petabyteShort">Пб</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
-    <string name="ellipsis">…</string>
+
     <string name="ellipsis_two_dots">...</string>
     <string name="mmiError">Неполадки подключения или неверный код MMI</string>
     <string name="mmiFdnError">Операция возможна только для разрешенных номеров</string>
@@ -133,8 +133,8 @@
     <string name="invalidPuk">Введите PUK-код из 8 или более цифр</string>
     <string name="needPuk">SIM-карта заблокирована с помощью PUK-кода. Для разблокировки введите PUK-код</string>
     <string name="needPuk2">Для разблокировки SIM-карты введите PUK2</string>
-    <string name="imei">IMEI</string>
-    <string name="meid">MEID</string>
+
+
     <string name="ClipMmi">Определение входящего вызова</string>
     <string name="ClirMmi">Определение исходящего вызова</string>
     <string name="CfMmi">Переадресация вызова</string>
@@ -166,11 +166,11 @@
     <string name="serviceClassVoice">Голосовая связь</string>
     <string name="serviceClassData">Данные</string>
     <string name="serviceClassFAX">ФАКС</string>
-    <string name="serviceClassSMS">SMS</string>
+
     <string name="serviceClassDataAsync">Асинхр.</string>
     <string name="serviceClassDataSync">Синхр.</string>
     <string name="serviceClassPacket">Пакет</string>
-    <string name="serviceClassPAD">PAD</string>
+
     <string name="roamingText0">Индикатор роуминга включен</string>
     <string name="roamingText1">Индикатор роуминга отключен</string>
     <string name="roamingText2">Индикатор роуминга мигает</string>
@@ -186,7 +186,7 @@
     <string name="roamingText12">Баннер роуминга выключен</string>
     <string name="roamingTextSearching">Поиск службы</string>
     <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
-    <string name="cfTemplateForwarded">{0}: {1}</string>
+
     <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
     <string name="cfTemplateRegistered">{0}: Не переадресовано</string>
     <string name="cfTemplateRegisteredTime">{0}: Не переадресовано</string>
@@ -254,7 +254,7 @@
     <string name="permgroupdesc_location">Возможность отслеживания Вашего местоположения</string>
     <string name="permgrouplab_network">Сетевой обмен данными</string>
     <string name="permgroupdesc_network">Доступ к различным сетевым функциям</string>
-    <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
+
     <string name="permgroupdesc_bluetoothNetwork">Доступ к устройствам и сетям через Bluetooth</string>
     <string name="permgrouplab_audioSettings">Настройки звука</string>
     <string name="permgroupdesc_audioSettings">Изменение настроек звука</string>
@@ -673,7 +673,7 @@
     <string name="phoneTypeCallback">Обр. вызов</string>
     <string name="phoneTypeCar">В машине</string>
     <string name="phoneTypeCompanyMain">/Офис</string>
-    <string name="phoneTypeIsdn">ISDN</string>
+
     <string name="phoneTypeMain">Основной</string>
     <string name="phoneTypeOtherFax">Доп. факс</string>
     <string name="phoneTypeRadio">Радиотелефон</string>
@@ -682,7 +682,7 @@
     <string name="phoneTypeWorkMobile">Раб. мобильный</string>
     <string name="phoneTypeWorkPager">Раб. пейджер</string>
     <string name="phoneTypeAssistant">Секретарь</string>
-    <string name="phoneTypeMms">MMS</string>
+
     <string name="eventTypeCustom">Пользоват.</string>
     <string name="eventTypeBirthday">День рождения</string>
     <string name="eventTypeAnniversary">Юбилей</string>
@@ -701,15 +701,15 @@
     <string name="imTypeWork">Рабочий</string>
     <string name="imTypeOther">Другой</string>
     <string name="imProtocolCustom">Пользоват.</string>
-    <string name="imProtocolAim">AIM</string>
-    <string name="imProtocolMsn">Windows Live</string>
-    <string name="imProtocolYahoo">Yahoo</string>
-    <string name="imProtocolSkype">Skype</string>
-    <string name="imProtocolQq">QQ</string>
-    <string name="imProtocolGoogleTalk">Google Talk</string>
-    <string name="imProtocolIcq">ICQ</string>
-    <string name="imProtocolJabber">Jabber</string>
-    <string name="imProtocolNetMeeting">NetMeeting</string>
+
+
+
+
+
+
+
+
+
     <string name="orgTypeWork">Работа</string>
     <string name="orgTypeOther">Другое</string>
     <string name="orgTypeCustom">Пользоват.</string>
@@ -755,7 +755,7 @@
     <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
     <string name="lockscreen_plugged_in">Идет зарядка (%d%%)</string>
     <string name="lockscreen_charged">Батарея заряжена</string>
-    <string name="lockscreen_battery_short">%d%%</string>
+
     <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
     <string name="lockscreen_missing_sim_message">SIM-карта не установлена</string>
@@ -828,9 +828,9 @@
     <string name="keyguard_accessibility_password_unlock">Пароль</string>
     <string name="keyguard_accessibility_pattern_area">Область ввода графического ключа</string>
     <string name="keyguard_accessibility_slide_area">Область слайдера</string>
-    <string name="password_keyboard_label_symbol_key">\?123</string>
+
     <string name="password_keyboard_label_alpha_key">АБВ</string>
-    <string name="password_keyboard_label_alt_key">ALT</string>
+
     <string name="granularity_label_character">символ</string>
     <string name="granularity_label_word">слово</string>
     <string name="granularity_label_link">ссылка</string>
@@ -841,10 +841,10 @@
     <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app</string>
     <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
     <string name="factorytest_reboot">Перезагрузка</string>
-    <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-    <string name="web_user_agent_target_content">"Mobile "</string>
+
+
     <string name="js_dialog_title">Подтвердите действие на %s</string>
-    <string name="js_dialog_title_default">JavaScript</string>
+
     <string name="js_dialog_before_unload">"Покинуть эту страницу?
 
 %s
@@ -968,13 +968,13 @@
     <string name="weeks">нед.</string>
     <string name="year">г.</string>
     <string name="years">г.</string>
-    <string name="relative_time">%1$s, %2$s</string>
+
     <string name="noon">полдень</string>
     <string name="Noon">Полдень</string>
     <string name="midnight">полночь</string>
     <string name="Midnight">Полночь</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
+
+
     <string name="replace">Заменить</string>
     <string name="delete">Удалить</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
@@ -1059,7 +1059,7 @@
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" – плохое Интернет-соединение"</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
-    <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
+
     <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен</string>
     <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
@@ -1323,7 +1323,7 @@
     <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_headphones">Наушники</string>
     <string name="default_audio_route_name_dock_speakers">Динамики док-станции</string>
-    <string name="default_media_route_name_hdmi">HDMI</string>
+
     <string name="default_audio_route_category_name">Система</string>
     <string name="bluetooth_a2dp_audio_route_name">Воспроизведение звука через Bluetooth</string>
     <string name="media_route_chooser_grouping_done">Готово</string>
@@ -1440,7 +1440,7 @@
     <string name="closeClipboardSound">Выкл. тон</string>
     <string name="clipBoard">Буфер обмена</string>
     <string name="selectText">Выбор</string>
-    <string name="input_method_shortcut">IME</string>
+
     <string name="SIM_CARD_LOSE_NOTE">Данные контактов на SIM-карте повреждены</string>
     <string name="message">Сообщение</string>
     <string name="enable_gps_message">GPS не включен, нажмите ОК для включения</string>
@@ -1486,32 +1486,32 @@
 ожидайте..."</string>
     <string name="reboot_msg">"Перезагрузка,
 ожидайте..."</string>
-    <string name="china_mobile">China Mobile</string>
-    <string name="china_telecom">China Telecom</string>
-    <string name="china_unicom">China Unicom</string>
-    <string name="kg_no_uim">No UIM Or No Service</string>
-    <string name="password_maxlength">8</string>
-    <string name="password_hint">Login</string>
-    <string name="password_cancel">Clear</string>
-    <string name="fangdao_hint">Please input security password:</string>
-    <string name="password_error">password error</string>
-    <string name="mibao_hint">Please input power password:</string>
-    <string name="pass_check_hint">Password error,leave %d changes</string>
-    <string name="note_wrong_message">Password error,leave %d changes</string>
-    <string name="note_later_message">You have incorrectly input your password three times.Try again in %d seconds.</string>
-    <string name="find_password_text">Find password</string>
-    <string name="keyguard_default_ownerinfo">我心飞翔</string>
-    <string name="battery_health_overheat">battery health is overheat</string>
-    <string name="battery_health_cold">battery health is cold</string>
-    <string name="battery_health_voltage">battery health is voltage</string>
-    <string name="battery_overheat_temperature_area">battery overheat,make sure temperature is 0 to 45 degree.</string>
-    <string name="battery_cold_temperature_area">battery cold,make sure temperature is 0 to 45 degree.</string>
-    <string name="battery_pressure_area">please make sure the pressure is normal</string>
-    <string name="battery_charge_hint">charge hint</string>
-    <string name="yulong_bugreport_message">This will collect information about your current device state, to send to customer server. It will take a little time from starting the bug report until it is ready to be sent; please be patient.</string>
-    <string name="keyguard_month_date">dd.MMM</string>
-    <string name="keyguard_w_day">EEE</string>
-    <string name="keyguard_weather_ctemp">°</string>
+
+
+
+    <string name="kg_no_uim">Нет UIM или нет обслуживания</string>
+
+    <string name="password_hint">Логин</string>
+    <string name="password_cancel">Очистить</string>
+    <string name="fangdao_hint">Введите пароль безопасности</string>
+    <string name="password_error">Ошибка</string>
+    <string name="mibao_hint">Введите пароль на включение</string>
+    <string name="pass_check_hint">Ошибка, соталось %d попыток</string>
+    <string name="note_wrong_message">Ошибка, соталось %d попыток</string>
+    <string name="note_later_message">Вы неправильно ввели пароль 3 раза/ Попробуйте еще раз через %d секунд</string>
+    <string name="find_password_text">Пароль забыт</string>
+    <string name="keyguard_default_ownerinfo">Мое сердце пылает</string>
+    <string name="battery_health_overheat">Батарея перегрета</string>
+    <string name="battery_health_cold">Батарея холодная</string>
+    <string name="battery_health_voltage">Напряжение батареи</string>
+    <string name="battery_overheat_temperature_area">Батарея перегрета. Убедитесь, что температура от 0 до 45 градусов</string>
+    <string name="battery_cold_temperature_area">Батарея холодная. Убедитесь, что температура от 0 до 45 градусов</string>
+    <string name="battery_pressure_area">Убедитесь, что давление в норме</string>
+    <string name="battery_charge_hint">Посдказка</string>
+    <string name="yulong_bugreport_message">Сейчас произойдет сбор информации о состоянии устройства</string>
+
+
+
     <string name="keyguard_sun_unlock_info">Проведите для разблокировки</string>
     <string name="keyguard_sun_unlock_guide_info">Свайп по ярлыку дл запуска приложения</string>
     <string name="speaker_mute_tips">Клавиша \"Без звука\" в положении \"Вкл.\". Пожалуйста, переведите ее в положение \"Выкл.\"</string>

@@ -1907,7 +1907,7 @@
     <string name="remove_device_admin">Деактивировать</string>
     <string name="select_device_admin_msg">Администраторы устройства</string>
     <string name="no_device_admins">Администраторы устройства отсутствуют</string>
-    <string name="add_device_admin_msg">Активировать администратора устройства?</string>
+    <string name="add_device_admin_msg">Активация администратора</string>
     <string name="add_device_admin">Включить</string>
     <string name="device_admin_add_title">Администратор устройства</string>
     <string name="device_admin_warning">Активация администратора устройства позволит приложению %1$s выполнять следующие действия:</string>
@@ -1982,7 +1982,7 @@
     <string name="preference_change_password_title">Изменить пароль</string>
     <string name="header_account_settings">Настройки аккаунта</string>
     <string name="remove_account_label">Удалить аккаунт</string>
-    <string name="header_add_an_account">Добавьте аккаунт</string>
+    <string name="header_add_an_account">Добавление аккаунта</string>
     <string name="finish_button_label">Готово</string>
     <string name="really_remove_account_title">Удалить аккаунт?</string>
     <string name="really_remove_account_message">Удаление этого аккаунта приведет к потере всех связанных с ним сообщений, контактов и других данных, имеющихся в телефоне</string>

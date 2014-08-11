@@ -237,7 +237,7 @@
     <string name="download_again">Загрузить заново</string>
     <string name="delete_task">Удалить задание</string>
     <string name="download_operate">Загрузки</string>
-    <string name="download">Скачка</string>
+    <string name="download">"Загрузка "</string>
     <string name="downloading">Загрузка</string>
     <string name="downloaded">Скачено</string>
     <string name="download_pending">Ожидание загрузки</string>
@@ -329,7 +329,7 @@
     <string name="set_allwallpaper">Задать обои для всего</string>
     <string name="coolshow_share">Поделиться</string>
     <string name="wallpaper_size">Размер</string>
-    <string name="wallpaper_dimen">Размеры</string>
+    <string name="wallpaper_dimen">Разм.</string>
     <string name="net_exception">Ограничение сети</string>
     <string name="wallpaper_connecting">Соединение...</string>
     <string name="wallpaper_downloading">Загрузка...</string>

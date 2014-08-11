@@ -399,7 +399,7 @@
     <string name="move_title">Переместить</string>
     <string name="move_copy_fail">Ошибка</string>
     <string name="folder_name_not_criterion">Название альбома должно соответствовать тем же требованиям, что и название папки</string>
-    <string name="paste_title">Вставить</string>
+    <string name="paste_title">Вставка</string>
     <string name="cancel_paste_title">Отмена</string>
     <string name="move_picture">Переместить в</string>
     <string name="copy_picture">Копировать в</string>

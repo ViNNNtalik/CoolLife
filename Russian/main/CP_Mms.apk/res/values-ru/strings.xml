@@ -144,7 +144,7 @@
 
 
     <string name="menu_delete_all_msg">Удалить все</string>
-    <string name="sure_to_set_all_readed">Установить как прочитанное?</string>
+    <string name="sure_to_set_all_readed">Задать как прочитанное?</string>
     <string name="recipient_count">Получатели</string>
     <string name="compose_message_panel_mycard">Моя визитка</string>
     <string name="compose_message_panel_blessing_sms">Пожелания</string>
@@ -156,7 +156,7 @@
     <string name="title_notice_prompt">Уведомления</string>
     <string name="title_auto_sign_setting">Настройки подписи</string>
     <string name="title_auto_reply_setting">Настройки автоответчика</string>
-    <string name="title_auto_save_setting">Автосохранение настроек</string>
+    <string name="title_auto_save_setting">Настройки автосохранения</string>
     <string name="title_monthly_statistics">Месячная статистика</string>
     <string name="title_sent_message">Отправлено</string>
     <string name="title_monthly_sent">Отправлено за месяц</string>
@@ -170,8 +170,8 @@
 Продолжить?</string>
     <string name="select_forward_sms">Выбрать сообщения</string>
     <string name="can_not_support_batch_forward_mms">Групповая пересылка MMS не поддерживается. Выберите как SMS</string>
-    <string name="s_menu_batch_set_readed">Установить как прочитанное</string>
-    <string name="batch_set_readed_isno">Установить как прочитанное?</string>
+    <string name="s_menu_batch_set_readed">Задать как прочитанное</string>
+    <string name="batch_set_readed_isno">Задать как прочитанное?</string>
     <string name="select_delete_msg">Выбор сообщений</string>
     <string name="select_setread_msg">Выбор сообщений</string>
     <string name="select_move_msg">Выбор сообщений</string>
@@ -648,11 +648,11 @@
     <string name="move">Переместить</string>
     <string name="lock">В избранное</string>
     <string name="unlock">Из избранного</string>
-    <string name="set_as_important">Установить как важное</string>
-    <string name="set_as_unimportant">Установить как обычное</string>
-    <string name="set_as_private">Установить как приватное</string>
-    <string name="set_as_unprivate">Установить как общее</string>
-    <string name="set_all_readed">Установить как прочитанное</string>
+    <string name="set_as_important">Задать как важное</string>
+    <string name="set_as_unimportant">Задать как обычное</string>
+    <string name="set_as_private">Задать как приватное</string>
+    <string name="set_as_unprivate">Задать как общее</string>
+    <string name="set_all_readed">Задать как прочитанное</string>
     <string name="copy">Копировать</string>
     <string name="information_types">Класс</string>
     <string name="sort_by">Сортировка</string>
@@ -800,12 +800,12 @@
     <string name="batchDeleteisno">Удалить выбранное?</string>
     <string name="batchLockisno">В избранное?</string>
     <string name="batchUnLockisno">Из избранного?</string>
-    <string name="batchImptisno">Установить как важное?</string>
-    <string name="batchUnImptisno">Установить как обычное?</string>
+    <string name="batchImptisno">Задать как важное?</string>
+    <string name="batchUnImptisno">Задать как обычное?</string>
     <string name="batchFwdisno">Переслать выбранное?</string>
-    <string name="batchPrivateisno">Установить выбранное как приватное?</string>
-    <string name="batchSecretisno">Установить выбранное как секретное?</string>
-    <string name="batchUnPrivateisno">Установить выбранное как общее?</string>
+    <string name="batchPrivateisno">Задать выбранное как приватное?</string>
+    <string name="batchSecretisno">Задать выбранное как секретное?</string>
+    <string name="batchUnPrivateisno">Задать выбранное как общее?</string>
     <string name="new_folder">Создать папку</string>
     <string name="clean_folder">Очистить папку</string>
     <string name="delete_folder">Удалить папку</string>
@@ -1019,7 +1019,7 @@
     <string name="s_menu_intelligentize_clean">Умная очистка</string>
     <string name="s_intelligentize_clean">Удалить</string>
     <string name="s_menu_classify">Класс</string>
-    <string name="s_menu_set_as">Установить как</string>
+    <string name="s_menu_set_as">Задать как</string>
     <string name="s_menu_batch_delmsg">Групповое удаление</string>
     <string name="s_menu_batch_operations">Групповой выбор</string>
     <string name="s_menu_batch_delete">Удалить</string>
@@ -1028,11 +1028,11 @@
     <string name="s_menu_batch_lock">В избранное</string>
     <string name="s_menu_batch_unlock">Из избранного</string>
     <string name="s_menu_batch_forward">Переслать</string>
-    <string name="s_menu_batch_set_important">Установить как важное</string>
-    <string name="s_menu_batch_set_unimportant">Установить как обычное</string>
-    <string name="s_menu_batch_set_private">Установить как приватное</string>
-    <string name="s_menu_batch_set_secret">Установить как секретное</string>
-    <string name="s_menu_batch_set_unprivate">Установить как общее</string>
+    <string name="s_menu_batch_set_important">Задать как важное</string>
+    <string name="s_menu_batch_set_unimportant">Задать как обычное</string>
+    <string name="s_menu_batch_set_private">Задать как приватное</string>
+    <string name="s_menu_batch_set_secret">Задать как секретное</string>
+    <string name="s_menu_batch_set_unprivate">Задать как общее</string>
     <string name="s_menu_batch_resend">Групповая переотправка</string>
     <string name="s_menu_record_statue">Статус</string>
     <string name="s_menu_sort_by">Сортировка</string>
@@ -1044,11 +1044,11 @@
     <string name="s_menu_move">Переместить</string>
     <string name="s_menu_lock">В избранное</string>
     <string name="s_menu_unlock">Из избранного</string>
-    <string name="s_menu_set_important">Установить как важное</string>
-    <string name="s_menu_set_unimportant">Установить как обычное</string>
-    <string name="s_menu_set_private">Установить как приватное</string>
-    <string name="s_menu_set_secret">Установить как секретное</string>
-    <string name="s_menu_set_unprivate">Установить как общее</string>
+    <string name="s_menu_set_important">Задать как важное</string>
+    <string name="s_menu_set_unimportant">Задать как обычное</string>
+    <string name="s_menu_set_private">Задать как приватное</string>
+    <string name="s_menu_set_secret">Задать как секретное</string>
+    <string name="s_menu_set_unprivate">Задать как общее</string>
     <string name="s_menu_hide_cc">Скрыть копию</string>
     <string name="s_menu_show_cc">Показать копию</string>
     <string name="s_menu_error_reason">"Причина "</string>
@@ -1061,7 +1061,7 @@
     <string name="s_menu_set_textup">Текст вверх</string>
     <string name="s_menu_set_textleft">Текст слева</string>
     <string name="s_menu_set_textright">Текст справа</string>
-    <string name="resend_message">Переотправить повторно</string>
+    <string name="resend_message">Повторно</string>
     <string name="resend_msg">Переотправить сообщение</string>
     <string name="get_message">Скачать</string>
     <string name="edit_message">Редактировать</string>
@@ -1281,7 +1281,7 @@
     <string name="retry_download_mms_notifi">Повторить получение MMS</string>
     <string name="retry_send_mms_notifi">Повторить отправку MMS</string>
     <string name="auto_save_pic">Автосохранение изображений</string>
-    <string name="send_mms_notification">Состояние оправки</string>
+    <string name="send_mms_notification">Состояние отправки</string>
     <string name="save_send_success">Сохранять отправленные</string>
     <string name="save_mms_path">Coolpad/Images/</string>
     <string name="my_data_camera_path">/data/android</string>
@@ -1322,11 +1322,11 @@
     <string name="move_to_c_card">Переместить на SIM1</string>
     <string name="copy_to_g_card">Копировать на SIM2</string>
     <string name="move_to_g_card">Переместить на SIM2</string>
-    <string name="copy_to_1_card">Скопируйте на SIM1</string>
+    <string name="copy_to_1_card">Копировать на SIM1</string>
     <string name="move_to_1_card">Переместить на SIM1</string>
     <string name="copy_to_2_card">Копировать на SIM2</string>
     <string name="move_to_2_card">Переместить на SIM2</string>
-    <string name="copy_to_card">Скопируйте на SIM-карту</string>
+    <string name="copy_to_card">Копировать на SIM-карту</string>
     <string name="move_to_card">Переместить на SIM-карту</string>
     <string name="cmessage_tips">Cool-сообщения</string>
     <string name="cmessage_guide">Добро пожаловать в Cool-сообщения</string>
@@ -1419,10 +1419,10 @@
     <string name="sms_group_clear">Очистить все группы</string>
     <string name="status_lock">Избранное</string>
     <string name="status_private">Приватные</string>
-    <string name="status_import">Важные</string>
+    <string name="status_import">Избранное</string>
     <string name="status_menu_lock">Избранное</string>
     <string name="status_menu_private">Приватные</string>
-    <string name="status_menu_import">Важные</string>
+    <string name="status_menu_import">Избранное</string>
     <string name="lock_cannot_delete">Сообщение можно удалить, если убрать его из избранного</string>
     <string name="service_message_not_found">Срок сообщения истек или не может быть просмотрено</string>
     <string name="delete_lockmsg">Удаление избранного сообщения</string>
@@ -1466,7 +1466,7 @@
     <string name="menu_set_chat_bg_3">Фон №3</string>
     <string name="menu_set_chat_bg_4">Фон №4</string>
     <string name="compose_message_panel_doodle">Граффити</string>
-    <string name="compose_message_receiver_info">%2$s всего, таких как %1$s</string>
+    <string name="compose_message_receiver_info">Всего %2$s: %1$s</string>
     <string name="unite_conversation">Слияние цепочек</string>
     <string name="default_unite_contact">Слияние цепочек  для одного контакта</string>
     <string name="unite_conversation_isno">Слияние цепочек?</string>

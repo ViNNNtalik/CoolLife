@@ -215,7 +215,7 @@
     <string name="qs_label_brightness">Яркость</string>
     <string name="qs_label_bluetooth">Bluetooth</string>
     <string name="qs_label_location">GPS</string>
-    <string name="qs_label_rotation">G-сенсор</string>
+    <string name="qs_label_rotation">Поворот экрана</string>
     <string name="qs_label_scenemode">Профиль аудио</string>
     <string name="qs_label_standard">Общий</string>
     <string name="qs_label_flight">В полете</string>

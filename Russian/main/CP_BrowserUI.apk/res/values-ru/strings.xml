@@ -565,7 +565,7 @@
     <string name="vendor">"Поставщик: "</string>
     <string name="vendor_yulong">Yulong Computer Telecommunication Scientific (Shenzhen) Co., Ltd.</string>
     <string name="browser_name">"Имя: "</string>
-    <string name="ppp">Настройи передачи данных</string>
+    <string name="ppp">Настройки сотовой сети</string>
     <string name="security">Сертификат безопасности</string>
     <string name="security_title">Безопасность</string>
     <string name="ssl_certificate_is_valid">Сертификат действителен</string>

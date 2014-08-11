@@ -23,9 +23,9 @@
     <string name="text_start">Вкл.</string>
     <string name="text_battery_inf">Инф. о батарее</string>
     <string name="text_savemode_setting">Настройка режимов</string>
-    <string name="text_soft_setting">Настройка приложений</string>
+    <string name="text_soft_setting">Настройка приложения</string>
     <string name="text_autostart">Автоматический запуск после загрузки</string>
-    <string name="text_chargeend_soundnotify">Звуковое уведомление после окончания зарядки</string>
+    <string name="text_chargeend_soundnotify">Звуковое уведомление по окончанию зарядки</string>
     <string name="text_battery_status">Базовый уровень</string>
     <string name="text_apppower_place">Приложения</string>
     <string name="text_intelligence_savingpower">Расширенный уровень</string>
@@ -128,8 +128,8 @@
     <string name="toast_savepower">"Батарея+ переключилась в режим Экономия, активировала функцию расширенной экономии и закрыла "</string>
     <string name="toast_longtime">"Батарея+ переключилась в режим Долгожитель и закрыла "</string>
     <string name="toast_longtime_end">" фоновых приложений"</string>
-    <string name="text_mode_savepow_setting">Настроить режим Экономия</string>
-    <string name="text_mode_longtime_setting">Настроить режим Долгожитель</string>
+    <string name="text_mode_savepow_setting">Режим Экономия</string>
+    <string name="text_mode_longtime_setting">Режим Долгожитель</string>
     <string name="text_recover_default_setting">Востановление настроек по умолчанию</string>
     <string name="text_nosupport_setting">не поддерживается</string>
     <string name="text_switchover">Переключение...</string>

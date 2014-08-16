@@ -644,7 +644,7 @@
     <string name="file_import_complete">Импорт завершен</string>
     <string name="file_import_fail">Ошибка импорта</string>
     <string name="file_parse_fail">Не удалось обработать файл</string>
-    <string name="cal_send_to_icool">Отправить через Облако Cool</string>
+    <string name="cal_send_to_icool">Отправить через Облако</string>
     <string name="endTime_too_large">Каждый раз событие длится слишком долго. Сократите его длительность</string>
     <string name="preferences_alerts_vibrateWhen_title">Вибросигнал</string>
     <string name="prefDialogTitle_vibrateWhen">Вибросигнал</string>
@@ -667,7 +667,7 @@
     <string name="set">Задать</string>
     <string name="share">Поделиться</string>
     <string name="bluetooth_share">Bluetooth</string>
-    <string name="coolcloud_share">Облако Cool</string>
+    <string name="coolcloud_share">Облако</string>
     <string name="reminder_on_time">Вовремя</string>
     <string name="preferences_almance_show_title">Показывать альманах</string>
     <string name="preferences_agenda_show_title">Показывать повестку</string>

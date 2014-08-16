@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Клуб Cool</string>
+    <string name="app_name">Клуб Coolpad</string>
     <string name="ok">ОК</string>
     <string name="menu_title">Отчеты об ошибках</string>
     <string name="cancel">Отмена</string>
-    <string name="dialog_title">Добро пожаловать в приложение \"Клуб Cool\"</string>
+    <string name="dialog_title">Добро пожаловать в приложение \"Клуб Coolpad\"</string>
     <string name="network_notice">Приложение потребляет трафик для отправки отчетов об ошибках</string>
     <string name="network_notice_confirm">Да</string>
     <string name="network_notice_offnotice">Не напоминать снова</string>
-    <string name="feedback">Клуб Cool</string>
+    <string name="feedback">Клуб Coolpad</string>
     <string name="resend">Перепослать</string>
     <string name="delete">Удалить</string>
     <string name="copy">Копировать</string>
@@ -58,7 +58,7 @@
     <string name="add_affix">Добавить вложение</string>
     <string name="add">Добавить</string>
     <string name="refer_button">Отсылка</string>
-    <string name="id_for_coolcloud">ID Облако Cool</string>
+    <string name="id_for_coolcloud">ID Облака</string>
     <string name="delete_affix_title">Удалить вложение</string>
     <string name="delete_affix_Message">Удалить это вложение?</string>
     <string name="added_record">Запись</string>
@@ -86,18 +86,18 @@
 
     <string name="bt_raiders">Навыки</string>
     <string name="bt_service">Служба</string>
-    <string name="bt_coolshop">Маркет Cool</string>
-    <string name="bt_coolcloud">Облако Cool</string>
+    <string name="bt_coolshop">Маркет</string>
+    <string name="bt_coolcloud">Облако</string>
     <string name="tip_loading">Загрузка ...</string>
-    <string name="menu_coolwind_login">Вход в Облако Cool</string>
-    <string name="menu_coolpad_shop">Маркет Cool</string>
+    <string name="menu_coolwind_login">Вход в Облако</string>
+    <string name="menu_coolpad_shop">Маркет</string>
     <string name="default_affix_text">Содержание отзыва</string>
     <string name="default_log_text">Лог отправлен</string>
     <string name="toast_send_logcat">Лог отправлен, попробуйте через %d мин.</string>
     <string name="dialog_send_logcat">Заметка: Произойдет сбор текущей информации о состоянии устройства для отправки Coolpad</string>
     <string name="send_logcat_type">Послать лог</string>
     <string name="stat_reportforms">Формы отчета</string>
-    <string name="launch_coolcloud">Облако Cool</string>
+    <string name="launch_coolcloud">Облако</string>
     <string name="input_hint">Введите предложение или совет</string>
     <string name="logdescrip_hint">Описания</string>
     <string name="pull_to_refresh">Потяните для обновления</string>

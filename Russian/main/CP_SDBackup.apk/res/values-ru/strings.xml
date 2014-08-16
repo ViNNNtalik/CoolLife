@@ -267,7 +267,7 @@
     <string name="prompt_right">Ваш пароль</string>
     <string name="open_upload">Да</string>
     <string name="close_upload">Нет</string>
-    <string name="upload_cool">Вход в Облако Cool</string>
+    <string name="upload_cool">Вход в Облако</string>
     <string name="menu_help">Помощь</string>
     <string name="backup_to_cloud">Выгрузка файлов</string>
     <string name="sdcard_file_manager">Локальный бэкап</string>
@@ -360,8 +360,8 @@
     <string name="jump_over">Перепрыгнуть</string>
     <string name="yue_tag">Месяц</string>
     <string name="button_backup_dx">Бэкап</string>
-    <string name="message_cloud_doing">Облако Cool синхронизируется, продолжить?</string>
-    <string name="message_cloud_battery_doing">Облако Cool синхронизируется, продолжить?</string>
+    <string name="message_cloud_doing">Облако синхронизируется, продолжить?</string>
+    <string name="message_cloud_battery_doing">Облако синхронизируется, продолжить?</string>
     <string name="security_check_sercit">Введите приватный код</string>
     <string name="clear_memory">Сделать оптимизацию? Скорость восстановления увеличится</string>
     <string name="sdcard_doing_backup">Создание автомат.бэкапа</string>

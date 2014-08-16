@@ -392,7 +392,7 @@
     <string name="netdisk_set_user_info_fail">Ошибка данных пользователся</string>
     <string name="netdisk_net_fail">Ошибка сети</string>
     <string name="netdisk_login_fail">Не удалось войти</string>
-    <string name="netdisk_not_login">Вход в Облако Cool</string>
+    <string name="netdisk_not_login">Вход в Облако</string>
     <string name="netdisk_getpassword_fail">Не  удалось получить пароль</string>
     <string name="netdisk_mms_password">Сброс пароля</string>
     <string name="netdisk_filepath_all">/apps/Coo Cloud</string>
@@ -470,8 +470,8 @@
     <string name="bind_code_1145">Для удаления необходим активный аккаунт</string>
     <string name="bind_code_1146">Неправильное оборудование</string>
     <string name="bind_code_1147">Аккаунт не активен</string>
-    <string name="bind_code_1148">Аккаунт Облака Cool с паролем</string>
-    <string name="bind_code_1149">Аккаунт Облака Cool без пароля</string>
+    <string name="bind_code_1148">Аккаунт Облака с паролем</string>
+    <string name="bind_code_1149">Аккаунт Облака без пароля</string>
     <string name="bind_code_1150">Активированный аккаунт</string>
     <string name="bind_code_1151">Ошибка сети</string>
     <string name="bind_code_1152">Аккаунт не существует  или не пройдена проверка</string>
@@ -617,7 +617,7 @@
     <string name="translated_catelog_normalrecords">Обычные записи</string>
     <string name="translated_catelog_icmrecords">Автоответчик</string>
     <string name="translated_catelog_fmrecords">Записи с радио</string>
-    <string name="translated_catelog_coolshow">Темы Cool</string>
+    <string name="translated_catelog_coolshow">Темы</string>
     <string name="translated_catelog_wallpaper">Обои</string>
     <string name="translated_catelog_memo">Заметки</string>
     <string name="translated_catelog_music">Музыка</string>
@@ -663,6 +663,6 @@
     <string name="menu_item_detail">Детали</string>
     <string name="menu_item_shortcut">Добавить ярлык на дом.экран</string>
     <string name="alart_welcome_title">Добро пожаловать в Проводник Coolpad!</string>
-    <string name="alart_welcome_info">Это приложение может потреблять мобильный трафик для связи с Облаком Cool</string>
+    <string name="alart_welcome_info">Это приложение может потреблять мобильный трафик для связи с Облаком</string>
     <string name="alart_welcome_cb_info">Не показывать снова</string>
 </resources>

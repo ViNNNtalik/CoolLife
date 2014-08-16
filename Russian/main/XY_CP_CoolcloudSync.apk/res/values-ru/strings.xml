@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Облако Cool</string>
+    <string name="app_name">Облако</string>
     <string name="company_name">coolwind Inc.</string>
     <string name="account_label">coolcloud</string>
     <string name="account_type">com.coolwind</string>

@@ -204,7 +204,7 @@
 
 
 
-    <string name="app_name">Темы Cool</string>
+    <string name="app_name">Темы</string>
     <string name="tabtheme_title">Темы</string>
     <string name="tabwallpaper_title">Обои</string>
     <string name="tabeffect_title">Эффекты</string>
@@ -212,7 +212,7 @@
     <string name="tabfont_title">Шрифты</string>
     <string name="tabsetting_title">Настройки</string>
     <string name="tabmore_title">Еще</string>
-    <string name="coolshow_title">Темы Cool</string>
+    <string name="coolshow_title">Темы</string>
     <string name="theme_kernel_code">3</string>
     <string name="language" />
     <string name="coolshow_loading">Загрузка...</string>

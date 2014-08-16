@@ -124,9 +124,9 @@
     <string name="menu_send_as_">Поделиться</string>
     <string name="menu_send_as_email">Эл. почта</string>
     <string name="menu_send_as_sms">SMS/MMS</string>
-    <string name="menu_coolcloud_share">Облако Cool</string>
+    <string name="menu_coolcloud_share">Облако</string>
     <string name="menu_all_share">Показать все</string>
-    <string name="menu_share_via_coolcloud">Облако Cool</string>
+    <string name="menu_share_via_coolcloud">Облако</string>
     <string name="menu_batch_prefix">Пакет</string>
     <string name="menu_set_private">Приватный режим</string>
     <string name="menu_remove_private">Общий режим</string>

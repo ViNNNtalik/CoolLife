@@ -210,7 +210,7 @@
     <string name="setting_normal_set_title">Базовые настройки</string>
     <string name="setting_store_listenning_summary">"Загрузка музыки во время прослушивания "</string>
     <string name="setting_store_listenning_title">Прослушивание и загрузка</string>
-    <string name="setting_login_acount_title">Вход в Облако Cool</string>
+    <string name="setting_login_acount_title">Вход в Облако</string>
     <string name="setting_pause_plugout_summary">Пауза при отключении гарнитуры</string>
     <string name="setting_pause_plugout_title">Умная пауза</string>
     <string name="setting_auto_download_pic_title">Загрузка изображений</string>
@@ -288,14 +288,14 @@ Dolby Плюс включает звук стандарта 7.1 и позвол�
     <string name="song_num_secondary_page">"Количество: "</string>
     <string name="about_album_secondary_page">"Инфр. об альбоме: "</string>
     <string name="check_net_work">Выберите сетевое подключение</string>
-    <string name="nowplaying_panel_null">Музыка Cool - шикарный выбор для Вас</string>
+    <string name="nowplaying_panel_null">Музыка Coolpad - шикарный выбор для Вас</string>
     <string name="version_name">"Версия: "</string>
     <string name="develop_team">Разработчик Coolpad, перевод ViNNNtalik</string>
     <string name="Downloaded">Загружено</string>
     <string name="Downloading">Загружается...</string>
     <string name="detail_language">"Язык: "</string>
     <string name="detail_publish">"Дата релиза: "</string>
-    <string name="about_test_version">Войдите в Облако Cool для контакта с Coolpad Customer Service</string>
+    <string name="about_test_version">Войдите в Облако для контакта с Coolpad Customer Service</string>
     <string name="unknown_radio">Неизвестный источник</string>
     <string name="msg_music_title">Добро пожаловать в Музыку Coolpad</string>
     <string name="msg_function_toast">Приложение потребляет мобильный трафик для обеспечения онлайн прослушивания музыки</string>

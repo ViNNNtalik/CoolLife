@@ -294,7 +294,7 @@
     <string name="security_mobile_checking">Оптимизация устройства</string>
     <string name="security_mobile_checking_information">Оптимизация...</string>
     <string name="security_mobile_checking_start">Начало оптимизации</string>
-    <string name="no_mobile_check_security_low">Оптимизация не проводилась! Безопасность устройства подвергается риску</string>
+    <string name="no_mobile_check_security_low">Проверка не проводилась! Безопасность устройства подвергается риску</string>
     <string name="already_mobile_check_security_high">Устройство в безопасности</string>
     <string name="days_no_mobile_check_security_high"> дн. без оптимизации! Безопасность устройства подвергается риску</string>
     <string name="already_clear">Очищено</string>
@@ -383,8 +383,8 @@
     <string name="risk_items_reminder">Элементы для оптимизации: %1$s</string>
     <string name="text_recommendation">Рекомендовано</string>
     <string name="text_grade" />
-    <string name="text_uninstall_coolcloud">Установите Облако Cool</string>
-    <string name="text_update_coolcloud">Не удается запустить Облако Cool. Обновите его и повторите заново</string>
+    <string name="text_uninstall_coolcloud">Установите Облако Coolpad</string>
+    <string name="text_update_coolcloud">Не удается запустить Облако. Обновите его и повторите заново</string>
     <string name="nfc_locked">Разблокировка NFC</string>
     <string name="uncheck">Без проверки по расписанию</string>
     <string name="unkill_virus">Без проверки</string>
@@ -712,7 +712,7 @@ Bluetooth-монитор включен"</string>
     <string name="text_apn_title">3G</string>
     <string name="text_bat_title">С доступом к передаче данных</string>
     <string name="text_no_card">Нет номера</string>
-    <string name="text_no_cardid">Card information can not be detected correctly, check the card status and try again later</string>
+    <string name="text_no_cardid">Информация о SIM-карте не может быть определена корректно</string>
     <string name="text_no_carrier">Неизв. оператор</string>
     <string name="text_no_carrier_sms_failed">Не удается определить оператора</string>
     <string name="text_query_flow">Проверка использования трафика</string>

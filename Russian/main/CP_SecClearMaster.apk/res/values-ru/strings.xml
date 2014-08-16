@@ -318,101 +318,101 @@
     <string name="ini292">Кэш музыки</string>
     <string name="ini293">Нельзя восстановить после очистки</string>
 
-    <string name="ini295">Облако Cool</string>
+    <string name="ini295">Облако</string>
 
 
     <string name="ini298">История просмотра</string>
 
 
-    <string name="ini301">Облако Cool</string>
+    <string name="ini301">Облако</string>
 
     <string name="ini303">Номера счетов, пароли, информация</string>
 
-    <string name="ini305">Облако Cool</string>
+    <string name="ini305">Облако</string>
 
 
     <string name="ini308">Журнал исключений</string>
 
 
-    <string name="ini311">Облако Cool</string>
+    <string name="ini311">Облако</string>
 
 
     <string name="ini314">Аватары</string>
 
 
-    <string name="ini317">Облако Cool</string>
+    <string name="ini317">Облако</string>
 
 
     <string name="ini320">Картинки</string>
 
 
-    <string name="ini323">Облако Cool</string>
+    <string name="ini323">Облако</string>
 
 
     <string name="ini326">Мультимедийные файлы</string>
     <string name="ini327">Нельзя восстановить после очистки</string>
 
-    <string name="ini329">Облако Cool</string>
+    <string name="ini329">Облако</string>
 
 
     <string name="ini332">Статистика</string>
 
 
-    <string name="ini335">Облако Cool</string>
+    <string name="ini335">Облако</string>
 
 
     <string name="ini338">Временные файлы</string>
 
 
-    <string name="ini341">Облако Cool</string>
+    <string name="ini341">Облако</string>
 
 
     <string name="ini344">Временные файлы</string>
 
 
-    <string name="ini347">Облако Cool</string>
+    <string name="ini347">Облако</string>
 
 
     <string name="ini350">Голосовые сообщения</string>
 
 
-    <string name="ini353">Облако Cool</string>
+    <string name="ini353">Облако</string>
 
 
     <string name="ini356">Календарь</string>
 
 
-    <string name="ini359">Облако Cool</string>
+    <string name="ini359">Облако</string>
 
 
     <string name="ini362">Записи уведомлений</string>
 
 
-    <string name="ini365">Облако Cool</string>
+    <string name="ini365">Облако</string>
 
 
     <string name="ini368">Кэш</string>
 
 
-    <string name="ini371">Облако Cool</string>
+    <string name="ini371">Облако</string>
 
 
     <string name="ini374">Журнал резервного копирования</string>
 
 
-    <string name="ini377">Облако Cool</string>
+    <string name="ini377">Облако</string>
 
 
     <string name="ini380">Журнал работы</string>
 
 
-    <string name="ini383">Облако Cool</string>
+    <string name="ini383">Облако</string>
 
 
     <string name="ini386">Совместные журналы</string>
 
 
-    <string name="ini389">Облако Cool</string>
+    <string name="ini389">Облако</string>
 
 
     <string name="ini392">Журнал синхронизации</string>
@@ -1463,9 +1463,9 @@
     <string name="dialog_copy_failed">Копирование не удалось!</string>
     <string name="dialog_move_success">Перемещено успешно!</string>
     <string name="toast_record_setMode_forbidden">Для папки с аудио установлен запрет для приватных файлов</string>
-    <string name="item_uploadtonetdisk">Загружено в Облако Cool</string>
+    <string name="item_uploadtonetdisk">Загружено в Облако</string>
     <string name="item_movetosafebox">Перемещено в Сейф</string>
-    <string name="netdisk_not_browser_ziprar_file">Облако Cool не поддерживает запакованные файлы, нажмите для просмотра</string>
+    <string name="netdisk_not_browser_ziprar_file">Облако не поддерживает запакованные файлы, нажмите для просмотра</string>
     <string name="dialog_move_failed">Не удалось переместить!</string>
     <string name="app_version_prompt">Версия</string>
     <string name="dialog_alert_title">ПОдсказка</string>
@@ -1487,7 +1487,7 @@
     <string name="translated_catelog_normalrecords">Обычные записи</string>
     <string name="translated_catelog_icmrecords">Записи автответчика</string>
     <string name="translated_catelog_fmrecords">Запись радио</string>
-    <string name="translated_catelog_coolshow">Темы Cool</string>
+    <string name="translated_catelog_coolshow">Темы</string>
     <string name="translated_catelog_wallpaper">Обои</string>
     <string name="translated_catelog_memo">Заметки</string>
     <string name="translated_catelog_music">Музыка</string>

@@ -58,7 +58,7 @@
     <string name="waiting">Ожидание...</string>
     <string name="url_erroe">Ошибка URL-адреса</string>
     <string name="select_all">Все</string>
-    <string name="no_coolwin_mount">Установите Облако Cool</string>
+    <string name="no_coolwin_mount">Установите Облако от Coolpad</string>
     <string name="already_adddownload_list">Загрузка</string>
     <string name="please_insert_sdcard">Недостаточно места на SD-карте</string>
     <string name="please_select_app">Выбор прилож.</string>

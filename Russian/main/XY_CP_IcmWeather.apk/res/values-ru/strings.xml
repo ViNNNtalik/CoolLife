@@ -43,8 +43,8 @@
     <string name="notification_warn_title">Предупреждение о погоде</string>
     <string name="notification_warn_have"></string>
     <string name="notification_warn_message">Ранее предупреждение о погоде</string>
-    <string name="app_name">Погода Cool</string>
-    <string name="apk_name">Погода Cool</string>
+    <string name="app_name">Погода</string>
+    <string name="apk_name">Погода</string>
     <string name="menu_settings">Настройки</string>
     <string name="tag_0">Погода</string>
     <string name="tag_1">Тренд</string>
@@ -88,9 +88,9 @@
 Выберите город вручную"</string>
     <string name="version_info_title">"
 Номер версии: %1$s"</string>
-    <string name="version_info_detail_yl"> "Мы стремимся создать самую красивую погоду в мире. Убедитесь, что Вы прочитали и приняли соглашение о предоставлении услуг приложения \"Погода Cool\"
+    <string name="version_info_detail_yl"> "Мы стремимся создать самую красивую погоду в мире. Убедитесь, что Вы прочитали и приняли соглашение о предоставлении услуг приложения \"Погода\"
 "</string>
-    <string name="version_info_detail_koudai">"Это эксклюзивная версия погоды. Убедитесь, что Вы прочитали и приняли соглашение о предоставлении услуг приложения \"Погода Cool\"
+    <string name="version_info_detail_koudai">"Это эксклюзивная версия погоды. Убедитесь, что Вы прочитали и приняли соглашение о предоставлении услуг приложения \"Погода\"
 "</string>
     <string name="version_info_detail_icoolme">"
        Coolpad создает прекрасные продукты, которые из чувства альтруизма переводит на русский ViNNNtalik
@@ -100,13 +100,13 @@
 "</string>
     <string name="no_response">Заявление</string>
     <string name="no_response_detail">"Пользовательское соглашение
-  1. Погода Cool предоставляет информацию о погоде исключительно для справки пользователя. Поведение пользователя и последствия от его действий исключительно на его совести.
-  2. За проблемы со связью и невозможность обновить данные - не могут быть отнесены на вину Погоды Cool. К этому же относятся форс-мажорные обстоятельства: метеорологические, геологические бедствия, войны, перевороты и политика.
-  3. Погода Cool не отвечает за любые проблемы, возникающие из-за непредсказуемого или неконтролируемого отказа системы и оборудования, потери связи, перебоев в подаче электроэнергии и других неожиданных происшествий.
-  4. Проблемы с передачи данных через Интернет, временное прекращение работы информационных служб пользователя, паузы, задержки, ошибки в данных Погода Cool не несет ответственности.
-  5. Погода Cool не гарантирует точности и полноты информации, не несет ответственности за любые убытки, обусловленные ошибками прогноза.
+  1. Погода от Coolpad предоставляет информацию о погоде исключительно для справки пользователя. Поведение пользователя и последствия от его действий исключительно на его совести.
+  2. За проблемы со связью и невозможность обновить данные - не могут быть отнесены на вину Погоды от Coolpad. К этому же относятся форс-мажорные обстоятельства: метеорологические, геологические бедствия, войны, перевороты и политика.
+  3. Погода от Coolpad не отвечает за любые проблемы, возникающие из-за непредсказуемого или неконтролируемого отказа системы и оборудования, потери связи, перебоев в подаче электроэнергии и других неожиданных происшествий.
+  4. Проблемы с передачи данных через Интернет, временное прекращение работы информационных служб пользователя, паузы, задержки, ошибки в данных Погода от Coolpad не несет ответственности.
+  5. Погода от Coolpad не гарантирует точности и полноты информации, не несет ответственности за любые убытки, обусловленные ошибками прогноза.
   6. Переводчик ViNNNtalik вообще не несет никакой отвественности, а особенно за работу приложения и качество прогноза.
-  7. Окончательное толкование этого заявления на совести Погоды Cool.
+  7. Окончательное толкование этого заявления на совести Погоды от Coolpad.
   8. Если у вас есть замечания и предложения, пожалуйста, обращайтесь в службу технической поддержки 029 -88824132 (Китай)."</string>
     <string name="setting_switch_on">Вкл.</string>
     <string name="setting_switch_off">Выкл.</string>
@@ -128,27 +128,27 @@
     <string name="refresh_data_empty">Нет данных</string>
     <string name="error_toast">Ошибка</string>
     <string name="home_update_release">" обн."</string>
-    <string name="share_message_1">Добро пожаловать в Погоду Cool!</string>
-    <string name="share_message_2">"Погода Cool напоминает: "</string>
+    <string name="share_message_1">Добро пожаловать в Погоду от Coolpad!</string>
+    <string name="share_message_2">"Погода напоминает: "</string>
     <string name="share_message_3">"Сегодня "</string>
     <string name="share_message_4">" погода "</string>
     <string name="share_message_5">" температура "</string>
     <string name="share_message_6">" текущая температура "</string>
     <string name="share_message_7">" качество воздуха "</string>
     <string name="share_message_8">", загрязнение "</string>
-    <string name="share_message_9">Погода Cool</string>
-    <string name="share_pm_message_1">"Погода Cool напоминает Вам: Сегодня "</string>
+    <string name="share_message_9">Погода</string>
+    <string name="share_pm_message_1">"Погода напоминает Вам: Сегодня "</string>
     <string name="share_pm_message_2">" качество воздуха "</string>
     <string name="share_pm_message_3">", загрязнение "</string>
     <string name="share_pm_message_4">Бесплатная загрузка</string>
-    <string name="share_proposal_message_1">"Погода Cool напоминает Вам: Сегодня "</string>
+    <string name="share_proposal_message_1">"Погода напоминает Вам: Сегодня "</string>
     <string name="share_proposal_message_2"></string>
     <string name="share_proposal_message_3">Бесплатная загрузка</string>
-    <string name="share_message_temp">\# Погода Cool напоминает Вам: Сегодня %1$s，%2$s，%3$s，%4$s℃，Тек. %5$s℃</string>
+    <string name="share_message_temp">\# Погода напоминает Вам: Сегодня %1$s，%2$s，%3$s，%4$s℃，Тек. %5$s℃</string>
     <string name="share_message_aqi">Чистота воздуха %1$s, загрязнение %2$s，%3$s</string>
     <string name="share_message_download">Бесплатная загрузка %1$s</string>
-    <string name="share_pm_message">\# Погода Cool напоминает Вам: Сегодня %1$s，%2$s, Чистота воздуха %3$s, загрязнение %4$s。%5$s</string>
-    <string name="share_proposal_message">\# Погода Cool напоминает Вам: Сегодня  %1$s，%2$s%3$s как %4$s，%5$s</string>
+    <string name="share_pm_message">\# Погода напоминает Вам: Сегодня %1$s，%2$s, Чистота воздуха %3$s, загрязнение %4$s。%5$s</string>
+    <string name="share_proposal_message">\# Погода напоминает Вам: Сегодня  %1$s，%2$s%3$s как %4$s，%5$s</string>
     <string name="setting_version_new">У Вас самая последняя версия!</string>
     <string name="not_del_dft">Местоположение по умолчанию не может быть удалено</string>
     <string name="if_dft">По умолчанию</string>
@@ -162,7 +162,7 @@
     <string name="theme_loading">Загрузка...</string>
     <string name="theme_loading_failed">Не удалось загрузить .Попробовать заново...</string>
     <string name="theme_using">Популярное</string>
-    <string name="tips_content">Наше приложение называется Погода Cool! Спасибо за его использование!</string>
+    <string name="tips_content">Наше приложение называется Погода от Coolpad! Спасибо за его использование!</string>
     <string name="checkbox_tips">Больше не показывать</string>
     <string name="agree">Принято</string>
     <string name="quit">Выход</string>
@@ -174,7 +174,7 @@
     <string name="appwidget_rigo_41">Погода (4x1)</string>
     <string name="appwidget_digree">°</string>
     <string name="air_good">Отличная</string>
-    <string name="weather_auto_update_text">Для обеспечения экономии батареи и трафика в ночное время (с 00:00 до 06:00) и в режиме ожидания приложение \"Погода Cool\" не будет обновляться. В остальное время автоматическое обновление будет происходить в соответствии с заданными параметрами</string>
+    <string name="weather_auto_update_text">Для обеспечения экономии батареи и трафика в ночное время (с 00:00 до 06:00) и в режиме ожидания приложение \"Погода\" не будет обновляться. В остальное время автоматическое обновление будет происходить в соответствии с заданными параметрами</string>
     <string name="widget_alpha_tips">Описание: При выборе прозрачности фоновое изображение не будет видно</string>
     <string name="widget_weather_sun">Ясно</string>
     <string name="widget_weather_pm_normal">Хорошо</string>
@@ -301,7 +301,7 @@
     <string name="weather_update_one_hour">Обновление каждый час</string>
     <string name="weather_update_setting_title">Настройки автообновления</string>
     <string name="weather_update_setting_update">Автоматическое обновление</string>
-    <string name="weather_about_licence_tips">Погода Cool. Пользовательское соглашение</string>
+    <string name="weather_about_licence_tips">Погода от Coolpad. Пользовательское соглашение</string>
     <string name="weather_warn_default_title">22.09 желтое предупреждение</string>
     <string name="weather_warn_default_time">Выдано 27.11 в 06:00</string>
     <string name="weather_warn_default_content">Легкое загрязнение воздуха. Следите за показаниями</string>
@@ -332,7 +332,7 @@
     <string name="weather_recommend_detail_company">"Разработчик: "</string>
     <string name="weather_recommend_detail_time">"Обновление: "</string>
     <string name="weather_recommend_detail_version">"Версия: "</string>
-    <string name="weather_recommend_detail_share">Я пользуюсь отличным приложением Погода Cool!</string>
+    <string name="weather_recommend_detail_share">Я пользуюсь отличным приложением Погода от Coolpad!</string>
     <string name="menu_setting">Настройки</string>
     <string name="menu_history_weather">Архив</string>
     <string name="weather_history_tile_string">Запрос прогноза из архива</string>
@@ -413,7 +413,7 @@
     <string name="weather_reminder_up">Увеличение температуры</string>
     <string name="weather_reminder_down">Понижение температуры</string>
     <string name="weather_reminder_last_tips">degrees, please pay attention to weather changes.</string>
-    <string name="weather_reminder_title_new">"Погода Cool напоминает Вам: "</string>
+    <string name="weather_reminder_title_new">"Погода напоминает Вам: "</string>
     <string name="trend_more_click_text">Для расширенного меню нажмите здесь</string>
     <string name="widget_loading_tips">Загрузка, пожалуйста, подождите...</string>
     <string name="weather_upgrade_new">Проверка версии</string>
@@ -421,7 +421,7 @@
     <string name="weather_upgrade_new_button">Запуск браузера</string>
     <string name="city_setting">Настройки города</string>
     <string name="appwidget24">Двойная погода</string>
-    <string name="appwidget24_4day">Погода Cool</string>
+    <string name="appwidget24_4day">Погода</string>
     <string name="city">Город</string>
     <string name="update_string">Обновление</string>
     <string name="weather_describe">Погода</string>

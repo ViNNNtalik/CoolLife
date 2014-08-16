@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="yulong">YuLong</string>
-    <string name="app_name">Инж.режим Cool</string>
+    <string name="app_name">Инж.режим Coolpad</string>
     <string name="FactoryIndex">Добро пожаловать, нажмите Продолжить</string>
     <string name="ver_info">Версия</string>
     <string name="ver_info_detail">Запрос актуальной информации о текущей версии</string>

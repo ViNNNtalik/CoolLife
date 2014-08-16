@@ -87,7 +87,7 @@
     <string name="menu_add_widget">На дом.экран</string>
     <string name="menu_desktop_edit">Предпросмотр</string>
     <string name="menu_edit">Редактировать</string>
-    <string name="menu_coolshow">Темы Cool</string>
+    <string name="menu_coolshow">Темы</string>
     <string name="menu_hide_app">Спрятать приложения</string>
     <string name="nomorethan">Папка заполнена</string>
     <string name="hide_show">Видимые приложения</string>
@@ -108,8 +108,8 @@
     <string name="search_more">Еще</string>
     <string name="search_hint">Введите ключевые слова</string>
     <string name="no_permission">Это приложение запрещено. Предоставьте права для него при необходимости</string>
-    <string name="locked_edit_yes">Рабочий стол заблокирован. Вы можете войти в Темы Cool и разблокировать его</string>
-    <string name="locked_edit_no">Рабочий стол разблокирован. Вы можете войти в Темы Cool и заблокировать его</string>
+    <string name="locked_edit_yes">Рабочий стол заблокирован. Вы можете войти в Темы и разблокировать его</string>
+    <string name="locked_edit_no">Рабочий стол разблокирован. Вы можете войти в Темы и заблокировать его</string>
     <string name="app_name">Батарея+</string>
     <string name="monday">Понедельник</string>
     <string name="tuesday">Вторник</string>

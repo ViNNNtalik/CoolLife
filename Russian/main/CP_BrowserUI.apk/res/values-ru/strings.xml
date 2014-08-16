@@ -298,7 +298,7 @@
     <string name="go_home">Дом.страница</string>
     <string name="add_new_bookmark">В закладки</string>
     <string name="coolwind_sync">Синхронизация с Облаком</string>
-    <string name="coolwind_login">Вход в Облако Cool</string>
+    <string name="coolwind_login">Вход в Облако</string>
     <string name="coolwind_synchronizing_hint">Синхронизация закладок в фоне</string>
     <string name="coolwind_synchronized_hint">Закладки синхронизованы</string>
     <string name="add_bookmark_short">Добавить</string>

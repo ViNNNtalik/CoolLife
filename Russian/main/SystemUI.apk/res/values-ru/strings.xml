@@ -241,8 +241,8 @@
     <string name="qs_label_switching">Переключение</string>
     <string name="qs_label_turning_on">Открытие</string>
     <string name="qs_label_turning_off">Закрытие</string>
-    <string name="qs_label_blacklist">Черный список</string>
-    <string name="qs_label_blacklist2">Черный список</string>
+    <string name="qs_label_blacklist">Перехватчик</string>
+    <string name="qs_label_blacklist2">Перехватчик</string>
     <string name="qs_label_cbutton">C-клавиша</string>
     <string name="qs_label_nfc">NFC</string>
     <string name="qs_label_mutlwindow">Мультиокно</string>

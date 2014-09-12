@@ -70,11 +70,11 @@
     <string name="cacheclear_rubbish_waited">Кэш к очистке</string>
     <string name="cacheclear_doing_clear">Очистка кэша, ожидайте…</string>
     <string name="cacheclear_hint">%1$d прилож，общий размер кэша %2$s</string>
-    <string name="cacheclear_hint2">Очистите прямо сейчас, освободите место на устройстве</string>
-    <string name="cacheclear_complete_hint">"Очистка завершена. 
+    <string name="cacheclear_hint2">Очистите прямо сейчас, освободите место</string>
+    <string name="cacheclear_complete_hint">"Очистка завершена 
 Очищено %1$s"</string>
     <string name="cacheclear_norubbish">Кэша нет</string>
-    <string name="cacheclear_onekey_clearalert"> Очищено (%1$d)</string>
+    <string name="cacheclear_onekey_clearalert"> Очистка (%1$d)</string>
     <string name="cacheclear_nodata">Нет кэша к очистке</string>
     <string name="sysimprove_title">Ускоритель</string>
     <string name="sysimprove_runningapp_name">Запущенные приложения</string>
@@ -154,8 +154,8 @@
     <string name="less_used_alert_mode_twenty">Более 20 дней без использования</string>
     <string name="less_used_alert_mode_ten">Более 10 дней без использования</string>
     <string name="less_used_alert_mode_five">Более 5 дней без использования</string>
-    <string name="text_apps_over">Режим использования приложения</string>
-    <string name="text_suggest_to_uninstall"> дн. не используется. Рекомендуется деинсталлировать</string>
+    <string name="text_apps_over">" прилож."</string>
+    <string name="text_suggest_to_uninstall">" дн. не используется. Рекомендуется удалить"</string>
     <string name="text_soft_uninstall_alert">Напоминание о деинсталляции</string>
     <string name="umeng_common_action_info_exist">Приложение уже в списке загрузки</string>
     <string name="umeng_common_info_interrupt">Загрузка прервана</string>

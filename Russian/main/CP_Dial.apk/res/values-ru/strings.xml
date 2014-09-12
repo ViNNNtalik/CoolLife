@@ -16,7 +16,7 @@
     <string name="testmode_title">Тестовый режим</string>
     <string name="testmode_text">Тест услуги передачи данных GSM</string>
     <string name="testmode_toast">Выберите основную SIM-карту для подключения к сети</string>
-    <string name="name_unknown">Неизвест.</string>
+    <string name="name_unknown">Неизвестный номер</string>
     <string name="private_number">Приватный номер</string>
     <string name="payphone_number">Количество зарядок</string>
     <string name="can_not_call">IP-вызовы не распространяются на номера с +86 / +</string>
@@ -107,7 +107,7 @@
     <string name="unknown_number_not_call">Нельзя набрать неизвестный номер</string>
     <string name="replace_with">Заменить</string>
     <string name="one_touch_delete">Удалить</string>
-    <string name="unknown_number_not_operate">Неизвестный номер не поддерживается</string>
+    <string name="unknown_number_not_operate">Неизвестные номера не поддерживаются</string>
     <string name="add_contact2">Добавить в Контакты</string>
     <string name="persist_gsm_backdoor_open">Модуль GSM не открыт</string>
     <string name="persist_gsm_backdoor_close">Модуль GSM открыт</string>

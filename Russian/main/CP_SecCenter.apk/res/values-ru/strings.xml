@@ -360,8 +360,8 @@
     <string name="text_notice_mobile_improve">Рекомендовано: Поплавок оптимизации ></string>
     <string name="text_notice_private_space">Рекомендовано: Личный кабинет ></string>
     <string name="text_notice_no_distrub">Рекомендовано: Перехватчик ></string>
-    <string name="text_notice_battery_protect">Совет: обслуживание батареи ></string>
-    <string name="text_notice_not_health_exam">Вы не проверяли устройство больше 7 дней ></string>
+    <string name="text_notice_battery_protect">Совет: Обслуживание батареи ></string>
+    <string name="text_notice_not_health_exam">Устройство не оптимизировалось более 7 дней ></string>
     <string name="text_security_mode_first">1. Защита данных от кражи: контакты, сообщения расписания, журналы вызовы</string>
     <string name="text_security_mode_second">2. Предупреждение расходов из-за действий зловредных приложений</string>
     <string name="text_security_mode_third">3. Защита устройства от прослушки</string>

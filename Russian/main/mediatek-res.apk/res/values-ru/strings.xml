@@ -137,7 +137,7 @@
     <string name="wifi_display_disconnected">Wi-Fi-дисплей отключен</string>
     <string name="wifi_wps_failed_overlap">Другое WPS-подключение обнаружено. Попробуйте заново через пару минут</string>
     <string name="wifi_display_wfd_and_wifi_are_turned_on">Wi-Fi-дисплей и Wi-Fi включены</string>
-    <string name="wifi_display_sound_path_reminder">"Звук не будет проигрываться через Вашу гарнитуру"</string>
+    <string name="wifi_display_sound_path_reminder">Звук не будет проигрываться через Вашу гарнитуру</string>
     <string name="lockscreen_missing_sim_dialog_message">SIM-карта извлечена. Убедитесь, что SIM-карта вставлена правильно</string>
     <string name="VideoView_error_text_invalid_connection">Ошибка соединения. (Ошибка 403)</string>
     <string name="wikiPediaName">Википедия</string>
@@ -314,8 +314,8 @@
     <string name="card_name_tw">\#_撥出</string>
     <string name="card_name_ip_cn">\#_IP拨出</string>
     <string name="card_name_ip_tw">\#_IP撥出</string>
-    <string name="card1_name_en">Card1(#)_Dial</string>
-    <string name="card2_name_en">Card2(#)_Dial</string>
-    <string name="card1_name_ip_en">Card1(#)_IP Dial</string>
-    <string name="card2_name_ip_en">Card2(#)_IP Dial</string>
+    <string name="card1_name_en">SIM1 (#) вызов</string>
+    <string name="card2_name_en">SIM2 (#) вызов</string>
+    <string name="card1_name_ip_en">SIM1 (#) IP-вызов</string>
+    <string name="card2_name_ip_en">SIM2 (#) IP-вызов</string>
 </resources>

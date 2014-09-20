@@ -1,21 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="netdisk_actionbar_navigation_menu_list">
+        <item>Изображения</item>
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Документы</item>
+        <item>Прочее</item>
+    </string-array>
+    <string-array name="netdisk_actionbar_navigation_menu_list_1">
+        <item>Список загрузки</item>
+        <item>Список выгрузки</item>
+    </string-array>
+    <string-array name="netdisk_actionbar_more_menu_list">
+        <item>Сеть</item>
+        <item>Миниатюры</item>
+        <item>Поиск</item>
+        <item>Обновить</item>
+        <item>Новая папка</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="netdisk_character_to_filter_on_make_dir">
+        <item>\\</item>
+        <item>/</item>
+        <item>:</item>
+        <item>*</item>
+        <item>\?</item>
+        <item>\"</item>
+        <item>&lt;</item>
+        <item>></item>
+        <item>|</item>
+    </string-array>
     <string-array name="period_options">
         <item>@string/reminderstring</item>
-        <item>每15分钟</item>
-        <item>每30分钟</item>
-        <item>每1小时</item>
-        <item>每6小时</item>
+        <item> every 15 minutes</item>
+        <item> every 30 minutes</item>
+        <item> every 1 hour</item>
+        <item> every six hours</item>
     </string-array>
     <string-array name="fire_times">
-        <item>半小时</item>
-        <item>1小时</item>
-        <item>6小时</item>
-        <item>1天</item>
+        <item> 1 час</item>
+        <item> 6 час</item>
+        <item> 1 день</item>
     </string-array>
     <string-array name="array_sex">
-        <item>男</item>
-        <item>女</item>
+        <item>М</item>
+        <item>Ж</item>
     </string-array>
     <string-array name="period_options_values">
         <item>0</item>
@@ -25,15 +54,20 @@
         <item>4</item>
     </string-array>
     <string-array name="recover_sms_by_folder">
-        <item>收件箱</item>
-        <item>已发送</item>
+        <item>Входящие</item>
+        <item>Исходящие</item>
+        <item>Черновики</item>
+    </string-array>
+    <string-array name="recover_native_sms_by_folder">
+        <item>Входящие</item>
+        <item>Исходящие</item>
     </string-array>
     <string-array name="recover_calllog_by_folder">
-        <item>全部</item>
-        <item>已接</item>
-        <item>已拨</item>
-        <item>未接</item>
-        <item>暂存</item>
+        <item>Все</item>
+        <item>Входящие</item>
+        <item>Исходящие</item>
+        <item>Пропущенные</item>
+        <item>Временные</item>
     </string-array>
     <string-array name="username_suggestion_suffix_list">
         <item>\@189.cn</item>
@@ -46,13 +80,13 @@
         <item>\@126.com</item>
         <item>\@sohu.com</item>
         <item>\@yulong.com</item>
-        <item>\@yahoo.cn</item>
+        <item>\@rambler.ru</item>
         <item>\@yahoo.com.cn</item>
         <item>\@yeah.net</item>
         <item>\@hotmail.com</item>
         <item>\@gmail.com</item>
-        <item>\@tom.com</item>
-        <item>\@21cn.com</item>
+        <item>\@yandex.rucom</item>
+        <item>\@mail.ru</item>
     </string-array>
     <string-array name="username_suggestion_list">
         <item>139</item>
@@ -63,305 +97,275 @@
         <item>yulong</item>
         <item>hotmail</item>
         <item>gmail</item>
-        <item>tom</item>
-        <item>21cn</item>
+        <item>yandex</item>
+        <item>mail</item>
     </string-array>
     <string-array name="cooperation_setting_list">
-        <item>推荐给好友</item>
-        <item>版本检查</item>
-        <item>帮助</item>
-        <item>关于</item>
+        <item> Tell a friend</item>
+         <item> Version Check</item>
+         <item> Help</item>
+         <item> on</item>
     </string-array>
     <string-array name="cooperation_help_list">
-        <item>酷云业务介绍</item>
-        <item>注意事项</item>
-        <item>常见问题</item>
+        <item> Cool cloud business presentation</item>
+         <item> Notes</item>
+         <item> FAQ</item>
     </string-array>
     <string-array name="cooperation_menu_list">
-        <item>云账户</item>
-        <item>好友搜索</item>
-        <item>推荐给好友</item>
-        <item>反馈</item>
-        <item>关于</item>
+        <item> Cloud account</item>
+         <item> Friends Search</item>
+         <item> Tell a friend</item>
+         <item> Feedback</item>
+         <item> on</item>
     </string-array>
     <string-array name="sync_menu_list">
-        <item>云账户</item>
-        <item>云恢复</item>
-        <item>云端数据管理</item>
-        <item>图片同步设置</item>
-        <item>反馈</item>
-        <item>关于</item>
-        <item>注销</item>
-        <item>同步记录</item>
+        <item> Cloud account</item>
+         <item> Cloud Recovery</item>
+         <item> Cloud Data Management</item>
+         <item> Picture synchronization settings</item>
+         <item> Feedback</item>
+         <item> on</item>
+         <item> Logout</item>
+         <item> Simultaneous recording</item>
     </string-array>
     <string-array name="month_options">
-        <item>正月</item>
-        <item>二月</item>
-        <item>三月</item>
-        <item>四月</item>
-        <item>五月</item>
-        <item>六月</item>
-        <item>七月</item>
-        <item>八月</item>
-        <item>九月</item>
-        <item>十月</item>
-        <item>冬月</item>
-        <item>腊月</item>
+        <item> month</item>
+         <item> February</item>
+         <item> March</item>
+         <item> April</item>
+         <item> May</item>
+         <item> June</item>
+         <item> July</item>
+         <item> August</item>
+         <item> September</item>
+         <item> October</item>
+         <item> winter months</item>
+         <item> twelfth</item>
     </string-array>
     <string-array name="day_options">
-        <item>初一</item>
-        <item>初二</item>
-        <item>初三</item>
-        <item>初四</item>
-        <item>初五</item>
-        <item>初六</item>
-        <item>初七</item>
-        <item>初八</item>
-        <item>初九</item>
-        <item>初十</item>
-        <item>十一</item>
-        <item>十二</item>
-        <item>十三</item>
-        <item>十四</item>
-        <item>十五</item>
-        <item>十六</item>
-        <item>十七</item>
-        <item>十八</item>
-        <item>十九</item>
-        <item>二十</item>
-        <item>廿一</item>
-        <item>廿二</item>
-        <item>廿三</item>
-        <item>廿四</item>
-        <item>廿五</item>
-        <item>廿六</item>
-        <item>廿七</item>
-        <item>廿八</item>
-        <item>廿九</item>
-        <item>三十</item>
+        <item> started</item>
+         <item> two days</item>
+         <item> junior</item>
+         <item> fourth day</item>
+         <item> fifth day</item>
+         <item> sixth</item>
+         <item> seventh</item>
+         <item> Chuba</item>
+         <item> Ninth</item>
+         <item> tenth</item>
+         <item> eleven</item>
+         <item> twelve</item>
+         <item> thirteen</item>
+         <item> fourteen</item>
+         <item> fifteen</item>
+         <item> sixteen</item>
+         <item> seventeen</item>
+         <item> eighteen</item>
+         <item> nineteen</item>
+         <item> twenty</item>
+         <item> twenty</item>
+         <item> Nianer</item>
+         <item> Niansan</item>
+         <item> round-</item>
+         <item> twenty-five</item>
+         <item> 26</item>
+         <item> 27</item>
+         <item> Nianba</item>
+         <item> Eve</item>
+         <item> thirty</item>
     </string-array>
     <string-array name="shuttle_point">
-        <item>一天之前</item>
-        <item>一周之前</item>
-        <item>两周之前</item>
-        <item>一月之前</item>
+        <item> day before</item>
+         <item> week before</item>
+         <item> two weeks ago</item>
+         <item> before January</item>
     </string-array>
     <string-array name="qq_emoticon">
-        <item>微笑</item>
-        <item>撇嘴</item>
-        <item>色</item>
-        <item>发呆</item>
-        <item>得意</item>
-        <item>流泪</item>
-        <item>害羞</item>
-        <item>闭嘴</item>
-        <item>睡</item>
-        <item>大哭</item>
-        <item>尴尬</item>
-        <item>发怒</item>
-        <item>调皮</item>
-        <item>呲牙</item>
-        <item>惊讶</item>
-        <item>难过</item>
-        <item>酷</item>
-        <item>冷汗</item>
-        <item>抓狂</item>
-        <item>吐</item>
-        <item>偷笑</item>
-        <item>可爱</item>
-        <item>傲慢</item>
-        <item>饥饿</item>
-        <item>困</item>
-        <item>惊恐</item>
-        <item>流汗</item>
-        <item>憨笑</item>
-        <item>大兵</item>
-        <item>奋斗</item>
-        <item>咒骂</item>
-        <item>疑问</item>
-        <item>嘘...</item>
-        <item>晕</item>
-        <item>折磨</item>
-        <item>衰</item>
-        <item>骷髅</item>
-        <item>敲打</item>
-        <item>再见</item>
-        <item>擦汗</item>
-        <item>抠鼻</item>
-        <item>鼓掌</item>
-        <item>糗大了</item>
-        <item>坏笑</item>
-        <item>左哼哼</item>
-        <item>右哼哼</item>
-        <item>哈欠</item>
-        <item>鄙视</item>
-        <item>委屈</item>
-        <item>快哭了</item>
-        <item>阴险</item>
-        <item>亲亲</item>
-        <item>吓</item>
-        <item>可怜</item>
-        <item>菜刀</item>
-        <item>西瓜</item>
-        <item>啤酒</item>
-        <item>篮球</item>
-        <item>乒乓</item>
-        <item>咖啡</item>
-        <item>饭</item>
-        <item>猪头</item>
-        <item>玫瑰</item>
-        <item>凋谢</item>
-        <item>示爱</item>
-        <item>爱心</item>
-        <item>心碎</item>
-        <item>蛋糕</item>
-        <item>闪电</item>
-        <item>炸弹</item>
-        <item>刀</item>
-        <item>足球</item>
-        <item>瓢虫</item>
-        <item>便便</item>
-        <item>月亮</item>
-        <item>太阳</item>
-        <item>礼物</item>
-        <item>拥抱</item>
-        <item>强</item>
-        <item>弱</item>
-        <item>握手</item>
-        <item>胜利</item>
-        <item>抱拳</item>
-        <item>勾引</item>
-        <item>拳头</item>
-        <item>差劲</item>
-        <item>爱你</item>
-        <item>不</item>
-        <item>好</item>
+        <item> smile</item>
+         <item> curl one s lip</item>
+         <item> color</item>
+         <item> daze</item>
+         <item> proud</item>
+         <item> cry</item>
+         <item> shy</item>
+         <item> Shut</item>
+         <item> sleep</item>
+         <item> cry</item>
+         <item> embarrassment</item>
+         <item> angry</item>
+         <item> naughty</item>
+         <item> bared teeth</item>
+         <item> surprised</item>
+         <item> sad</item>
+         <item> Cool</item>
+         <item> sweat</item>
+         <item> crazy</item>
+         <item> spit</item>
+         <item> laughing</item>
+         <item> cute</item>
+         <item> Pride</item>
+         <item> Hunger</item>
+         <item> sleepy</item>
+         <item> Panic</item>
+         <item> sweat</item>
+         <item> Han Xiao</item>
+         <item> Private</item>
+         <item> struggling</item>
+         <item> cursing</item>
+         <item> question</item>
+         <item> Hush ...</item>
+         <item> Halo</item>
+         <item> tortured</item>
+         <item> Decline</item>
+         <item> Skull</item>
+         <item> tap</item>
+         <item> Goodbye</item>
+         <item> Cahan</item>
+         <item> to pull the nose</item>
+         <item> applaud</item>
+         <item> embarrassing big</item>
+         <item> grin</item>
+         <item> Left hum</item>
+         <item> Right hum</item>
+         <item> yawn</item>
+         <item> despise</item>
+         <item> wronged</item>
+         <item> gonna cry</item>
+         <item> insidious</item>
+         <item> kiss</item>
+         <item> scare</item>
+         <item> Poor</item>
+         <item> choppers</item>
+         <item> Watermelon</item>
+         <item> Beer</item>
+         <item> Basketball</item>
+         <item> Ping Pong</item>
+         <item> Coffee</item>
+         <item> rice</item>
+         <item> dude</item>
+         <item> Rose</item>
+         <item> wither</item>
+         <item> affection</item>
+         <item> Love</item>
+         <item> heartbreak</item>
+         <item> Cake</item>
+         <item> Lightning</item>
+         <item> bomb</item>
+         <item> Knife</item>
+         <item> Football</item>
+         <item> Ladybug</item>
+         <item> poo</item>
+         <item> Moon</item>
+         <item> Sun</item>
+         <item> Gifts</item>
+         <item> hug</item>
+         <item> Strong</item>
+         <item> Weak</item>
+         <item> handshake</item>
+         <item> Victory</item>
+         <item> Baoquan</item>
+         <item> seduce</item>
+         <item> fist</item>
+         <item> bad</item>
+         <item> love you</item>
+         <item> not</item>
+         <item> good</item>
     </string-array>
     <string-array name="cooperation_sys_arr">
-        <item>允许推荐共同好友</item>
-        <item>允许搜索我</item>
-        <item>允许搜索我建的组</item>
+        <item> Allow recommend mutual friend</item>
+         <item> allows you to search me</item>
+         <item> Allow me to build a set of search</item>
     </string-array>
     <string-array name="coolyou_picture_array">
-        <item>拍照</item>
-        <item>相册</item>
+        <item> pictures</item>
+         <item> Album</item>
     </string-array>
     <string-array name="coolyou_problem_array">
-        <item>酷云同步、备份的数据怎么查看？</item>
-        <item>酷云会消耗很多流量吗？</item>
-        <item>误删除数据怎么找回？</item>
-        <item>换手机或手机丢失时，如何将手机中的数据找回？</item>
-        <item>为什么提示权限问题？</item>
-        <item>联系人重复怎么办？</item>
-        <item>忘记酷云密码怎么办？</item>
-        <item>一台手机可以注册几个账号？</item>
-        <item>怎样更新下载酷云？</item>
-        <item>酷云热线是多少？</item>
+        <item> Cool cloud synchronization, data backup how to view?</item>
+         <item> Cool cloud will consume a lot of traffic?</item>
+         <item> how to recover accidentally deleted data?</item>
+         <item> for mobile phone or cell phone is lost, how the data in the phone back?</item>
+         <item> Why prompted permissions problem?</item>
+         <item> duplicate contacts how to do?</item>
+         <item> forgot how to do cool cloud password?</item>
+         <item> a mobile phone can register several accounts?</item>
+         <item> How to update Download cool cloud?</item>
+         <item> Cool cloud hotline number?</item>
     </string-array>
     <string-array name="coolyou_problem_answer_array">
-        <item>答：使用注册的酷云账户登录网页版www.coolyun.com,可轻松管理、查看您的数据。我们还推出了酷云手机网页版，地址：m.coolyun.com,使用十分方便。</item>
-        <item>答：酷云同步只会同步变化的数据，经过压缩后，同步100条联系人只消耗5K流量。</item>
-        <item>答：为了避免用户误操作删除数据，网页版提供了回收站功能。您可以电脑登录www.coolyun.com，使用各模块的回收站功能，还原误删除的数据。</item>
-        <item>答：您只需在新手机上登录已注册的酷云账户，酷云会将您云端的联系人、日历、记事本等数据同步到您的新手机上，信息和通话记录只要选择恢复就可以将已备份的数据恢复到手机上。</item>
-        <item>"答：出现权限提示原因如下：
-一、手机权限设置有误
- \u0009\u00091.由安全类软件引起。请检查手机中是否安全了安全类软件，若有：
- \u0009\u0009云安全：在数据保护中找到酷云，选择信任；
- \u0009\u0009酷管家：请按路径数据保护-联系人/通话记录/短信/日程/位置权限中找到酷云，设置允许；
- \u0009\u0009360手机卫士：请按路径安全工具-隐私行为监控-所有软件找到酷云，设置信任；
- \u0009\u0009 腾讯手机管家：请按路径隐私保护-隐私监控-信任软件”找到酷云，设置信任；
-\u0009\u0009其他安全类软件：请开启酷云读取联系人、日历、信息、通话记录、位置的权限；
-\u0009\u00092.由系统自身的权限引起。
-\u0009\u0009MIUI系统，请按路径系统设置-应用中找到酷云，在权限管理中设置我信任该程序； 
-二、手机适配问题
-\u0009\u0009请拨打酷云热线：029-88824132，将问题与机型反馈给客服，我们将尽快处理。"</item>
-        <item>答：你可以电脑登录www.coolyun.com，在联系人模块中使用联系人去重功能，对联系人进行整理。</item>
-        <item>答：您可以在手机端酷云登录界面点击忘记密码，输入你注册的邮箱或手机号，重置密码链接就会发到相应的邮箱或手机上，点击链接即可重置密码。</item>
-        <item>答: 一台手机最多可以注册5个不同的酷云账号，请您谨慎注册！</item>
-        <item>答：我们会将最新的酷云版本放在m.coolyun.com,您使用手机与电脑都可以进行下载安装，也可以通过coolmart下载最新酷云版本。</item>
-        <item>答：酷云热线：029-88824132，欢迎您随时来电咨询、反馈哦！</item>
+        <item> A: Use cool cloud account login registration web version www.coolyun.com, can easily manage, view your data. We have also launched a mobile web version of the cool cloud, address: m.coolyun.com, easy to use.</item>
+         <item> A: Cool Cloud Sync will synchronize changed data, after compression, synchronization 100 contacts only consume 5K traffic.</item>
+         <item> A: In order to avoid misuse delete user data, Web Edition provides a Recycle Bin feature. You can log on the computer www.coolyun.com, use the Recycle Bin function of each module to restore accidentally deleted data.</item>
+         <item> A: You need to log in on the new phones registered cool cloud account, you ll be cool cloud cloud of contacts, calendar, notepad and other data sync to your new phone, just select the information and call records data Recovery can restore the backed-up to the phone.</item>
+         <item> "A: prompt appears privileges for the following reasons:
+A mobile phone permissions set incorrectly
+  \ u0009 \ u00091. caused by security software. Please check whether your phone safe security software, if any:
+  \ u0009 \ u0009 Cloud Security: Find cool cloud data protection, select the Trust;
+  \ u0009 \ u0009 Cool Butler: Press path data protection - contact / call log / SMS / calendar / location permissions find cool cloud, setting allows;
+  \ u0009 \ u0009360 mobile guards: press Path Security Tools - Privacy Behavior Monitoring - All software find cool cloud, set up trust;
+  \ u0009 \ u0009 Tencent Mobile housekeeper: Press path Privacy - Privacy Monitor - Trust Software "find cool clouds, set up the trust;
+\ u0009 \ u0009 other security software: Please read cool cloud open contacts, calendar, messages, call records, authority position;
+\ u0009 \ u00092. caused by the system itself permissions.
+\ u0009 \ u0009MIUI system, press the path system settings - find cool cloud applications, settings I trust the program rights management;
+Second, the phone adapter problem
+\ u0009 \ u0009 please call the cool cloud hotline: 029-88824132, the problem with the model back to the customer, we will process as soon as possible. "</item>
+         <item> A: You can log on the computer www.coolyun.com, using the contact in the Contacts module to re-function, organize contacts.</item>
+         <item> A: You can login screen mobile terminal cool cloud click forget your password, enter your registered e-mail or phone number, a link to reset your password will be sent to the appropriate mailbox or phone, click the link to reset your password.</item>
+         <item> A: a mobile phone can register up to five different cool cloud account, please register with caution!</item>
+         <item> A: We will put the latest version of the cool cloud m.coolyun.com, you can use the phone and computer to download and install, you can also download the latest cool coolmart cloud version.</item>
+         <item> A: Cool Cloud hotline: 029-88824132, please feel free to inquire, feedback oh!</item>
     </string-array>
     <string-array name="array_browse_mode">
-        <item>小图模式</item>
-        <item>大图模式</item>
+        <item> thumbnail mode</item>
+         <item> Big Picture mode</item>
     </string-array>
     <string-array name="array_status_mode">
-        <item>未开始</item>
-        <item>进行中</item>
-        <item>已完成</item>
-        <item>终止任务</item>
+        <item> Not started</item>
+         <item> Ongoing</item>
+         <item> Completed</item>
+         <item> terminate the task</item>
     </string-array>
     <string-array name="array_status_mode_other">
-        <item>未开始</item>
-        <item>进行中</item>
-        <item>已完成</item>
+        <item> Not started</item>
+         <item> Ongoing</item>
+         <item> Completed</item>
     </string-array>
     <string-array name="message_warning_setting">
-        <item>只提示与我相关</item>
-        <item>提示所有</item>
-        <item>屏蔽信息通知</item>
+        <item> prompt and I only relevant</item>
+         <item> prompt all</item>
+         <item> Shielding information notification</item>
     </string-array>
     <string-array name="group_detail_icon_choice_item">
-        <item>查看群组高清头像</item>
-        <item>设置群组头像</item>
+        <item> View Group HD picture</item>
+         <item> Set Group avatar</item>
     </string-array>
     <string-array name="cooperation_reply_result">
-        <item>接受</item>
-        <item>可能参加</item>
-        <item>拒绝</item>
+        <item> accept</item>
+         <item> may participate</item>
+         <item> reject</item>
     </string-array>
     <string-array name="cooperation_text_size_mode">
-        <item>标准</item>
-        <item>中</item>
-        <item>大</item>
+        <item> Standard</item>
+         <item> in</item>
+         <item> Large</item>
     </string-array>
     <string-array name="message_report_choice">
-        <item>辱骂</item>
-        <item>色情不和谐</item>
-        <item>垃圾广告</item>
-        <item>其它</item>
+        <item> abusive</item>
+         <item> porn discord</item>
+         <item> spam</item>
+         <item> Other</item>
     </string-array>
     <string-array name="array_user_select_tab">
-        <item>企业成员</item>
-        <item>外部好友</item>
+        <item> corporate members</item>
+         <item> External Friends</item>
     </string-array>
     <string-array name="array_notice_tab">
-        <item>新朋友</item>
-        <item>新群组</item>
+        <item> new friends</item>
+         <item> new group</item>
     </string-array>
     <string-array name="array_task_tab">
-        <item>我发起</item>
-        <item>待办</item>
-        <item>已完成</item>
-    </string-array>
-    <string-array name="netdisk_actionbar_navigation_menu_list">
-        <item>图片</item>
-        <item>音乐</item>
-        <item>视频</item>
-        <item>文档</item>
-        <item>全部文件</item>
-    </string-array>
-    <string-array name="netdisk_actionbar_navigation_menu_list_1">
-        <item>下载列表</item>
-        <item>上传列表</item>
-    </string-array>
-    <string-array name="netdisk_actionbar_more_menu_list">
-        <item>网络设置</item>
-        <item>缩略图</item>
-        <item>搜索</item>
-        <item>刷新</item>
-        <item>新建文件夹</item>
-        <item>设置</item>
-    </string-array>
-    <string-array name="netdisk_character_to_filter_on_make_dir">
-        <item>\\</item>
-        <item>/</item>
-        <item>:</item>
-        <item>*</item>
-        <item>\?</item>
-        <item>\"</item>
-        <item>&lt;</item>
-        <item>></item>
-        <item>|</item>
+        <item> I launched</item>
+         <item> Upcoming</item>
+         <item> Completed</item>
     </string-array>
 </resources>

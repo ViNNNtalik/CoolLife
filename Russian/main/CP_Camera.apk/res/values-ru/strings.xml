@@ -498,6 +498,7 @@
     <string name="pref_camera_capturemode_entry_picfocus">Pic-Фокус</string>
     <string name="pref_camera_capturemode_entry_refocus">Re-Фокус</string>
     <string name="pref_camera_capturemode_entry_piczoom">Pic-Зум</string>
+    <string name="pref_camera_capturemode_entry_freecapture">Свободная съемка</string>
 
     <string name="pref_camera_scenemode_title">Режим съемки</string>
     <string name="pref_camera_scenemode_dialogtitle">Режим съемки</string>
@@ -608,13 +609,13 @@
 
     <string name="pref_camera_shutter_sound_entry_off">Выкл.</string>
     <string name="pref_camera_shutter_sound_entry_on">Вкл.</string>
-    <string name="pref_camera_storage_path_dialogtitle">Путь сохранения</string>
-    <string name="pref_camera_storage_path_title">Путь сохранения</string>
+    <string name="pref_camera_storage_path_dialogtitle">Место сохранения</string>
+    <string name="pref_camera_storage_path_title">Место сохранения</string>
     <string name="pref_camera_storage_path_default">external</string>
     <string name="pref_camera_storage_path_entry_internal">Внутреннее хранилище</string>
     <string name="pref_camera_storage_path_entry_external">SD-карта</string>
-    <string name="pref_camera_restore_dialogtitle">Восстановление</string>
-    <string name="pref_camera_restore_title">Восстановление</string>
+    <string name="pref_camera_restore_dialogtitle">Настройки по умолчанию</string>
+    <string name="pref_camera_restore_title">Настройки по умолчанию</string>
     <string name="pref_camera_introduction_title">Вступление</string>
 
     <string name="pref_camera_restore_entry_off">Выкл.</string>
@@ -644,8 +645,10 @@
     <string name="pref_camera_picturesize_entry_640x480">VGA</string>
     <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
     <string name="pref_camera_picturesize_entry_176x144">QCIF</string>
+    <string name="pref_camera_picturesize_entry_1600W">16 МП</string>
+    <string name="pref_camera_picturesize_entry_1500W">15 МП</string>
     <string name="pref_camera_picturesize_entry_1300W">13 МП</string>
-    <string name="pref_camera_picturesize_entry_1200W">13 МП</string>
+    <string name="pref_camera_picturesize_entry_1200W">12 МП</string>
     <string name="pref_camera_picturesize_entry_1000W">10 МП</string>
     <string name="pref_camera_picturesize_entry_800W">8 МП</string>
     <string name="pref_camera_picturesize_entry_600W">6 МП</string>
@@ -658,8 +661,8 @@
     <string name="pref_camera_picturesize_entry_30W">VGA</string>
     <string name="pref_camera_picturesize_entry_8W">QVGA</string>
     <string name="pref_camera_focusmode_title">Режим фокусировки</string>
-    <string name="pref_camera_focusmode_entry_auto">Авто</string>
-    <string name="pref_camera_focusmode_entry_continue">Серия</string>
+    <string name="pref_camera_focusmode_entry_auto">Ручной</string>
+    <string name="pref_camera_focusmode_entry_continue">Авто</string>
     <string name="pref_camera_focusmode_entry_infinity">Бесконечность</string>
     <string name="pref_camera_focusmode_entry_macro">Макро</string>
 
@@ -676,6 +679,7 @@
     <string name="pref_camera_videosize_title">Размер видео</string>
     <string name="pref_camera_videosize_dialogtitle">Размер видео</string>
     <string name="pref_camera_videosize_default">1920x1080</string>
+    <string name="pref_camera_videosize_3840x2176">4K</string>
     <string name="pref_camera_videosize_3840x2160">4K</string>
     <string name="pref_camera_videosize_1920x1080">1080P</string>
     <string name="pref_camera_videosize_1280x720">720P</string>
@@ -801,6 +805,7 @@
     <string name="pic_size_hints">Не оптимальное разрешение</string>
     <string name="audio_image">Аудио к фото</string>
     <string name="audio_record_second">(%1$d/%2$d сек.)</string>
+    <string name="request_audio_focus_fail">Устройство записи занято. Запись невозможна!</string>
     <string name="accessibility_play_video">Проигрывание</string>
     <string name="accessibility_pause_video">Пауза</string>
     <string name="accessibility_reload_video">Перезагрузка</string>
@@ -908,7 +913,7 @@
     <string name="content_about_shutterbutton">Кнопка \"Затвор\"</string>
     <string name="content_about_capturemode">Кнопка \"Режим захвата\"</string>
     <string name="content_about_video_takepicture">Кнопка \"Видео-съемка\"</string>
-    <string name="content_about_stop_video">Кнопка \"Стоп-видео\"</string>
+    <string name="content_about_pause_video">Кнопка \"Пауза-видео\"</string>
     <string name="capturemode_normal">Стандарт</string>
     <string name="capturemode_beautified">Красота</string>
     <string name="capturemode_face">Лицо</string>
@@ -921,6 +926,9 @@
     <string name="capturemode_hdr">HDR</string>
     <string name="capturemode_gif">GIF</string>
     <string name="capturemode_pips">Двойная камера</string>
+    <string name="capturemode_picfocus">Pic-Фокус</string>
+    <string name="capturemode_refocus">Re-Фокус</string>
+    <string name="capturemode_piczoom">Pic-Зум</string>
     <string name="pref_camera_network_remind_title">Напоминание сети</string>
 
     <string name="pref_camera_network_remind_entry_off">Выкл.</string>
@@ -933,7 +941,7 @@
     <string name="show_dialog">Больше не показывать</string>
     <string name="camera_security_hint_title">Добро пожаловать в Камеру  Coolpad</string>
     <string name="not_allow_record">Запись невозможна во время разговора</string>
-    <string name="about">О приложении</string>
+    <string name="about">О приложении (перевод ViNNNtalik)</string>
     <string name="about_title">Камера</string>
     <string name="about_cool_small_title">Камера Coolpad</string>
     <string name="about_cool_title">Камера Coolpad</string>
@@ -950,7 +958,7 @@
     <string name="whiteblance_indicator">Баланс белого</string>
     <string name="iso_indicator">ISO</string>
     <string name="remain_indicator">Сохран.</string>
-    <string name="new_coollife_ui">Новая CoolLife UI5.5</string>
+    <string name="new_coollife_ui">Новая CoolUI 5.5</string>
     <string name="cap_priv_switch_easy">Удобное переключение между захватом и просмотром</string>
     <string name="pip_mode">Картинка в картинке</string>
     <string name="more_mode">Больше режимов</string>
@@ -968,9 +976,29 @@
     <string name="content_about_reserved_right">Кнопка \"Справа\"</string>
     <string name="content_about_slideshow">Кнопка \"Слайдшоу\"</string>
     <string name="support_action_title">Действия поддержки</string>
-    <string name="support_pro_camera">Профессиональная камера</string>
-    <string name="support_continue_shot">Непрерывная съемка</string>
     <string name="support_none">Нет</string>
+    <string name="support_face_detection">Распознавание лиц</string>
+    <string name="support_zsl">ZSL</string>
+    <string name="pref_camera_time_stamp_title">Метка времени</string>
+
+    <string name="pref_camera_time_stamp_entry_off">Выкл.</string>
+    <string name="pref_camera_time_stamp_entry_on">Вкл.</string>
+    <string name="pref_camera_exprosure_time_title">Выдержка</string>
+
+    <string name="pref_camera_exprosure_time_entry_auto">Авто</string>
+    <string name="pref_camera_exprosure_time_entry_1s">1 сек.</string>
+    <string name="pref_camera_exprosure_time_entry_2s">2 сек.</string>
+    <string name="pref_camera_exprosure_time_entry_4s">4 сек.</string>
+    <string name="pref_camera_exprosure_time_entry_8s">8 сек.</string>
+    <string name="pref_camera_exprosure_time_entry_16s">16 сек.</string>
+    <string name="pref_camera_exprosure_time_entry_32s">32 сек.</string>
+    <string name="no_related_arcsoft_app">Не удалось создать миниатюру из-за отсутствия приложения для просмотра даного типа файлов!</string>
+    <string name="one_key_sharing">Связь с семейной галереей...</string>
+    <string name="one_key_sharing_success">Успшно завершено</string>
+    <string name="one_key_sharing_account_error">Ошибка аккаунта семейной галереи</string>
+    <string name="one_key_sharing_fail">Не удалось поделиться</string>
+    <string name="one_key_sharing_not_result">Семейная галерея не отвечает</string>
+    <string name="one_key_sharing_not_connected">Нет сети</string>
     <string name="move_pictures">Переместить фото</string>
     <string name="copy_pictures">Копировать фото</string>
     <string name="pref_exposure_title">Экспозиция</string>
@@ -983,4 +1011,8 @@
     <string name="continuous_saving_pictures">Сохранение %1$d фото</string>
     <string name="voice_guide">Скажите \"%1$s\" или \"%2$s\" для начала съемки</string>
     <string name="album_empty">Пустой альбом</string>
+    <string name="support_pro_camera">Профессиональная камера</string>
+    <string name="support_continue_shot">Непрерывная съемка</string>
+    <string name="capturemode_freecapture">Свободная съемка</string>
+    <string name="content_about_stop_video">Кнопка \"Стоп-видео\"</string>
 </resources>

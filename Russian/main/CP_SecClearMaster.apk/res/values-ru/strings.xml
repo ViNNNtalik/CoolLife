@@ -1209,8 +1209,8 @@
     <string name="text_application_manager">Управление приложениями</string>
     <string name="text_privacy_protect">Защита приватности</string>
     <string name="text_security_center">Центр безопасности</string>
-    <string name="text_welcome_used">Добро пожаловать в приложение \"Дворецкий\"</string>
-    <string name="text_security_setting">Настройки Дворецкого</string>
+    <string name="text_welcome_used">Добро пожаловать</string>
+    <string name="text_security_setting">Настройки</string>
     <string name="text_check_update">Обновления</string>
     <string name="text_user_opinion">Обратная связь</string>
     <string name="text_features">Параметры</string>
@@ -1363,7 +1363,7 @@
     <string name="now_analysting_disk">Ожидайте, пока идет процесс загрузки...</string>
     <string name="uninstall_left_over_size">"Остаточные файлы после деинсталляции приложений: "</string>
     <string name="left_over_location">"Путь к остаточным файлам: "</string>
-    <string name="cool_clean_master">Дворецкий для очистки</string>
+    <string name="cool_clean_master">Помощь в очистке</string>
     <string name="uninstall_left_over_clean_success">Очистка остаточных файлов завершена</string>
     <string name="left_over_of">" остатки"</string>
     <string name="deep_cache_of">Файлы кэша</string>

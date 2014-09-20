@@ -9,7 +9,7 @@
     <string name="pick_wallpaper">Обои</string>
     <string name="activity_not_found">Приложение не установлено</string>
     <string name="widgets_tab_label">Виджеты</string>
-    <string name="long_press_widget_to_add">Нажмите &amp; удержите для выбора виджета</string>
+    <string name="long_press_widget_to_add">Нажмите и удержите для выбора виджета</string>
     <string name="market">Магазин</string>
     <string name="widget_dims_format">%1$d x %2$d</string>
     <string name="external_drop_widget_pick_format">%1$s (%2$d x %3$d)</string>
@@ -40,7 +40,7 @@
     <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_target_label">Удалить</string>
     <string name="delete_target_uninstall_label">Удалить</string>
-    <string name="info_target_label">Добавить на рабочий стол</string>
+    <string name="info_target_label">Добавить на домашний экран</string>
     <string name="accessibility_search_button">Поиск</string>
     <string name="accessibility_voice_search_button">Голосовой поиск</string>
     <string name="accessibility_all_apps_button">Приложения</string>
@@ -88,10 +88,10 @@
     <string name="menu_desktop_edit">Предпросмотр</string>
     <string name="menu_edit">Редактировать</string>
     <string name="menu_coolshow">Темы</string>
-    <string name="menu_hide_app">Спрятать приложения</string>
+    <string name="menu_hide_app">Скрыть приложения</string>
     <string name="nomorethan">Папка заполнена</string>
     <string name="hide_show">Видимые приложения</string>
-    <string name="hide_hide">Спрятанные приложения</string>
+    <string name="hide_hide">Скрытые приложения</string>
     <string name="add_app">Добавляемые приложения</string>
     <string name="haveadd_app">Добавленные приложения</string>
     <string name="haveadd_widget">Не удается добавить виджет</string>
@@ -105,9 +105,12 @@
     <string name="select_app">Выбор приложений</string>
     <string name="local_app">Локальное приложение</string>
     <string name="online_app">Онлайн приложение</string>
+    <string name="lookupview_loading">Загрузка......</string>
+    <string name="lookupview_no_network">"Нет локальных приложений, удовлетворяющих поиску.
+ Интернет-соединение отсутствует для онлайн-поиска"</string>
     <string name="search_more">Еще</string>
     <string name="search_hint">Введите ключевые слова</string>
-    <string name="no_permission">Это приложение запрещено. Предоставьте права для него при необходимости</string>
+    <string name="no_permission">Это приложение доступно, если Вы залогинились как владелец</string>
     <string name="locked_edit_yes">Рабочий стол заблокирован. Вы можете войти в Темы и разблокировать его</string>
     <string name="locked_edit_no">Рабочий стол разблокирован. Вы можете войти в Темы и заблокировать его</string>
     <string name="app_name">Батарея+</string>

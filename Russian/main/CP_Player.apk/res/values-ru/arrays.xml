@@ -188,4 +188,8 @@
         <item>Мелодия SIM1</item>
         <item>Мелодия SIM2</item>
     </string-array>
+    <string-array name="music_downloadpath_index">
+        <item>Внутр.хранилище</item>
+        <item>SD-карта</item>
+    </string-array>
 </resources>

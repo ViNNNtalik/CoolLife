@@ -57,13 +57,13 @@
     <string name="standard_mode_description">Режим для обычных условий использования</string>
     <string name="airplane_mode_description">Устройство включено, но связи нет</string>
     <string name="quiet_mode_description">Устройство в беззвучном режиме</string>
-    <string name="vip_mode_description">Режим \"Не беспокоить\" из приложения Перехватчик</string>
+    <string name="vip_mode_description">Включение приложения Перехватчик</string>
     <string name="meeting_mode_description">Доступна только вибрация устройства</string>
     <string name="outside_mode_description">Устройство может проигрывать мелодии и вибрировать</string>
     <string name="phone_mode_description">Устройство проигрывает только мелодии входящих вызовов</string>
     <string name="saving_mode_description">Действуют ограничения, направленные на экономию заряда батареи</string>
     <string name="demo_mode_description">Режим только для презентаций</string>
-    <string name="anti_disturb_mode_description">Режим \"Не беспокоить\" из приложения Перехватчик</string>
+    <string name="anti_disturb_mode_description">Включение приложения Перехватчик</string>
     <string name="default_ringtone">(по умолчанию)</string>
     <string name="not_support_file">Тип файла не поддерживается</string>
     <string name="mtk_calling_unable_change_mode">Нельзя изменить режим во время разговора</string>

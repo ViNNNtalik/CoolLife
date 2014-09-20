@@ -168,6 +168,7 @@
     <string name="choice_delete">Удаление</string>
     <string name="choice_share">Поделиться</string>
     <string name="broken_net">Нет сети</string>
+    <string name="try_play_local">Попытка воспроизведения локальной музыки для Вас</string>
     <string name="actionbar_refresh_operation">Обновить</string>
     <string name="no_content">Нет содержимого</string>
     <string name="dolby_open_string">Dolby Плюс вкл.</string>
@@ -348,6 +349,14 @@ Dolby Плюс включает звук стандарта 7.1 и позвол�
     <string name="playback_share_notexist_toast">Плейлист искусственно изменен. Нельзя поделиться</string>
     <string name="playback_addto_notexist_toast">Плейлист искусственно изменен. Нельзя добавить в плейлист</string>
     <string name="playback_loved_notexist_toast">Плейлист искусственно изменен. Нельзя добавить в избранное</string>
+    <string name="str_silence_mode">Тихий режим, нельзя настроить громкость!</string>
+    <string name="playservice_tryonline">Попытка воспроизведения онлайн-музыки, ожидайте</string>
+    <string name="playservice_erroronline">Ошибка, нельзя воспроизвести</string>
+
+    <string name="setting_songdownload_path">Папка загрузки музыки</string>
+    <string name="setting_notexist_external">Нет SD-карты, используется внутр.хранилище</string>
+    <string name="music_downloadpath_sizetip">(всего %1$s, своб. %2$s)</string>
+    <string name="playservice_retry_later">Плохое подключение, попробуйте позже</string>
 
 
 

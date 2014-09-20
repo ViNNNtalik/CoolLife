@@ -379,7 +379,7 @@
     <string name="remove">Удалить</string>
     <string name="send">Отправить</string>
     <string name="all_threads">Все переписки</string>
-    <string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
+    <string name="type_to_compose_text_enter_to_send">Текст SMS/MMS</string>
     <string name="open_keyboard_to_compose_message">Открыть клавиатуру для набора</string>
     <string name="image_too_large">Изображение слишком большое</string>
     <string name="ask_for_automatically_resize">Подгонять размер изображения автоматически перед отправкой?</string>
@@ -421,7 +421,7 @@
     <string name="layout_selector_title">"Макет слайдшоу "</string>
     <string name="layout_top">Макет (вверху)</string>
     <string name="layout_bottom">Макет (внизу)</string>
-    <string name="type_to_compose_text_or_leave_blank">Введите сообщение</string>
+    <string name="type_to_compose_text_or_leave_blank">Текст SMS/MMS</string>
     <string name="duration_not_a_number">Должно быть указано числовое значение</string>
     <string name="duration_zero">Значение должно быть больше нуля</string>
     <string name="secs">сек.</string>
@@ -1427,7 +1427,7 @@
     <string name="service_message_not_found">Срок сообщения истек или не может быть просмотрено</string>
     <string name="delete_lockmsg">Удаление избранного сообщения</string>
     <string name="Text_Over_MaxLength">Слишком длинный тест темы</string>
-    <string name="compose_content_hint">Отправить SMS/MMS</string>
+    <string name="compose_content_hint">Текст SMS/MMS</string>
     <string name="compose_contact_hint">Введите получателя</string>
     <string name="too_much_sms_data">Количество сообщений превышено</string>
     <string name="no_message_center">Не обнаружено центра сообщений</string>

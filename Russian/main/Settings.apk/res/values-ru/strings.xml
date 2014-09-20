@@ -2350,8 +2350,8 @@
     <string name="flashlight_longpress_time_setting_summary">Значение по умолчанию \u0009</string>
     <string name="procalibrate_title">ПроКалибровка</string>
     <string name="procalibrate_summary">Убедитесь, что участок устройства с сенсорами очищен и не закрыт защитной пленкой</string>
-    <string name="Calibrate_well">ПроКалибровано хорошо</string>
-    <string name="Calibrate_inferior">ПроКалибровано похо</string>
+    <string name="Calibrate_well">Успешно проКалибровано</string>
+    <string name="Calibrate_inferior">ПроКалибровано плохо</string>
     <string name="Calibrate_fail">ПроКалибровка не удалась</string>
     <string name="app_name">Настройки</string>
     <string name="no_prompt">Без подтверждения</string>
